@@ -1,0 +1,17 @@
+<templateSet group="java_exceptions">
+  <template name="throw" value="throw new $EXCEPTION$(&quot;$MESSAGE$&quot;);" description="throw exception" toReformat="false" toShortenFQNames="true">
+    <variable name="EXCEPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="try" value="try {&#10;    $TRY$&#10;} catch ($EXCEPTION$ exception) {&#10;    $CATCH$&#10;}" description="try/catch statement" toReformat="false" toShortenFQNames="true">
+    <variable name="TRY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXCEPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CATCH" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,103 @@
+<templateSet group="java_control_flow">
+  <template name="if" value="if ($CONDITION$) {&#10;    $END$&#10;}" description="if statement" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="ife" value="if ($CONDITION$) {&#10;    $IF$&#10;} else {&#10;    $ELSE$&#10;}" description="if else statement" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="IF" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ELSE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="while" value="while ($CONDITION$) {&#10;    $END$&#10;}" description="while statement" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="for" value="for (int $VARIABLE$ = 0; $VARIABLE$ &lt; $LIMIT$; $VARIABLE$++) {&#10;    $END$&#10;}" description="for statement" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE" expression="" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
+    <variable name="LIMIT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="fore" value="for ($TYPE$ $ITEM$ : $COLLECTION$) {&#10;    $END$&#10;}" description="for each statement" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="switch" value="switch ($CONDITION$) {&#10;    $END$&#10;}" description="switch statement" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="casef" value="case $VALUE$:&#10;    $END$" description="case statement with fall-through" toReformat="false" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="case" value="case $VALUE$:&#10;    $END$&#10;    break;" description="case statement" toReformat="false" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="==" value="$EXPRESSION1$ == $EXPRESSION2$" description="double equals check" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPRESSION2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="!=" value="$EXPRESSION1$ != $EXPRESSION2$" description="negative double equals check" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPRESSION2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="eq" value="$EXPRESSION1$.equals($EXPRESSION2$)" description="equality check" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPRESSION2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="&amp;&amp;" value="$CONDITION1$ &amp;&amp; $CONDITION2$" description="and condition" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONDITION2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="||" value="$CONDITION1$ || $CONDITION2$" description="or condition" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONDITION2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="opt" value="if ($VARIABLE$.isPresent()) {&#10;    return $VARIABLE$.get();&#10;}" description="optional check" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="lamb" value="$VARIABLE$ -&gt; $EXPRESSION$" description="lambda function" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>

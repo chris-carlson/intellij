@@ -1,0 +1,15 @@
+<templateSet group="java_classes">
+  <template name="con" value="public $NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="conp" value="private $NAME$() {&#10;}" description="private constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

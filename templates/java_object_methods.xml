@@ -1,0 +1,38 @@
+<templateSet group="java_object_methods">
+  <template name="hash" value="@Override&#10;public int hashCode() {&#10;    return new org.apache.commons.lang3.builder.HashCodeBuilder().append($VARIABLE$)$END$.toHashCode();&#10;}" description="hashCode override" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="equals" value="@Override&#10;public boolean equals(Object obj) {&#10;    if (obj == null) {&#10;        return false;&#10;    }&#10;    if (obj == this) {&#10;        return true;&#10;    }&#10;    if (obj.getClass() != getClass()) {&#10;        return false;&#10;    }&#10;    $CLASS$ other = ($CLASS$) obj;&#10;    return new org.apache.commons.lang3.builder.EqualsBuilder().append($VARIABLE$, other.$VARIABLE$)$END$.isEquals();&#10;}" description="equals override" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="toString" value="@Override&#10;public int toString() {&#10;    return $EXPRESSION$;&#10;}" description="toString override" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="tosb" value="@Override&#10;public int toString() {&#10;    java.lang.StringBuilder builder = new StringBuilder();$END$&#10;    return builder.toString();&#10;}" description="toString override with StringBuilder" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="apph" value=".append($VARIABLE$)" description="append variable to HashCodeBuilder" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="appe" value=".append($VARIABLE$, other.$VARIABLE$)" description="append variable to EqualsBuilder" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>

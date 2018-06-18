@@ -1,0 +1,27 @@
+<templateSet group="java_junit">
+  <template name="ase" value="assertEquals($EXPECTED$, $ACTUAL$);" description="assertEquals statement" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="ast" value="assertTrue($EXPRESSION$);" description="assertTrue statement" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="asf" value="assertFalse($EXPRESSION$);" description="assertFalse statement" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="inst" value="private $TYPE$ instance;" description="JUnit instance variable declaration" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="substringBefore(className(), &quot;Test&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

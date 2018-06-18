@@ -1,0 +1,43 @@
+<templateSet group="xml">
+  <template name="t" value="&lt;$NAME$&gt;$END$&lt;/$NAME$&gt;" description="single-line tag with no attributes" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="ta" value="&lt;$NAME$ $ATTRIBUTES$&gt;$END$&lt;/$NAME$&gt;" description="single-line tag with attributes" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ATTRIBUTES" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="tm" value="&lt;$NAME$&gt;&#10;  $END$&#10;&lt;/$NAME$&gt;" description="multi-line tag with no attributes" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="tam" value="&lt;$NAME$ $ATTRIBUTES$&gt;&#10;  $END$&#10;&lt;/$NAME$&gt;" description="multi-line tag with attributes" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ATTRIBUTES" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="a" value="$NAME$=&quot;$VALUE$&quot;" description="attribute" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="false" />
+      <option name="XSL_TEXT" value="false" />
+    </context>
+  </template>
+  <template name="comp" value="&lt;properties&gt;&#10;  &lt;maven.compiler.source&gt;$VERSION$&lt;/maven.compiler.source&gt;&#10;  &lt;maven.compiler.target&gt;$VERSION$&lt;/maven.compiler.target&gt;&#10;&lt;/properties&gt;" description="compiler settings" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>

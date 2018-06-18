@@ -1,0 +1,38 @@
+<templateSet group="java_methods">
+  <template name="meth" value="$MODIFIER$ $TYPE$ $NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="method declaration" toReformat="false" toShortenFQNames="true">
+    <variable name="MODIFIER" expression="" defaultValue="&quot;public&quot;" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="&quot;void&quot;" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="meths" value="$MODIFIER$ static $TYPE$ $NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="static method declaration" toReformat="false" toShortenFQNames="true">
+    <variable name="MODIFIER" expression="" defaultValue="&quot;public&quot;" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="&quot;void&quot;" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="ret" value="return $EXPRESSION$;" description="return statement" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="call" value="$EXPRESSION$($PARAMETERS$);" description="method call" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="main" value="public static void main(String[] args) {&#10;    $END$&#10;}" description="main method declaration" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
