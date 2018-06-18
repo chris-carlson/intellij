@@ -1,0 +1,8 @@
+<templateSet group="xml_maven">
+  <template name="comp" value="&lt;properties&gt;&#10;  &lt;maven.compiler.source&gt;$VERSION$&lt;/maven.compiler.source&gt;&#10;  &lt;maven.compiler.target&gt;$VERSION$&lt;/maven.compiler.target&gt;&#10;&lt;/properties&gt;" description="compiler settings" toReformat="false" toShortenFQNames="true">
+    <variable name="VERSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
