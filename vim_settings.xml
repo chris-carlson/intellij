@@ -13,6 +13,13 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="5" column="43" />
       </file>
+      <file name="D:/training/java/test/src/main/java/FooStatic.java" timestamp="1530021348886">
+        <mark key="'" line="0" column="21" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="D:/training/java/power_mock/src/main/java/alternate/ClassThatUsesStaticMethod.java" timestamp="1528467886226">
         <mark key="'" line="5" column="47" />
         <mark key="[" line="5" column="35" />
@@ -27,12 +34,12 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="D:/training/java/test/src/main/java/Foo.java" timestamp="1530020435537">
-        <mark key="'" line="2" column="15" />
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="6" column="24" />
-        <mark key="." line="2" column="15" />
+      <file name="D:/training/java/test/src/main/java/Foo.java" timestamp="1530021368363">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="D:/training/java/power_mock/src/main/java/before/ClassThatUsesStaticMethod.java" timestamp="1528464115352">
         <mark key="'" line="0" column="0" />
@@ -152,15 +159,21 @@
         <mark key="." line="13" column="53" />
         <mark key="^" line="13" column="48" />
       </file>
+      <file name="D:/training/java/test/src/main/java/BarStatic.java" timestamp="1530021356891">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="/Dummy.txt" timestamp="1528469603826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/training/java/test/src/test/java/FooTest.java" timestamp="1530020573008">
-        <mark key="'" line="13" column="31" />
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="31" />
-        <mark key="^" line="13" column="31" />
-        <mark key="." line="13" column="31" />
+      <file name="D:/training/java/test/src/test/java/FooTest.java" timestamp="1530021174485">
+        <mark key="'" line="7" column="31" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="D:/training/jetbrains/intellij/oose/pom.xml" timestamp="1523973456021">
         <mark key="[" line="19" column="10" />
@@ -188,12 +201,12 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="9" column="52" />
       </file>
-      <file name="D:/training/java/test/src/main/java/Bar.java" timestamp="1530020580687">
-        <mark key="'" line="2" column="16" />
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
+      <file name="D:/training/java/test/src/main/java/Bar.java" timestamp="1530021359295">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="D:/training/java/test/src/main/java/FormsProcessor.java" timestamp="1529340980959">
         <mark key="'" line="32" column="37" />
@@ -225,6 +238,12 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="D:/training/java/test/src/main/java/FooInstance.java" timestamp="1530021221612">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="30" />
       </file>
       <file name="D:/training/java/power_mock/src/main/java/alternate_2/ClassThatUsesStaticMethod.java" timestamp="1528469202626">
         <mark key="'" line="5" column="48" />
@@ -351,19 +370,22 @@
       <jump line="2" column="15" filename="D:/training/java/test/src/main/java/Foo.java" />
       <jump line="13" column="31" filename="D:/training/java/test/src/test/java/FooTest.java" />
       <jump line="2" column="16" filename="D:/training/java/test/src/main/java/Bar.java" />
+      <jump line="0" column="21" filename="D:/training/java/test/src/main/java/FooStatic.java" />
+      <jump line="0" column="15" filename="D:/training/java/test/src/main/java/Bar.java" />
+      <jump line="0" column="0" filename="D:/training/java/test/src/main/java/Foo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>foo</text>
+        <text>Static</text>
       </register>
       <register name="-" type="4">
-        <text>foo</text>
+        <text>Static</text>
       </register>
       <register name="0" type="4">
         <text>, OnlyActual.createOnlyActual(&quot;4&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIEZvb1N0dWIgZXh0ZW5kcyBGb28gewogICAgICAgIHB1YmxpYyBzdGF0aWMgaW50IGJhcigpIHsKICAgICAgICAgICAgcmV0dXJuIDQxOwogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <text>^f(d%j</text>
@@ -372,25 +394,25 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRm9vIGluc3RhbmNlOwoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBAQmVmb3JlCiAgICBwdWJsaWMgdm9pZCBzZXRVcCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIGluc3RhbmNlID0gbmV3IEZvbygpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRm9vIGluc3RhbmNlOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBAQmVmb3JlCiAgICBwdWJsaWMgdm9pZCBzZXRVcCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIGluc3RhbmNlID0gbmV3IEZvbygpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">QFJ1bldpdGgoQXJxdWlsbGlhbi5jbGFzcykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">QFJ1bldpdGgoQXJxdWlsbGlhbi5jbGFzcykK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
