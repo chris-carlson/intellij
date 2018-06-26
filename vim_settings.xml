@@ -34,12 +34,12 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="D:/training/java/test/src/main/java/Foo.java" timestamp="1530024583663">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="39" />
-        <mark key="." line="1" column="39" />
-        <mark key="^" line="1" column="39" />
+      <file name="D:/training/java/test/src/main/java/Foo.java" timestamp="1530025339249">
+        <mark key="'" line="5" column="12" />
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
       </file>
       <file name="D:/training/java/power_mock/src/main/java/before/ClassThatUsesStaticMethod.java" timestamp="1528464115352">
         <mark key="'" line="0" column="0" />
@@ -105,10 +105,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/training/java/test/src/main/java/FooWrapper.java" timestamp="1530024592051">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+      <file name="D:/training/java/test/src/main/java/FooWrapper.java" timestamp="1530025296908">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="0" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="D:/training/jetbrains/intellij/oose/src/main/java/Property.java" timestamp="1524064638806">
@@ -174,12 +174,12 @@
       <file name="/Dummy.txt" timestamp="1528469603826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/training/java/test/src/test/java/FooTest.java" timestamp="1530024707642">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="22" column="39" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/training/java/test/src/test/java/FooTest.java" timestamp="1530025327283">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="6" column="51" />
+        <mark key="^" line="6" column="51" />
+        <mark key="." line="13" column="15" />
       </file>
       <file name="D:/training/jetbrains/intellij/oose/pom.xml" timestamp="1523973456021">
         <mark key="[" line="19" column="10" />
@@ -387,16 +387,19 @@
       <jump line="5" column="0" filename="D:/training/java/test/src/test/java/FooTest.java" />
       <jump line="25" column="0" filename="D:/training/java/test/src/test/java/FooTest.java" />
       <jump line="0" column="0" filename="D:/training/java/test/src/main/java/Bar.java" />
+      <jump line="4" column="0" filename="D:/training/java/test/src/main/java/FooWrapper.java" />
+      <jump line="24" column="0" filename="D:/training/java/test/src/test/java/FooTest.java" />
+      <jump line="5" column="12" filename="D:/training/java/test/src/main/java/Foo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>private</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQmFyLmJhcigpICsgMTsK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEZvb1dyYXBwZXIgewogICAgcHJvdGVjdGVkIGludCBiYXJXcmFwcGVyKCkgewogICAgICAgIHJldHVybiBCYXIuYmFyKCk7CiAgICB9Cn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBGb29TdHViKCk7Cg==</text>
