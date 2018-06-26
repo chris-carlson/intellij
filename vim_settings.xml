@@ -34,12 +34,12 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="D:/training/java/test/src/main/java/Foo.java" timestamp="1530023960285">
-        <mark key="'" line="7" column="12" />
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="4" />
-        <mark key="." line="7" column="7" />
-        <mark key="^" line="11" column="12" />
+      <file name="D:/training/java/test/src/main/java/Foo.java" timestamp="1530024583663">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="1" column="39" />
+        <mark key="^" line="1" column="39" />
       </file>
       <file name="D:/training/java/power_mock/src/main/java/before/ClassThatUsesStaticMethod.java" timestamp="1528464115352">
         <mark key="'" line="0" column="0" />
@@ -105,6 +105,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="D:/training/java/test/src/main/java/FooWrapper.java" timestamp="1530024592051">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="D:/training/jetbrains/intellij/oose/src/main/java/Property.java" timestamp="1524064638806">
         <mark key="'" line="7" column="4" />
         <mark key="[" line="17" column="15" />
@@ -168,12 +174,12 @@
       <file name="/Dummy.txt" timestamp="1528469603826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/training/java/test/src/test/java/FooTest.java" timestamp="1530023967757">
-        <mark key="'" line="22" column="45" />
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="22" column="45" />
-        <mark key="^" line="22" column="45" />
-        <mark key="." line="22" column="45" />
+      <file name="D:/training/java/test/src/test/java/FooTest.java" timestamp="1530024707642">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="22" column="39" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="D:/training/jetbrains/intellij/oose/pom.xml" timestamp="1523973456021">
         <mark key="[" line="19" column="10" />
@@ -201,8 +207,8 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="9" column="52" />
       </file>
-      <file name="D:/training/java/test/src/main/java/Bar.java" timestamp="1530021359295">
-        <mark key="'" line="0" column="15" />
+      <file name="D:/training/java/test/src/main/java/Bar.java" timestamp="1530025151254">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -365,57 +371,62 @@
       <jump line="32" column="37" filename="D:/training/java/test/src/main/java/FormsProcessor.java" />
       <jump line="12" column="93" filename="D:/training/java/test/src/main/java/Test.java" />
       <jump line="6" column="0" filename="D:/training/java/test/src/test/java/FooTest.java" />
-      <jump line="5" column="0" filename="D:/training/java/test/src/test/java/FooTest.java" />
       <jump line="2" column="15" filename="D:/training/java/test/src/main/java/Foo.java" />
       <jump line="13" column="31" filename="D:/training/java/test/src/test/java/FooTest.java" />
       <jump line="2" column="16" filename="D:/training/java/test/src/main/java/Bar.java" />
       <jump line="0" column="21" filename="D:/training/java/test/src/main/java/FooStatic.java" />
-      <jump line="0" column="15" filename="D:/training/java/test/src/main/java/Bar.java" />
       <jump line="0" column="0" filename="D:/training/java/test/src/main/java/Foo.java" />
       <jump line="8" column="0" filename="D:/training/java/test/src/main/java/Foo.java" />
-      <jump line="4" column="30" filename="D:/training/java/test/src/main/java/Foo.java" />
       <jump line="7" column="12" filename="D:/training/java/test/src/main/java/Foo.java" />
-      <jump line="22" column="45" filename="D:/training/java/test/src/test/java/FooTest.java" />
+      <jump line="3" column="34" filename="D:/training/java/test/src/main/java/Foo.java" />
+      <jump line="1" column="39" filename="D:/training/java/test/src/main/java/Foo.java" />
+      <jump line="4" column="0" filename="D:/training/java/test/src/main/java/Foo.java" />
+      <jump line="1" column="0" filename="D:/training/java/test/src/main/java/FooWrapper.java" />
+      <jump line="22" column="39" filename="D:/training/java/test/src/test/java/FooTest.java" />
+      <jump line="16" column="24" filename="D:/training/java/test/src/test/java/FooTest.java" />
+      <jump line="5" column="0" filename="D:/training/java/test/src/test/java/FooTest.java" />
+      <jump line="25" column="0" filename="D:/training/java/test/src/test/java/FooTest.java" />
+      <jump line="0" column="0" filename="D:/training/java/test/src/main/java/Bar.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fooStub()</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text>fooStub()</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gQmFyLmJhcigpICsgMTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBGb29TdHViKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^f(d%j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgaW50IGZvb1N0dWIoKSB7CiAgICAgICAgICAgIHJldHVybiBzdXBlci5mb29TdHViKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBpbnQgZm9vV3JhcHBlcigpIHsKICAgICAgICByZXR1cm4gRm9vLmZvbygpOwogICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IGJhcigpIHsKICAgICAgICByZXR1cm4gQmFyLmJhcigpOwogICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgRm9vU3R1YigpIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBpbnQgZm9vV3JhcHBlcigpIHsKICAgICAgICByZXR1cm4gRm9vLmZvbygpOwogICAgfQoKICAgIHByb3RlY3RlZCBpbnQgYmFyV3JhcHBlcigpIHsKICAgICAgICByZXR1cm4gQmFyLmJhcigpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIEZvbyBpbnN0YW5jZSA9IG5ldyBGb28oKTsKCiAgICBwdWJsaWMgc3RhdGljIEZvbyBnZXRJbnN0YW5jZSgpIHsKICAgICAgICByZXR1cm4gaW5zdGFuY2U7CiAgICB9CiAgICAKICAgIHByaXZhdGUgRm9vKCkgewogICAgfQoK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgRm9vIGdldEluc3RhbmNlKCkgewogICAgICAgIHJldHVybiBuZXcgRm9vKCk7CiAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBCYXIuYmFyKCkgKyAxOwogICAgICAgIEZvbyBmb28gPSBGb28uZ2V0SW5zdGFuY2UoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgaW50IGZvb1N0dWIoKSB7CiAgICAgICAgICAgIHJldHVybiBzdXBlci5mb29TdHViKCk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">QFRlc3QKICAgIHB1YmxpYyB2b2lkIGZvbygpIHsKICAgICAgICBhc3NlcnRFcXVhbHMoNDIsIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IGJhcigpIHsKICAgICAgICByZXR1cm4gQmFyLmJhcigpOwogICAgfQoK</text>
       </register>
     </registers>
     <search>
