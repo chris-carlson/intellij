@@ -34,12 +34,12 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="D:/training/java/test/src/main/java/Foo.java" timestamp="1530021368363">
+      <file name="D:/training/java/test/src/main/java/Foo.java" timestamp="1530021491751">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="5" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+        <mark key="]" line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="10" column="17" />
       </file>
       <file name="D:/training/java/power_mock/src/main/java/before/ClassThatUsesStaticMethod.java" timestamp="1528464115352">
         <mark key="'" line="0" column="0" />
