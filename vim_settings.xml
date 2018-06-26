@@ -27,6 +27,13 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
+      <file name="D:/training/java/test/src/main/java/Foo.java" timestamp="1530020435537">
+        <mark key="'" line="2" column="15" />
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="2" column="15" />
+      </file>
       <file name="D:/training/java/power_mock/src/main/java/before/ClassThatUsesStaticMethod.java" timestamp="1528464115352">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="14" />
@@ -85,17 +92,11 @@
         <mark key="." line="7" column="25" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="D:/training/java/power_mock/src/test/java/ClassThatUsesStaticMethodTest.java" timestamp="1528463703490">
-        <mark key="'" line="26" column="32" />
-      </file>
       <file name="D:/training/java/power_mock/src/test/java/after/ClassThatUsesStaticMethodTest.java" timestamp="1528464463022">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="D:/training/java/power_mock/src/main/java/after/ClassWithStaticMethod.java" timestamp="1528464719511">
-        <mark key="'" line="2" column="36" />
       </file>
       <file name="D:/training/jetbrains/intellij/oose/src/main/java/Property.java" timestamp="1524064638806">
         <mark key="'" line="7" column="4" />
@@ -154,6 +155,13 @@
       <file name="/Dummy.txt" timestamp="1528469603826">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/training/java/test/src/test/java/FooTest.java" timestamp="1530020573008">
+        <mark key="'" line="13" column="31" />
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+      </file>
       <file name="D:/training/jetbrains/intellij/oose/pom.xml" timestamp="1523973456021">
         <mark key="[" line="19" column="10" />
         <mark key="]" line="19" column="10" />
@@ -180,6 +188,13 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="9" column="52" />
       </file>
+      <file name="D:/training/java/test/src/main/java/Bar.java" timestamp="1530020580687">
+        <mark key="'" line="2" column="16" />
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
       <file name="D:/training/java/test/src/main/java/FormsProcessor.java" timestamp="1529340980959">
         <mark key="'" line="32" column="37" />
         <mark key="[" line="32" column="37" />
@@ -200,12 +215,10 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="D:/training/java/test/src/main/java/Test.java" timestamp="1529354403345">
-        <mark key="'" line="12" column="93" />
-        <mark key="[" line="12" column="121" />
-        <mark key="]" line="12" column="122" />
-        <mark key="." line="12" column="122" />
-        <mark key="^" line="23" column="54" />
+      <file name="D:/training/java/test/src/main/java/Test.java" timestamp="1530020209801">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/training/java/power_mock/src/main/java/after/ClassThatUsesStaticMethod.java" timestamp="1528464229178">
         <mark key="'" line="15" column="0" />
@@ -245,7 +258,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="10" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1529336557831">
+      <file name="/fragment.java" timestamp="1530020271973">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/training/jetbrains/intellij/test/src/main/java/view/ViewPanel.java" timestamp="1523907626750">
@@ -332,46 +345,52 @@
       <jump line="31" column="0" filename="D:/training/java/test/src/main/java/FormsProcessor.java" />
       <jump line="32" column="37" filename="D:/training/java/test/src/main/java/FormsProcessor.java" />
       <jump line="12" column="93" filename="D:/training/java/test/src/main/java/Test.java" />
+      <jump line="4" column="0" filename="D:/training/java/test/src/main/java/Foo.java" />
+      <jump line="6" column="0" filename="D:/training/java/test/src/test/java/FooTest.java" />
+      <jump line="5" column="0" filename="D:/training/java/test/src/test/java/FooTest.java" />
+      <jump line="2" column="15" filename="D:/training/java/test/src/main/java/Foo.java" />
+      <jump line="13" column="31" filename="D:/training/java/test/src/test/java/FooTest.java" />
+      <jump line="2" column="16" filename="D:/training/java/test/src/main/java/Bar.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, OnlyActual.createOnlyActual(&quot;4&quot;)</text>
+        <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>foo</text>
       </register>
       <register name="0" type="4">
         <text>, OnlyActual.createOnlyActual(&quot;4&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2l6ZSA9IHNpemUgLSBvdGhlckZvcm1Db3VudDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>^f(d%j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29tcG9uZW50czsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRm9vIGluc3RhbmNlOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBAQmVmb3JlCiAgICBwdWJsaWMgdm9pZCBzZXRVcCgpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIGluc3RhbmNlID0gbmV3IEZvbygpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGludCBnZXRDb20K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB6VHlwZW9uQ29tcG9uZW50cy5wdXQoImQiLCBPbmx5QWN0dWFsLmNyZWF0ZU9ubHlBY3R1YWwoIjEiKSk7CiAgICAgICAgelR5cGVvbkNvbXBvbmVudHMucHV0KCJlIiwgT25seUFjdHVhbC5jcmVhdGVPbmx5QWN0dWFsKCIyIikpOwogICAgICAgIHpUeXBlb25Db21wb25lbnRzLnB1dCgiZiIsIE9ubHlBY3R1YWwuY3JlYXRlT25seUFjdHVhbCgiMyIpKTsKICAgICAgICB6VHlwZW9uQ29tcG9uZW50cy5wdXQoImciLCBPbmx5QWN0dWFsLmNyZWF0ZU9ubHlBY3R1YWwoIjEiKSk7CiAgICAgICAgelR5cGVvbkNvbXBvbmVudHMucHV0KCJoIiwgT25seUFjdHVhbC5jcmVhdGVPbmx5QWN0dWFsKCIyIikpOwogICAgICAgIHpUeXBlb25Db21wb25lbnRzLnB1dCgiaSIsIE9ubHlBY3R1YWwuY3JlYXRlT25seUFjdHVhbCgiMyIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvbmx5QWN0dWFsLmFkZFByb3BlcnR5KEZvcm1zUHJvY2Vzc29yLkZPUk1fSUQsIG5ldyBQcm9wZXJ0eShmb3JtSUQpKTsK</text>
+        <text encoding="base64">QFJ1bldpdGgoQXJxdWlsbGlhbi5jbGFzcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFByb3BlcnR5IGNyZWF0ZVByb3BlcnR5KFN0cmluZyByYXRpbmdWYWx1ZSkgewogICAgICAgIAogICAgfQogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
