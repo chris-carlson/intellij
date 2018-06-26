@@ -34,12 +34,12 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="D:/training/java/test/src/main/java/Foo.java" timestamp="1530025339249">
-        <mark key="'" line="5" column="12" />
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="12" />
+      <file name="D:/training/java/test/src/main/java/Foo.java" timestamp="1530026338517">
+        <mark key="'" line="2" column="36" />
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
       </file>
       <file name="D:/training/java/power_mock/src/main/java/before/ClassThatUsesStaticMethod.java" timestamp="1528464115352">
         <mark key="'" line="0" column="0" />
@@ -371,7 +371,6 @@
       <jump line="32" column="37" filename="D:/training/java/test/src/main/java/FormsProcessor.java" />
       <jump line="12" column="93" filename="D:/training/java/test/src/main/java/Test.java" />
       <jump line="6" column="0" filename="D:/training/java/test/src/test/java/FooTest.java" />
-      <jump line="2" column="15" filename="D:/training/java/test/src/main/java/Foo.java" />
       <jump line="13" column="31" filename="D:/training/java/test/src/test/java/FooTest.java" />
       <jump line="2" column="16" filename="D:/training/java/test/src/main/java/Bar.java" />
       <jump line="0" column="21" filename="D:/training/java/test/src/main/java/FooStatic.java" />
@@ -390,16 +389,17 @@
       <jump line="4" column="0" filename="D:/training/java/test/src/main/java/FooWrapper.java" />
       <jump line="24" column="0" filename="D:/training/java/test/src/test/java/FooTest.java" />
       <jump line="5" column="12" filename="D:/training/java/test/src/main/java/Foo.java" />
+      <jump line="2" column="36" filename="D:/training/java/test/src/main/java/Foo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>private</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IGZvbyhGb29XcmFwcGVyIGZvbykgewogICAgICAgIHJldHVybiBmb28uYmFyV3JhcHBlcigpICsgMTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEZvb1dyYXBwZXIgewogICAgcHJvdGVjdGVkIGludCBiYXJXcmFwcGVyKCkgewogICAgICAgIHJldHVybiBCYXIuYmFyKCk7CiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IGZvbyhGb29XcmFwcGVyIGZvbykgewogICAgICAgIHJldHVybiBmb28uYmFyV3JhcHBlcigpICsgMTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBGb29TdHViKCk7Cg==</text>
