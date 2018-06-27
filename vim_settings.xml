@@ -46,6 +46,9 @@
         <mark key="." line="12" column="46" />
         <mark key="^" line="12" column="46" />
       </file>
+      <file name="/a.dummy" timestamp="1530118844516">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/training/java/power_mock/src/main/java/alternate_2/ClassWithStaticMethod.java" timestamp="1528469160116">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="18" />
@@ -108,6 +111,13 @@
         <mark key="]" line="17" column="32" />
         <mark key="." line="17" column="32" />
         <mark key="^" line="17" column="32" />
+      </file>
+      <file name="D:/training/java/test/src/main/java/ClassUsingPowerMock.java" timestamp="1530119051601">
+        <mark key="'" line="10" column="44" />
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="44" />
+        <mark key="^" line="10" column="44" />
+        <mark key="." line="10" column="44" />
       </file>
       <file name="D:/training/java/spring-boot/src/main/java/com/cac/springboot/Application.java" timestamp="1530114849887">
         <mark key="'" line="5" column="0" />
@@ -172,12 +182,12 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="D:/training/java/test/src/main/java/Bar.java" timestamp="1530025151254">
+      <file name="D:/training/java/test/src/main/java/Bar.java" timestamp="1530118876323">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="15" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="D:/training/java/test/src/main/java/FormsProcessor.java" timestamp="1529340980959">
         <mark key="'" line="32" column="37" />
@@ -191,6 +201,13 @@
         <mark key="]" line="11" column="69" />
         <mark key="." line="11" column="69" />
         <mark key="^" line="11" column="69" />
+      </file>
+      <file name="D:/training/java/test/src/main/java/OtherClass.java" timestamp="1530119100361">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+        <mark key="." line="1" column="44" />
       </file>
       <file name="D:/training/java/spring-boot/src/main/java/com/cac/springboot/springboot/Application.java" timestamp="1530042000909">
         <mark key="'" line="7" column="0" />
@@ -211,12 +228,18 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="5" column="43" />
       </file>
-      <file name="D:/training/java/test/src/main/java/Foo.java" timestamp="1530026338517">
+      <file name="D:/training/java/test/src/main/java/ClassUnderTest.java" timestamp="1530118388288">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="D:/training/java/test/src/main/java/Foo.java" timestamp="1530118374473">
         <mark key="'" line="2" column="36" />
-        <mark key="[" line="2" column="36" />
-        <mark key="]" line="2" column="36" />
-        <mark key="." line="2" column="36" />
-        <mark key="^" line="2" column="36" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="17" />
       </file>
       <file name="D:/training/java/power_mock/src/main/java/alternate/ClassWithStaticMethod.java" timestamp="1528467869550">
         <mark key="'" line="8" column="41" />
@@ -233,12 +256,6 @@
       </file>
       <file name="D:/training/java/power_mock/src/main/java/after/ClassWithStaticMethod.java" timestamp="1528464719511">
         <mark key="'" line="2" column="36" />
-      </file>
-      <file name="D:/training/java/test/src/main/java/FooWrapper.java" timestamp="1530025296908">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/training/java/test/src/main/java/OnlyActual.java" timestamp="1529340643058">
         <mark key="'" line="26" column="20" />
@@ -269,6 +286,13 @@
       </file>
       <file name="/Dummy.txt" timestamp="1530114895400">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/training/java/test/src/test/java/ClassUsingPowerMockTest.java" timestamp="1530119003115">
+        <mark key="'" line="7" column="31" />
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="43" />
       </file>
       <file name="D:/training/java/spring-boot/intro/src/main/java/com/cac/springboot/intro/IntroApplication.java" timestamp="1530114849169">
         <mark key="'" line="11" column="0" />
@@ -382,18 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="40" filename="D:/training/jetbrains/intellij/test/src/main/java/view/ViewPanel.java" />
-      <jump line="62" column="0" filename="D:/training/jetbrains/intellij/oose/src/main/java/Launcher.java" />
-      <jump line="7" column="4" filename="D:/training/jetbrains/intellij/oose/src/main/java/Property.java" />
-      <jump line="27" column="0" filename="D:/training/jetbrains/intellij/oose/src/main/java/OnlyActual.java" />
-      <jump line="31" column="64" filename="D:/training/jetbrains/intellij/oose/src/main/java/Launcher.java" />
-      <jump line="12" column="0" filename="D:/training/jetbrains/intellij/test/src/test/java/FooInstanceTest.java" />
-      <jump line="37" column="24" filename="D:/training/jetbrains/intellij/test/src/test/java/FooInstanceTest.java" />
-      <jump line="30" column="0" filename="D:/training/jetbrains/intellij/test/src/test/java/FooInstanceTest.java" />
-      <jump line="8" column="30" filename="D:/training/jetbrains/intellij/test/src/main/java/FooInstance.java" />
-      <jump line="4" column="12" filename="D:/training/jetbrains/intellij/test/src/main/java/FooInstance.java" />
-      <jump line="20" column="65" filename="D:/training/jetbrains/intellij/test/src/test/java/FooInstanceTest.java" />
-      <jump line="5" column="0" filename="D:/training/jetbrains/intellij/test/src/main/java/FooStaticWrapper.java" />
       <jump line="4" column="0" filename="D:/training/jetbrains/intellij/test/src/main/java/FooStaticWrapper.java" />
       <jump line="5" column="11" filename="D:/training/jetbrains/intellij/test/src/main/java/FooStatic.java" />
       <jump line="10" column="0" filename="D:/training/jetbrains/intellij/test/src/main/java/FooStatic.java" />
@@ -482,16 +494,28 @@
       <jump line="6" column="20" filename="D:/training/java/spring-boot/intro/pom.xml" />
       <jump line="11" column="0" filename="D:/training/java/spring-boot/intro/src/main/java/com/cac/springboot/intro/IntroApplication.java" />
       <jump line="5" column="0" filename="D:/training/java/spring-boot/src/main/java/com/cac/springboot/Application.java" />
+      <jump line="9" column="45" filename="D:/training/java/test/src/main/java/ClassUsingPowerMock.java" />
+      <jump line="1" column="33" filename="D:/training/java/test/src/main/java/OtherClass.java" />
+      <jump line="5" column="74" filename="D:/training/java/test/src/main/java/ClassUsingPowerMock.java" />
+      <jump line="23" column="68" filename="D:/training/java/test/src/test/java/ClassUsingPowerMockTest.java" />
+      <jump line="26" column="0" filename="D:/training/java/test/src/test/java/ClassUsingPowerMockTest.java" />
+      <jump line="6" column="35" filename="D:/training/java/test/src/main/java/ClassUsingPowerMock.java" />
+      <jump line="7" column="31" filename="D:/training/java/test/src/test/java/ClassUsingPowerMockTest.java" />
+      <jump line="0" column="0" filename="D:/training/java/test/src/main/java/OtherClass.java" />
+      <jump line="14" column="0" filename="D:/training/java/test/src/main/java/ClassUsingPowerMock.java" />
+      <jump line="2" column="16" filename="D:/training/java/test/src/main/java/OtherClass.java" />
+      <jump line="10" column="44" filename="D:/training/java/test/src/main/java/ClassUsingPowerMock.java" />
+      <jump line="5" column="0" filename="D:/training/java/test/src/main/java/OtherClass.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>staticMethod</text>
       </register>
       <register name="-" type="4">
-        <text>spring-boot</text>
+        <text>staticMethod</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHByb2plY3QgeG1sbnM9Imh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL1BPTS80LjAuMCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKCXhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL21hdmVuLmFwYWNoZS5vcmcvUE9NLzQuMC4wIGh0dHA6Ly9tYXZlbi5hcGFjaGUub3JnL3hzZC9tYXZlbi00LjAuMC54c2QiPgoJPG1vZGVsVmVyc2lvbj40LjAuMDwvbW9kZWxWZXJzaW9uPgoKCTxncm91cElkPmNvbS5jYWMuc3ByaW5nYm9vdDwvZ3JvdXBJZD4KCTxhcnRpZmFjdElkPnNwcmluZy1ib290PC9hcnRpZmFjdElkPgoJPHZlcnNpb24+MC4wLjEtU05BUFNIT1Q8L3ZlcnNpb24+Cgk8cGFja2FnaW5nPmphcjwvcGFja2FnaW5nPgoKCTxuYW1lPnNwcmluZy1ib290PC9uYW1lPgoJPGRlc2NyaXB0aW9uPkRlbW8gcHJvamVjdCBmb3IgU3ByaW5nIEJvb3Q8L2Rlc2NyaXB0aW9uPgoKCTxwYXJlbnQ+CgkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCTxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItcGFyZW50PC9hcnRpZmFjdElkPgoJCTx2ZXJzaW9uPjIuMC4zLlJFTEVBU0U8L3ZlcnNpb24+CgkJPHJlbGF0aXZlUGF0aC8+IDwhLS0gbG9va3VwIHBhcmVudCBmcm9tIHJlcG9zaXRvcnkgLS0+Cgk8L3BhcmVudD4KCgk8cHJvcGVydGllcz4KCQk8cHJvamVjdC5idWlsZC5zb3VyY2VFbmNvZGluZz5VVEYtODwvcHJvamVjdC5idWlsZC5zb3VyY2VFbmNvZGluZz4KCQk8cHJvamVjdC5yZXBvcnRpbmcub3V0cHV0RW5jb2Rpbmc+VVRGLTg8L3Byb2plY3QucmVwb3J0aW5nLm91dHB1dEVuY29kaW5nPgoJCTxqYXZhLnZlcnNpb24+MS44PC9qYXZhLnZlcnNpb24+Cgk8L3Byb3BlcnRpZXM+CgoJPGRlcGVuZGVuY2llcz4KCQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWRhdGEtbW9uZ29kYi1yZWFjdGl2ZTwvYXJ0aWZhY3RJZD4KCQk8L2RlcGVuZGVuY3k+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci10aHltZWxlYWY8L2FydGlmYWN0SWQ+CgkJPC9kZXBlbmRlbmN5PgoJCTxkZXBlbmRlbmN5PgoJCQk8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItd2ViZmx1eDwvYXJ0aWZhY3RJZD4KCQk8L2RlcGVuZGVuY3k+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPm9yZy5wcm9qZWN0bG9tYm9rPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5sb21ib2s8L2FydGlmYWN0SWQ+CgkJCTxvcHRpb25hbD50cnVlPC9vcHRpb25hbD4KCQk8L2RlcGVuZGVuY3k+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci10ZXN0PC9hcnRpZmFjdElkPgoJCQk8c2NvcGU+dGVzdDwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5PgoJCTxkZXBlbmRlbmN5PgoJCQk8Z3JvdXBJZD5pby5wcm9qZWN0cmVhY3RvcjwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+cmVhY3Rvci10ZXN0PC9hcnRpZmFjdElkPgoJCQk8c2NvcGU+dGVzdDwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5PgoJCTxkZXBlbmRlbmN5PgoJCQk8Z3JvdXBJZD5kZS5mbGFwZG9vZGxlLmVtYmVkPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5kZS5mbGFwZG9vZGxlLmVtYmVkLm1vbmdvPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4yLjEuMTwvdmVyc2lvbj4KCQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgoJCTwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWFjdHVhdG9yPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjAuMy5SRUxFQVNFPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgIDwvZGVwZW5kZW5jaWVzPgoKCTxidWlsZD4KCQk8cGx1Z2lucz4KCQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJPC9wbHVnaW4+CgkJPC9wbHVnaW5zPgoJPC9idWlsZD4KCgo8</text>
+        <text>staticMethodWrapper</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
