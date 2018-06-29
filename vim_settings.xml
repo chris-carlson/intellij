@@ -258,6 +258,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
+      <file name="D:/training/java/spring-boot/reactive-web/src/main/java/com/cac/springboot/reactiveweb/Test.java" timestamp="1530276786105">
+        <mark key="'" line="16" column="32" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="D:/training/java/power_mock/src/main/java/alternate/ClassWithStaticMethod.java" timestamp="1528467869550">
         <mark key="'" line="8" column="41" />
         <mark key="[" line="8" column="15" />
@@ -290,6 +296,7 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE.jar!/reactor/core/publisher/Flux.class" timestamp="1530275772444" />
       <file name="D:/training/java/test/src/test/java/after/ClassUsingPowerMockTest2.java" timestamp="1530123334881">
         <mark key="'" line="18" column="69" />
         <mark key="[" line="10" column="36" />
@@ -460,8 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="27" filename="D:/training/java/power_mock/src/main/java/alternate/ClassWithStaticMethod.java" />
-      <jump line="8" column="41" filename="D:/training/java/power_mock/src/main/java/alternate/ClassWithStaticMethod.java" />
       <jump line="7" column="47" filename="D:/training/java/power_mock/src/main/java/alternate/ClassThatUsesStaticMethod.java" />
       <jump line="14" column="49" filename="D:/training/java/power_mock/src/test/java/alternate/ClassThatUsesStaticMethodTest.java" />
       <jump line="5" column="48" filename="D:/training/java/power_mock/src/main/java/alternate_2/ClassThatUsesStaticMethod.java" />
@@ -560,46 +565,48 @@
       <jump line="17" column="23" filename="D:/training/java/test/src/test/java/after/ClassUsingPowerMockTest.java" />
       <jump line="17" column="69" filename="D:/training/java/test/src/test/java/after/ClassUsingPowerMockTest2.java" />
       <jump line="6" column="37" filename="D:/training/java/test/src/test/java/after/ClassUsingPowerMockTest.java" />
+      <jump line="14" column="30" filename="D:/training/java/spring-boot/reactive-web/src/main/java/com/cac/springboot/reactiveweb/Test.java" />
+      <jump line="16" column="32" filename="D:/training/java/spring-boot/reactive-web/src/main/java/com/cac/springboot/reactiveweb/Test.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBGbHV4Lmp1c3QoImFscGhhIiwgImJyYXZvIiwgImNoYXJsaWUiKS5tYXAoU3RyaW5nOjp0b1VwcGVyQ2FzZSkuZmxhdE1hcChzIC0+IEZsdXguZnJvbUFycmF5KHMuc3BsaXQoIiIpKSkuZ3JvdXBCeShTdHJpbmc6OnRvU3RyaW5nKS5zb3J0KChvMSwgbzIpIC0+IG8xLmtleSgpLmNvbXBhcmVUbyhvMi5rZXkoKSkpLmZsYXRNYXAoZ3JvdXAgLT4gTW9uby5qdXN0KGdyb3VwLmtleSgpKS5hbmQoZ3JvdXAuY291bnQoKSkpLm1hcChrZXlBbmRDb3VudCAtPiBrZXlBbmRDb3VudC5nZXRUMSgpICsgIiA9PiAiICsga2V5QW5kQ291bnQuZ2V0VDIoKSkuc3Vic2NyaWJlKFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gVGhpcyBpcyB0aGUgY2xhc3Mgd2UncmUgdGVzdGluZyB0aGF0IHVzZXMgUG93ZXJNb2NrCg==</text>
+      <register name="0" type="4">
+        <text>.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIEV4dGVuZCB0aGUgd3JhcHBlciBjbGFzcyB0byBjcmVhdGUgYSBzdHViIGNsYXNzCiAgICAvLyBPdmVycmlkZSB0aGUgbWV0aG9kIHRoYXQgY2FsbHMgdGhlIHN0YXRpYyBtZXRob2QgYW5kIGhhdmUgaXQgcmV0dXJuIGEgbW9jayB2YWx1ZQogICAgcHJpdmF0ZSBzdGF0aWMgY2xhc3MgT3V0c2lkZUNsYXNzU3R1YiBleHRlbmRzIE91dHNpZGVDbGFzcy5PdXRzaWRlQ2xhc3NXcmFwcGVyIHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgaW50IHN0YXRpY01ldGhvZEJlaW5nQ2FsbGVkKGludCBpKSB7CiAgICAgICAgICAgIHJldHVybiA1OwogICAgICAgIH0KICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBGbHV4Lmp1c3QoImFscGhhIiwgImJyYXZvIiwgImNoYXJsaWUiKS5tYXAoU3RyaW5nOjp0b1VwcGVyQ2FzZSkuZmxhdE1hcChzIC0+IEZsdXguZnJvbUFycmF5KHMuc3BsaXQoIiIpKSkuZ3JvdXBCeShTdHJpbmc6OnRvU3RyaW5nKS5zb3J0KChvMSwgbzIpIC0+IG8xLmtleSgpLmNvbXBhcmVUbyhvMi5rZXkoKSkpLmZsYXRNYXAoZ3JvdXAgLT4gTW9uby5qdXN0KGdyb3VwLmtleSgpKS5hbmQoZ3JvdXAuY291bnQoKSkpLm1hcChrZXlBbmRDb3VudCAtPiBrZXlBbmRDb3VudC5nZXRUMSgpICsgIiA9PiAiICsga2V5QW5kQ291bnQuZ2V0VDIoKSkuc3Vic2NyaWJlKFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
       </register>
       <register name="q" type="4">
         <text>^f(d%j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIENyZWF0ZSBhIHdyYXBwZXIgY2xhc3MgdGhhdCBzaW1wbHkgY2FsbHMgdGhlIHN0YXRpYyBtZXRob2Qgd2Ugd2FudCB0byBtb2NrCiAgICBwcm90ZWN0ZWQgc3RhdGljIGNsYXNzIE91dHNpZGVDbGFzc1dyYXBwZXIgewogICAgICAgIHByb3RlY3RlZCBpbnQgc3RhdGljTWV0aG9kQmVpbmdDYWxsZWQoaW50IGkpIHsKICAgICAgICAgICAgcmV0dXJuIE91dHNpZGVDbGFzcy5zdGF0aWNNZXRob2RCZWluZ0NhbGxlZChpKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcChrZXlBbmRDb3VudCAtPiBrZXlBbmRDb3VudC5nZXRUMSgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIC8vIEV4dGVuZCB0aGUgd3JhcHBlciBjbGFzcyB0byBjcmVhdGUgYSBzdHViIGNsYXNzCiAgICAvLyBPdmVycmlkZSB0aGUgbWV0aG9kIHRoYXQgY2FsbHMgdGhlIHN0YXRpYyBtZXRob2QgYW5kIGhhdmUgaXQgcmV0dXJuIGEgbW9jayB2YWx1ZQogICAgcHJpdmF0ZSBzdGF0aWMgY2xhc3MgT3V0c2lkZUNsYXNzU3R1YiBleHRlbmRzIE91dHNpZGVDbGFzcy5PdXRzaWRlQ2xhc3NXcmFwcGVyIHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgaW50IHN0YXRpY01ldGhvZEJlaW5nQ2FsbGVkKGludCBpKSB7CiAgICAgICAgICAgIHJldHVybiA1OwogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIDIuIFdlIGFkZCBhbiBpbnN0YW5jZSBvZiB0aGF0IHdyYXBwZXIgY2xhc3MgYXMgYSBwYXJhbWV0ZXIgdG8gdGhlIG1ldGhvZCB1bmRlciB0ZXN0IGFuZCByZXBsYWNlIHRoZSBzdGF0aWMKICAgIC8vIG1ldGhvZCBjYWxsIHdpdGggdGhlIG5vbi1zdGF0aWMgbWV0aG9kIGNhbGwgZnJvbSB0aGUgd3JhcHBlcgogICAgcHVibGljIHN0YXRpYyBpbnQgbWV0aG9kQmVpbmdUZXN0ZWQoaW50IGksIENsYXNzVXNpbmdQb3dlck1vY2tXcmFwcGVyIHdyYXBwZXIpIHsKICAgICAgICByZXR1cm4gd3JhcHBlci5zdGF0aWNNZXRob2RCZWluZ0NhbGxlZChpKSAqIDI7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIENyZWF0ZSBhIHdyYXBwZXIgY2xhc3MgdGhhdCBzaW1wbHkgY2FsbHMgdGhlIHN0YXRpYyBtZXRob2Qgd2Ugd2FudCB0byBtb2NrCiAgICBwcm90ZWN0ZWQgc3RhdGljIGNsYXNzIE91dHNpZGVDbGFzc1dyYXBwZXIgewogICAgICAgIHByb3RlY3RlZCBpbnQgc3RhdGljTWV0aG9kQmVpbmdDYWxsZWQoaW50IGkpIHsKICAgICAgICAgICAgcmV0dXJuIE91dHNpZGVDbGFzcy5zdGF0aWNNZXRob2RCZWluZ0NhbGxlZChpKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIDEuIFdlIGNyZWF0ZSBhIHdyYXBwZXIgY2xhc3MgdGhhdCBzaW1wbHkgY2FsbHMgdGhlIHN0YXRpYyBtZXRob2Qgd2Ugd2FudCB0byBtb2NrCiAgICBwcm90ZWN0ZWQgc3RhdGljIGNsYXNzIENsYXNzVXNpbmdQb3dlck1vY2tXcmFwcGVyIHsKICAgICAgICBwcm90ZWN0ZWQgaW50IHN0YXRpY01ldGhvZEJlaW5nQ2FsbGVkKGludCBpKSB7CiAgICAgICAgICAgIHJldHVybiBPdGhlckNsYXNzLnN0YXRpY01ldGhvZEJlaW5nQ2FsbGVkKGkpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gNDE7Cg==</text>
+        <text encoding="base64">ICAgIC8vIDIuIFdlIGFkZCBhbiBpbnN0YW5jZSBvZiB0aGF0IHdyYXBwZXIgY2xhc3MgYXMgYSBwYXJhbWV0ZXIgdG8gdGhlIG1ldGhvZCB1bmRlciB0ZXN0IGFuZCByZXBsYWNlIHRoZSBzdGF0aWMKICAgIC8vIG1ldGhvZCBjYWxsIHdpdGggdGhlIG5vbi1zdGF0aWMgbWV0aG9kIGNhbGwgZnJvbSB0aGUgd3JhcHBlcgogICAgcHVibGljIHN0YXRpYyBpbnQgbWV0aG9kQmVpbmdUZXN0ZWQoaW50IGksIENsYXNzVXNpbmdQb3dlck1vY2tXcmFwcGVyIHdyYXBwZXIpIHsKICAgICAgICByZXR1cm4gd3JhcHBlci5zdGF0aWNNZXRob2RCZWluZ0NhbGxlZChpKSAqIDI7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBCZWZvcmUKICAgIHB1YmxpYyB2b2lkIHNldFVwKCkgewogICAgfQoK</text>
+        <text encoding="base64">ICAgIC8vIDEuIFdlIGNyZWF0ZSBhIHdyYXBwZXIgY2xhc3MgdGhhdCBzaW1wbHkgY2FsbHMgdGhlIHN0YXRpYyBtZXRob2Qgd2Ugd2FudCB0byBtb2NrCiAgICBwcm90ZWN0ZWQgc3RhdGljIGNsYXNzIENsYXNzVXNpbmdQb3dlck1vY2tXcmFwcGVyIHsKICAgICAgICBwcm90ZWN0ZWQgaW50IHN0YXRpY01ldGhvZEJlaW5nQ2FsbGVkKGludCBpKSB7CiAgICAgICAgICAgIHJldHVybiBPdGhlckNsYXNzLnN0YXRpY01ldGhvZEJlaW5nQ2FsbGVkKGkpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3cmFwcGVyID0gbmV3IENsYXNzVXNpbmdQb3dlck1vY2tTdHViKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gNDE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIENsYXNzVXNpbmdQb3dlck1vY2tTdHViIGV4dGVuZHMgQ2xhc3NVc2luZ1Bvd2VyTW9jay5DbGFzc1VzaW5nUG93ZXJNb2NrV3JhcHBlciB7CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIGludCBzdGF0aWNNZXRob2RCZWluZ0NhbGxlZCgpIHsKICAgICAgICAgICAgcmV0dXJuIDQxOwogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIENsYXNzVXNpbmdQb3dlck1vY2suQ2xhc3NVc2luZ1Bvd2VyTW9ja1dyYXBwZXIgd3JhcHBlcjsKCg==</text>
+        <text encoding="base64">ICAgIEBCZWZvcmUKICAgIHB1YmxpYyB2b2lkIHNldFVwKCkgewogICAgfQoK</text>
       </register>
     </registers>
     <search>
