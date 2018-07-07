@@ -6,10 +6,9 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="when" value="org.mockito.Mockito.when($VARIABLE$.$METHOD$($PARAMETERS$)).thenReturn($VALUE$);" description="when statement" toReformat="false" toShortenFQNames="true">
+  <template name="when" value="org.mockito.Mockito.when($VARIABLE$.$METHOD$).thenReturn($VALUE$);" description="when statement" toReformat="false" toShortenFQNames="true">
     <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
