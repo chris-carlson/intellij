@@ -1,18 +1,18 @@
 <templateSet group="java_junit">
-  <template name="ase" value="assertEquals($EXPECTED$, $ACTUAL$);" description="assertEquals statement" toReformat="false" toShortenFQNames="true">
+  <template name="ase" value="org.junit.jupiter.api.Assertions.assertEquals($EXPECTED$, $ACTUAL$);" description="assertEquals statement" toReformat="false" toShortenFQNames="true">
     <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="ast" value="assertTrue($EXPRESSION$);" description="assertTrue statement" toReformat="false" toShortenFQNames="true">
+  <template name="ast" value="org.junit.jupiter.api.Assertions.assertTrue($EXPRESSION$);" description="assertTrue statement" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="asf" value="assertFalse($EXPRESSION$);" description="assertFalse statement" toReformat="false" toShortenFQNames="true">
+  <template name="asf" value="org.junit.jupiter.api.Assertions.assertFalse($EXPRESSION$);" description="assertFalse statement" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
