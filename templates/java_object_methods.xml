@@ -18,7 +18,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="tosb" value="@Override&#10;public int toString() {&#10;    java.lang.StringBuilder builder = new StringBuilder();$END$&#10;    return builder.toString();&#10;}" description="toString override with StringBuilder" toReformat="false" toShortenFQNames="true">
+  <template name="tosb" value="@Override&#10;public String toString() {&#10;    java.lang.StringBuilder builder = new StringBuilder();$END$&#10;    return builder.toString();&#10;}" description="toString override with StringBuilder" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
