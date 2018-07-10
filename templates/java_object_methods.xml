@@ -23,13 +23,13 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="apph" value=".append($VARIABLE$)" description="append variable to HashCodeBuilder" toReformat="false" toShortenFQNames="true">
+  <template name="aph" value=".append($VARIABLE$)" description="append variable to HashCodeBuilder" toReformat="false" toShortenFQNames="true">
     <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="appe" value=".append($VARIABLE$, other.$VARIABLE$)" description="append variable to EqualsBuilder" toReformat="false" toShortenFQNames="true">
+  <template name="ape" value=".append($VARIABLE$, other.$VARIABLE$)" description="append variable to EqualsBuilder" toReformat="false" toShortenFQNames="true">
     <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />

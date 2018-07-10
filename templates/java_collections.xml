@@ -1,0 +1,24 @@
+<templateSet group="java_collections">
+  <template name="list" value="List&lt;$TYPE$&gt; $NAME$ = new ArrayList&lt;&gt;();" description="list initialization" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="set" value="Set&lt;$TYPE$&gt; $NAME$ = new HashSet&lt;&gt;();" description="set initialization" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="map" value="Map&lt;$TYPE1$, $TYPE2$&gt; $NAME$ = new HashMap&lt;&gt;();" description="map initialization" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

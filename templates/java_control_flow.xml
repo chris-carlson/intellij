@@ -100,4 +100,10 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="null" value="$EXPRESSION$ != null" description="null check" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
