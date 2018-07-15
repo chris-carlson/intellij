@@ -92,6 +92,12 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/data/BufferedReaderUtility.java" timestamp="1531604506897">
+        <mark key="'" line="13" column="48" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="114" />
+        <mark key="." line="13" column="16" />
+      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/puzzle/PuzzleCell.java" timestamp="1512342051324">
         <mark key="'" line="51" column="22" />
         <mark key="[" line="49" column="30" />
@@ -155,8 +161,8 @@
         <mark key="." line="26" column="83" />
         <mark key="^" line="26" column="77" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/BoardTest.java" timestamp="1531616709185">
-        <mark key="'" line="60" column="0" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/BoardTest.java" timestamp="1531682054775">
+        <mark key="'" line="24" column="0" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -189,12 +195,11 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Board.java" timestamp="1531680811969">
-        <mark key="'" line="55" column="58" />
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="30" />
-        <mark key="^" line="11" column="30" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Board.java" timestamp="1531682463804">
+        <mark key="'" line="59" column="58" />
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="D:/training/jetbrains/intellij/test/src/main/java/Test.java" timestamp="1528809458840">
         <mark key="[" line="11" column="65" />
@@ -202,12 +207,12 @@
         <mark key="." line="11" column="69" />
         <mark key="^" line="11" column="69" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Tetromino.java" timestamp="1531615918376">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="39" column="38" />
-        <mark key="]" line="39" column="60" />
-        <mark key="." line="39" column="60" />
-        <mark key="^" line="39" column="60" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Tetromino.java" timestamp="1531681739319">
+        <mark key="'" line="69" column="47" />
+        <mark key="[" line="69" column="15" />
+        <mark key="]" line="69" column="47" />
+        <mark key="." line="69" column="47" />
+        <mark key="^" line="69" column="47" />
       </file>
       <file name="D:/training/jetbrains/intellij/test/pom.xml" timestamp="1528809388049">
         <mark key="[" line="15" column="0" />
@@ -222,11 +227,11 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/data/TetrominoCollection.java" timestamp="1531679543889">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="15" column="61" />
-        <mark key="^" line="15" column="61" />
-        <mark key="." line="15" column="61" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/data/TetrominoCollection.java" timestamp="1531681981680">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="11" />
+        <mark key="^" line="10" column="53" />
+        <mark key="." line="14" column="13" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/mint_works/src/test/java/data/AiPlayerReaderTest.java" timestamp="1525032661240">
         <mark key="[" line="17" column="66" />
@@ -345,12 +350,12 @@
         <mark key="." line="29" column="52" />
         <mark key="^" line="29" column="52" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/ImmutableTetrominoTest.java" timestamp="1531681125670">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="11" column="37" />
-        <mark key="^" line="11" column="37" />
-        <mark key="." line="11" column="37" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/ImmutableTetrominoTest.java" timestamp="1531681817190">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="32" column="4" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="27" column="3" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/puzzle/CellTest.java" timestamp="1512231978561">
         <mark key="[" line="6" column="6" />
@@ -501,12 +506,12 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/data/TetrominoReaderTest.java" timestamp="1531605662469">
-        <mark key="'" line="16" column="41" />
-        <mark key="[" line="40" column="23" />
-        <mark key="]" line="40" column="23" />
-        <mark key="." line="40" column="23" />
-        <mark key="^" line="33" column="23" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/data/TetrominoReaderTest.java" timestamp="1531682030156">
+        <mark key="'" line="36" column="54" />
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="36" column="54" />
+        <mark key="." line="36" column="54" />
+        <mark key="^" line="36" column="54" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/puzzle/PuzzleDataTest.java" timestamp="1513959944311">
         <mark key="'" line="21" column="36" />
@@ -1164,12 +1169,12 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoTest.java" timestamp="1531681101037">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="81" column="4" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="52" column="41" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoTest.java" timestamp="1531681869870">
+        <mark key="'" line="70" column="77" />
+        <mark key="[" line="61" column="184" />
+        <mark key="]" line="61" column="184" />
+        <mark key="." line="61" column="184" />
+        <mark key="^" line="61" column="184" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/swing/Frame.java" timestamp="1472933903238">
         <mark key="'" line="13" column="33" />
@@ -1356,12 +1361,12 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/data/TetrominoReader.java" timestamp="1531606884285">
-        <mark key="'" line="17" column="33" />
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="33" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/data/TetrominoReader.java" timestamp="1531681899357">
+        <mark key="'" line="44" column="37" />
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="44" column="37" />
+        <mark key="." line="44" column="37" />
+        <mark key="^" line="44" column="37" />
       </file>
       <file name="D:/training/jetbrains/intellij/oose/src/main/java/OnlyActual.java" timestamp="1524064623658">
         <mark key="'" line="32" column="0" />
@@ -1799,12 +1804,12 @@
         <mark key="^" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/data/TetrominoCollectionTest.java" timestamp="1531680543007">
-        <mark key="'" line="25" column="48" />
-        <mark key="[" line="25" column="48" />
-        <mark key="]" line="25" column="49" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/data/TetrominoCollectionTest.java" timestamp="1531682044959">
+        <mark key="'" line="46" column="36" />
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="46" column="19" />
         <mark key="^" line="21" column="16" />
-        <mark key="." line="25" column="49" />
+        <mark key="." line="46" column="21" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/listener/puzzle/solve/PuzzleSolveObserver.java" timestamp="1504554874759">
         <mark key="[" line="3" column="0" />
@@ -2653,14 +2658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="31" filename="D:/training/java/test/src/test/java/ClassUsingPowerMockTest.java" />
-      <jump line="0" column="0" filename="D:/training/java/test/src/main/java/OtherClass.java" />
-      <jump line="14" column="0" filename="D:/training/java/test/src/main/java/ClassUsingPowerMock.java" />
-      <jump line="2" column="16" filename="D:/training/java/test/src/main/java/OtherClass.java" />
-      <jump line="10" column="44" filename="D:/training/java/test/src/main/java/ClassUsingPowerMock.java" />
-      <jump line="5" column="0" filename="D:/training/java/test/src/main/java/OtherClass.java" />
-      <jump line="20" column="20" filename="D:/training/java/test/src/test/java/ClassUsingPowerMockTest.java" />
-      <jump line="2" column="0" filename="D:/training/java/test/src/test/java/before/ClassUsingPowerMockTest.java" />
       <jump line="19" column="63" filename="D:/training/java/test/src/test/java/before/ClassUsingPowerMockTest.java" />
       <jump line="23" column="70" filename="D:/training/java/test/src/test/java/before/ClassUsingPowerMockTest.java" />
       <jump line="5" column="0" filename="D:/training/java/test/src/main/java/after/OtherClass.java" />
@@ -2753,10 +2750,18 @@
       <jump line="23" column="103" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/data/TetrominoCollectionTest.java" />
       <jump line="25" column="48" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/data/TetrominoCollectionTest.java" />
       <jump line="20" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/ImmutableTetrominoTest.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/ImmutableTetrominoTest.java" />
+      <jump line="57" column="36" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoTest.java" />
+      <jump line="69" column="47" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Tetromino.java" />
+      <jump line="70" column="77" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoTest.java" />
+      <jump line="44" column="37" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/data/TetrominoReader.java" />
+      <jump line="36" column="54" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/data/TetrominoReaderTest.java" />
+      <jump line="46" column="36" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/data/TetrominoCollectionTest.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/BoardTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Tetromino</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIAoK</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2787,37 +2792,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Tetromino</text>
+        <text>Point</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdHJhaW50c1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVGV0cm9taW5vIGdldFRlc3RJbnN0YW5jZTIoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBUZXRyb21pbm8oTGlzdHMubmV3QXJyYXlMaXN0KG5ldyBPcmllbnRhdGlvbihuZXcgYm9vbGVhbltdW117e2ZhbHNlLCB0cnVlfSwge3RydWUsIGZhbHNlfX0pLAogICAgICAgICAgICBuZXcgT3JpZW50YXRpb24obmV3IGJvb2xlYW5bXVtde3t0cnVlLCBmYWxzZX0sIHtmYWxzZSwgdHJ1ZX19KSkpOwogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>.addEqualityGroup(getTestInstance1(), getTestInstance1())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEltbXV0YWJsZVRldHJvbWlubyhMaXN0PE9yaWVudGF0aW9uPiBvcmllbnRhdGlvbnMsIGludCBjdXJyZW50T3JpZW50YXRpb25JbmRleCkgewogICAgICAgIHRoaXMub3JpZW50YXRpb25zID0gb3JpZW50YXRpb25zOwogICAgICAgIHRoaXMuY3VycmVudE9yaWVudGF0aW9uSW5kZXggPSBjdXJyZW50T3JpZW50YXRpb25JbmRleDsKICAgIH0KCiAgICBwdWJsaWMgYm9vbGVhbiBpc0ZpbGxlZChQb2ludCBwb2ludCkgewogICAgICAgIHJldHVybiBvcmllbnRhdGlvbnMuZ2V0KGN1cnJlbnRPcmllbnRhdGlvbkluZGV4KS5pc0ZpbGxlZChwb2ludCk7CiAgICB9CgogICAgcHVibGljIHZvaWQgcm90YXRlQ2xvY2t3aXNlKCkgewogICAgICAgIGN1cnJlbnRPcmllbnRhdGlvbkluZGV4Kys7CiAgICAgICAgaWYgKGN1cnJlbnRPcmllbnRhdGlvbkluZGV4ID09IG9yaWVudGF0aW9ucy5zaXplKCkpIHsKICAgICAgICAgICAgY3VycmVudE9yaWVudGF0aW9uSW5kZXggPSAwOwogICAgICAgIH0KICAgIH0KCiAgICBwdWJsaWMgdm9pZCByb3RhdGVDb3VudGVyQ2xvY2t3aXNlKCkgewogICAgICAgIGN1cnJlbnRPcmllbnRhdGlvbkluZGV4LS07CiAgICAgICAgaWYgKGN1cnJlbnRPcmllbnRhdGlvbkluZGV4ID09IC0xKSB7CiAgICAgICAgICAgIGN1cnJlbnRPcmllbnRhdGlvbkluZGV4ID0gb3JpZW50YXRpb25zLnNpemUoKSAtIDE7CiAgICAgICAgfQogICAgfQoKICAgIGludCBnZXRDdXJyZW50T3JpZW50YXRpb25JbmRleCgpIHsKICAgICAgICByZXR1cm4gY3VycmVudE9yaWVudGF0aW9uSW5kZXg7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIAoK</text>
       </register>
       <register name="q" type="4">
         <text>2bdf.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50T3JpZW50YXRpb25JbmRleCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldENlbGxzKENlbGxbXVtdIGNlbGxzKSB7CiAgICAgICAgdGhpcy5jZWxscyA9IGNlbGxzOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGN1cnJlbnRPcmllbnRhdGlvbkluZGV4Owo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVGV0cm9taW5vIHRldHJvbWlubzsKICAgIHByaXZhdGUgUG9pbnQgdGV0cm9taW5vUG9zaXRpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbGxlY3Rpb24gPSBjb2xsZWN0aW9uOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgIDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVGV0cm9taW5vQ29sbGVjdGlvbiBjb2xsZWN0aW9uOwo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGNhbm5vdFBhc3NOdWxsT3JpZW50YXRpb25zKCkgewogICAgICAgIEFzc2VydGlvbnMuYXNzZXJ0VGhyb3dzKElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbi5jbGFzcywgKCkgLT4gbmV3IFRldHJvbWlubyhudWxsKSk7CiAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSAtIG4K</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIFRldHJvbWlubyBnZXRUZXN0SW5zdGFuY2UyKCkgewogICAgICAgIHJldHVybiBuZXcgVGV0cm9taW5vKExpc3RzLm5ld0FycmF5TGlzdChuZXcgT3JpZW50YXRpb24obmV3IGJvb2xlYW5bXVtde3tmYWxzZSwgdHJ1ZX0sIHt0cnVlLCBmYWxzZX19KSwKICAgICAgICAgICAgbmV3IE9yaWVudGF0aW9uKG5ldyBib29sZWFuW11bXXt7dHJ1ZSwgZmFsc2V9LCB7ZmFsc2UsIHRydWV9fSkpKTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2831,10 +2836,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGNoZWNrRXF1YWxzQW5kSGFzaENvZGUoKSB7CiAgICAgICAgbmV3IEVxdWFsc1Rlc3RlcigpLmFkZEVxdWFsaXR5R3JvdXAoZ2V0VGVzdEluc3RhbmNlMSgpLCBnZXRUZXN0SW5zdGFuY2UxKCkpCiAgICAgICAgICAgIC5hZGRFcXVhbGl0eUdyb3VwKGdldFRlc3RJbnN0YW5jZTIoKSwgZ2V0VGVzdEluc3RhbmNlMigpKS50ZXN0RXF1YWxzKCk7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQm9hcmRVdGlsaXR5IGluc3RhbmNlOwoKICAgIEBCZWZvcmVFYWNoCiAgICB2b2lkIHNldFVwKCkgewogICAgICAgIGluc3RhbmNlID0gbmV3IEJvYXJkVXRpbGl0eSgpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIG5hbWUoKSB7CiAgICAgICAgCiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
