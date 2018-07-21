@@ -154,12 +154,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Orientation.java" timestamp="1532193919344">
-        <mark key="'" line="37" column="82" />
-        <mark key="[" line="40" column="55" />
-        <mark key="]" line="40" column="62" />
-        <mark key="." line="40" column="62" />
-        <mark key="^" line="40" column="62" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Orientation.java" timestamp="1532196697186">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/BoardTest.java" timestamp="1532194304055">
         <mark key="'" line="85" column="4" />
@@ -1914,6 +1913,13 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/data/Grid.java" timestamp="1532196733197">
+        <mark key="'" line="40" column="69" />
+        <mark key="[" line="68" column="15" />
+        <mark key="]" line="68" column="30" />
+        <mark key="^" line="68" column="30" />
+        <mark key="." line="68" column="30" />
+      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/mint_works/src/main/java/mvc/view/game/MessageListView.java" timestamp="1525533809187">
         <mark key="[" line="23" column="55" />
         <mark key="]" line="23" column="56" />
@@ -2002,7 +2008,7 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1531690577048">
+      <file name="/fragment.java" timestamp="1532196750872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="23" />
@@ -2681,9 +2687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="82" filename="D:/training/java/test/src/test/java/before/ClassUsingPowerMockTest.java" />
-      <jump line="8" column="6" filename="D:/training/java/test/src/main/java/after/ClassUsingPowerMock.java" />
-      <jump line="17" column="71" filename="D:/training/java/test/src/main/java/after/ClassUsingPowerMock.java" />
       <jump line="24" column="29" filename="D:/training/java/test/src/test/java/after/ClassUsingPowerMockTest.java" />
       <jump line="23" column="72" filename="D:/training/java/test/src/test/java/after/ClassUsingPowerMockTest.java" />
       <jump line="26" column="105" filename="D:/training/java/test/src/test/java/after/ClassUsingPowerMockTest.java" />
@@ -2781,11 +2784,13 @@
       <jump line="17" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/ImmutableTetromino.java" />
       <jump line="15" column="16" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/data/Position.java" />
       <jump line="67" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/BoardTest.java" />
+      <jump line="37" column="69" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/data/Grid.java" />
+      <jump line="10" column="12" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Orientation.java" />
+      <jump line="30" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Orientation.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new Position(startingPosition.row() + filledPosition.row(),
-                startingPosition.column() + filledPosition.column())</text>
+        <text>super.toString()</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2816,38 +2821,38 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>super.toString()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdHJhaW50c1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>new Position(startingPosition.row() + filledPosition.row(), startingPosition.column() + filledPosition.column());</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocG9zaXRpb24gPT0gbnVsbCkgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJQb3NpdGlvbiBjYW5ub3QgYmUgbnVsbCIpOwogICAgICAgIH0KICAgICAgICBpZiAocG9zaXRpb24ucm93KCkgPCAwIHx8IHBvc2l0aW9uLmNvbHVtbigpIDwgMCkgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJQb3NpdGlvbiBjYW5ub3QgaGF2ZSBuZWdhdGl2ZSBpbmRpY2VzIik7CiAgICAgICAgfQogICAgICAgIGlmIChwb3NpdGlvbi5yb3coKSA+PSBmaWxsSW5kaWNhdG9ycy5sZW5ndGggfHwgcG9zaXRpb24uY29sdW1uKCkgPj0gZmlsbEluZGljYXRvcnNbMF0ubGVuZ3RoKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIlBvc2l0aW9uIGNhbm5vdCBoYXZlIGluZGljZXMgbGFyZ2VyIHRoYW4gdGhlIGZpbGwgaW5kaWNhdG9ycyBzaXplIik7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>new Position(startingPosition.row() + filledPosition.row(),
-                startingPosition.column() + filledPosition.column())</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PExpc3Q8Qm9vbGVhbj4+IGFsbFZhbHVlcyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoTGlzdDxCPiByb3cgOiBmaWxsSW5kaWNhdG9ycykgewogICAgICAgICAgICBMaXN0PEJvb2xlYW4+IHJvd1ZhbHVlcyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgICAgICBmb3IgKGJvb2xlYW4gdmFsdWUgOiByb3cpIHsKICAgICAgICAgICAgICAgIHJvd1ZhbHVlcy5hZGQodmFsdWUpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGFsbFZhbHVlcy5hZGQocm93VmFsdWVzKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGFsbFZhbHVlcy50b1N0cmluZygpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>2bdf.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocG9zaXRpb24gPT0gbnVsbCkgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJQb3NpdGlvbiBjYW5ub3QgYmUgbnVsbCIpOwogICAgICAgIH0KICAgICAgICBpZiAocG9zaXRpb24ucm93KCkgPCAwIHx8IHBvc2l0aW9uLmNvbHVtbigpIDwgMCkgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJQb3NpdGlvbiBjYW5ub3QgaGF2ZSBuZWdhdGl2ZSBpbmRpY2VzIik7CiAgICAgICAgfQogICAgICAgIGlmIChwb3NpdGlvbi5yb3coKSA+PSBmaWxsSW5kaWNhdG9ycy5sZW5ndGggfHwgcG9zaXRpb24uY29sdW1uKCkgPj0gZmlsbEluZGljYXRvcnNbMF0ubGVuZ3RoKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIlBvc2l0aW9uIGNhbm5vdCBoYXZlIGluZGljZXMgbGFyZ2VyIHRoYW4gdGhlIGZpbGwgaW5kaWNhdG9ycyBzaXplIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZmlsbEluZGljYXRvcnMud2lkdGgoKSA+IDApIHsKICAgICAgICAgICAgcmV0dXJuIGZpbGxJbmRpY2F0b3JzWzBdLmxlbmd0aDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGNhbkFwcGx5R3Jhdml0eSgpIHsKICAgICAgICBmb3IgKGludCByb3dJbmRleCA9IHRldHJvbWlub1Bvc2l0aW9uLnJvdygpICsgMTsgcm93SW5kZXggPCB0ZXRyb21pbm9Qb3NpdGlvbi5yb3coKSArIGN1cnJlbnRUZXRyb21pbm8uaGVpZ2h0KCk7CiAgICAgICAgICAgICByb3dJbmRleCsrKSB7CiAgICAgICAgICAgIGZvciAoaW50IGNvbHVtbkluZGV4ID0gdGV0cm9taW5vUG9zaXRpb24uY29sdW1uKCk7CiAgICAgICAgICAgICAgICAgY29sdW1uSW5kZXggPCB0ZXRyb21pbm9Qb3NpdGlvbi5jb2x1bW4oKSArIGN1cnJlbnRUZXRyb21pbm8ud2lkdGgoKTsgY29sdW1uSW5kZXgrKykgewogICAgICAgICAgICAgICAgaWYgKHJvd0luZGV4IDwgY2VsbHMubGVuZ3RoICYmIGN1cnJlbnRUZXRyb21pbm8uaXNGaWxsZWQoCiAgICAgICAgICAgICAgICAgICAgbmV3IFBvc2l0aW9uKHJvd0luZGV4IC0gdGV0cm9taW5vUG9zaXRpb24ucm93KCksIGNvbHVtbkluZGV4IC0gdGV0cm9taW5vUG9zaXRpb24uY29sdW1uKCkpKSAmJgogICAgICAgICAgICAgICAgICAgIGNlbGxzW3Jvd0luZGV4XVtjb2x1bW5JbmRleF0gIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBTZXQ8UG9zaXRpb24+IGZpbGxlZFBvc2l0aW9ucyA9IG5ldyBIYXNoU2V0PD4oKTsKICAgICAgICBmb3IgKGludCByb3dJbmRleCA9IDA7IHJvd0luZGV4IDwgaW1tdXRhYmxlVGV0cm9taW5vLmhlaWdodChjdXJyZW50T3JpZW50YXRpb25JbmRleCk7IHJvd0luZGV4KyspIHsKICAgICAgICAgICAgZm9yIChpbnQgY29sdW1uSW5kZXggPSAwOyBjb2x1bW5JbmRleCA8IGltbXV0YWJsZVRldHJvbWluby53aWR0aChjdXJyZW50T3JpZW50YXRpb25JbmRleCk7IGNvbHVtbkluZGV4KyspIHsKICAgICAgICAgICAgICAgIFBvc2l0aW9uIHBvc2l0aW9uID0gbmV3IFBvc2l0aW9uKHJvd0luZGV4LCBjb2x1bW5JbmRleCk7CiAgICAgICAgICAgICAgICBpZiAoaW1tdXRhYmxlVGV0cm9taW5vLmlzRmlsbGVkKHBvc2l0aW9uLCBjdXJyZW50T3JpZW50YXRpb25JbmRleCkpIHsKICAgICAgICAgICAgICAgICAgICBmaWxsZWRQb3NpdGlvbnMuYWRkKHBvc2l0aW9uKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gZmlsbGVkUG9zaXRpb25zOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgRGltZW5zaW9uKCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgc2l6ZSgpIHsKICAgICAgICByZXR1cm4gb3JpZW50YXRpb25zLnNpemUoKTsKICAgIH0KCg==</text>
+      <register name="6" type="4">
+        <text>new Position(startingPosition.row() + filledPosition.row(),
+                startingPosition.column() + filledPosition.column())</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBPcmllbnRhdGlvbiBnZXRPcmllbnRhdGlvbihpbnQgaW5kZXgpIHsKICAgICAgICByZXR1cm4gb3JpZW50YXRpb25zLmdldChpbmRleCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2861,10 +2866,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPcmllbnRhdGlvbiBvcmllbnRhdGlvbiA9IGltbXV0YWJsZVRldHJvbWluby5nZXRPcmllbnRhdGlvbihjdXJyZW50T3JpZW50YXRpb25JbmRleCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGNhbkFwcGx5R3Jhdml0eSgpIHsKICAgICAgICBmb3IgKGludCByb3dJbmRleCA9IHRldHJvbWlub1Bvc2l0aW9uLnJvdygpICsgMTsgcm93SW5kZXggPCB0ZXRyb21pbm9Qb3NpdGlvbi5yb3coKSArIGN1cnJlbnRUZXRyb21pbm8uaGVpZ2h0KCk7CiAgICAgICAgICAgICByb3dJbmRleCsrKSB7CiAgICAgICAgICAgIGZvciAoaW50IGNvbHVtbkluZGV4ID0gdGV0cm9taW5vUG9zaXRpb24uY29sdW1uKCk7CiAgICAgICAgICAgICAgICAgY29sdW1uSW5kZXggPCB0ZXRyb21pbm9Qb3NpdGlvbi5jb2x1bW4oKSArIGN1cnJlbnRUZXRyb21pbm8ud2lkdGgoKTsgY29sdW1uSW5kZXgrKykgewogICAgICAgICAgICAgICAgaWYgKHJvd0luZGV4IDwgY2VsbHMubGVuZ3RoICYmIGN1cnJlbnRUZXRyb21pbm8uaXNGaWxsZWQoCiAgICAgICAgICAgICAgICAgICAgbmV3IFBvc2l0aW9uKHJvd0luZGV4IC0gdGV0cm9taW5vUG9zaXRpb24ucm93KCksIGNvbHVtbkluZGV4IC0gdGV0cm9taW5vUG9zaXRpb24uY29sdW1uKCkpKSAmJgogICAgICAgICAgICAgICAgICAgIGNlbGxzW3Jvd0luZGV4XVtjb2x1bW5JbmRleF0gIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
