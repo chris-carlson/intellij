@@ -12,7 +12,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="tos" value="@Override&#10;public int toString() {&#10;    return $EXPRESSION$;&#10;}" description="toString override" toReformat="false" toShortenFQNames="true">
+  <template name="tos" value="@Override&#10;public String toString() {&#10;    return $EXPRESSION$;&#10;}" description="toString override" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />

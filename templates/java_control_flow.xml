@@ -100,10 +100,10 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="nch" value="if ($EXPRESSION$ != null) {&#10;    $END$&#10;}" description="null check" toReformat="false" toShortenFQNames="true">
+  <template name="nch" value="$EXPRESSION$ != null" description="null check" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
   <template name="ift" value="if ($EXPRESSION$) {&#10;    throw new $EXCEPTION$(&quot;$MESSAGE$&quot;);&#10;}" description="if statement to throw exception" toReformat="false" toShortenFQNames="true">

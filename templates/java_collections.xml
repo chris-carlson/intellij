@@ -1,24 +1,46 @@
 <templateSet group="java_collections">
-  <template name="list" value="List&lt;$TYPE$&gt; $NAME$ = new ArrayList&lt;&gt;();" description="list initialization" toReformat="false" toShortenFQNames="true">
+  <template name="list" value="java.util.List&lt;$TYPE$&gt; $NAME$ = $VALUE$;" description="list initialization" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="&quot;new ArrayList&lt;&gt;()&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="set" value="Set&lt;$TYPE$&gt; $NAME$ = new HashSet&lt;&gt;();" description="set initialization" toReformat="false" toShortenFQNames="true">
+  <template name="set" value="java.util.Set&lt;$TYPE$&gt; $NAME$ = $VALUE$;" description="set initialization" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="&quot;new HashSet&lt;&gt;()&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="map" value="Map&lt;$TYPE1$, $TYPE2$&gt; $NAME$ = new HashMap&lt;&gt;();" description="map initialization" toReformat="false" toShortenFQNames="true">
+  <template name="map" value="java.util.Map&lt;$TYPE1$, $TYPE2$&gt; $NAME$ = new java.util.HashMap&lt;&gt;();" description="map initialization" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="list2" value="java.util.List&lt;java.util.List&lt;$TYPE$&gt;&gt; $NAME$ = $VALUE$;" description="double list initialization" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="&quot;new ArrayList&lt;&gt;()&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="glist" value="com.google.common.collect.Lists.newArrayList($ELEMENTS$);" description="guava list" toReformat="false" toShortenFQNames="true">
+    <variable name="ELEMENTS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="gset" value="com.google.common.collect.Sets.newHashSet($ELEMENTS$);" description="guava set" toReformat="false" toShortenFQNames="true">
+    <variable name="ELEMENTS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
 </templateSet>
