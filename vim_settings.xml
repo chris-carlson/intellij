@@ -963,10 +963,10 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/data/GridTest.java" timestamp="1532202889241">
-        <mark key="[" line="49" column="101" />
-        <mark key="]" line="49" column="102" />
-        <mark key="." line="49" column="102" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/data/GridTest.java" timestamp="1532304844151">
+        <mark key="[" line="73" column="75" />
+        <mark key="]" line="73" column="75" />
+        <mark key="." line="73" column="75" />
         <mark key="^" line="43" column="101" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/swing/label/TextLabel.java" timestamp="1472942101362">
@@ -2837,8 +2837,8 @@
       <jump line="76" column="59" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoPlacerTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgd2lkdGgoKSB7CiAgICAgICAgcmV0dXJuIGNlbGxzLndpZHRoKCk7CiAgICB9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>, Lists.newArrayList(2, null, 1)</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2869,7 +2869,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>instance.getCells()</text>
+        <text>, Lists.newArrayList(2, null, 1)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZWxsc1w+</text>
