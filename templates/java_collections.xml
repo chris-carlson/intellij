@@ -31,13 +31,13 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="glist" value="com.google.common.collect.Lists.newArrayList($ELEMENTS$);" description="guava list" toReformat="false" toShortenFQNames="true">
+  <template name="glist" value="com.google.common.collect.Lists.newArrayList($ELEMENTS$)" description="guava list" toReformat="false" toShortenFQNames="true">
     <variable name="ELEMENTS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="gset" value="com.google.common.collect.Sets.newHashSet($ELEMENTS$);" description="guava set" toReformat="false" toShortenFQNames="true">
+  <template name="gset" value="com.google.common.collect.Sets.newHashSet($ELEMENTS$)" description="guava set" toReformat="false" toShortenFQNames="true">
     <variable name="ELEMENTS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
