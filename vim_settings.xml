@@ -151,12 +151,6 @@
         <mark key="." line="16" column="78" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_4.snippet" timestamp="1531786406070">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Orientation.java" timestamp="1532201076639">
         <mark key="'" line="24" column="4" />
         <mark key="[" line="11" column="0" />
@@ -164,8 +158,8 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="48" column="40" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/BoardTest.java" timestamp="1532300523824">
-        <mark key="'" line="66" column="68" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/BoardTest.java" timestamp="1532735656016">
+        <mark key="'" line="86" column="12" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="76" column="60" />
@@ -204,7 +198,8 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Board.java" timestamp="1532469000660">
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Board.java" timestamp="1532735962990">
+        <mark key="'" line="22" column="0" />
         <mark key="[" line="55" column="66" />
         <mark key="]" line="56" column="19" />
         <mark key="." line="56" column="19" />
@@ -306,6 +301,12 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="27" column="62" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_3.snippet" timestamp="1528053825864">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/swing/listener/mouse/MouseListener.java" timestamp="1472942080814">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="18" />
@@ -356,13 +357,6 @@
         <mark key="]" line="53" column="39" />
         <mark key="." line="53" column="39" />
         <mark key="^" line="53" column="39" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_1.snippet" timestamp="1513035954690">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="36" />
-        <mark key="^" line="3" column="36" />
-        <mark key="." line="3" column="36" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/mint_works/src/main/java/mvc/view/location/LocationInfoView.java" timestamp="1524333607230">
         <mark key="'" line="17" column="43" />
@@ -656,6 +650,9 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="/Dummy.txt" timestamp="1532736090708">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/mint_works/src/main/java/mvc/view/plan/PlanCostView.java" timestamp="1524940066097">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="14" column="49" />
@@ -773,6 +770,12 @@
         <mark key="]" line="19" column="10" />
         <mark key="^" line="19" column="10" />
         <mark key="." line="19" column="10" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_2.snippet" timestamp="1521674856224">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="33" />
+        <mark key="^" line="3" column="33" />
+        <mark key="." line="3" column="33" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/mint_works/src/main/java/util/ColorUtility.java" timestamp="1528663052429">
         <mark key="'" line="19" column="68" />
@@ -1304,6 +1307,13 @@
         <mark key="." line="10" column="19" />
         <mark key="^" line="10" column="19" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_1.snippet" timestamp="1513035954690">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/mint_works/src/main/java/mvc/model/PlayerType.java" timestamp="1518980029658">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="3" column="13" />
@@ -1454,6 +1464,12 @@
         <mark key="]" line="17" column="32" />
         <mark key="." line="17" column="32" />
         <mark key="^" line="17" column="32" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" timestamp="1512860142969">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="29" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/mvc/view/CellMode.java" timestamp="1502911009274">
         <mark key="[" line="2" column="22" />
@@ -2000,12 +2016,6 @@
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_3.snippet" timestamp="1528053825864">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/model/TwoDimensionalArraySection.java" timestamp="1497723249318">
         <mark key="'" line="48" column="73" />
         <mark key="[" line="36" column="25" />
@@ -2046,7 +2056,7 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1532468339518">
+      <file name="/fragment.java" timestamp="1532736090756">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="1" column="12" />
@@ -2198,12 +2208,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="15" column="34" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" timestamp="1512860142969">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="2" column="29" />
-        <mark key="^" line="2" column="29" />
-        <mark key="." line="2" column="29" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/technique/TechniqueTest.java" timestamp="1513441877435">
         <mark key="[" line="11" column="30" />
@@ -2547,12 +2551,6 @@
         <mark key="^" line="14" column="47" />
         <mark key="." line="14" column="47" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_2.snippet" timestamp="1521674856224">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="33" />
-        <mark key="^" line="3" column="33" />
-        <mark key="." line="3" column="33" />
-      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/mint_works/src/main/java/mvc/view/location/SpaceOutlineLabel.java" timestamp="1519495186175">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="16" />
@@ -2665,6 +2663,12 @@
         <mark key="^" line="6" column="52" />
         <mark key="." line="6" column="52" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console_4.snippet" timestamp="1531786406070">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/mvc/model/CellModelTest.java" timestamp="1503160181602">
         <mark key="'" line="44" column="28" />
         <mark key="[" line="44" column="28" />
@@ -2743,8 +2747,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="38" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/OrientationTest.java" />
-      <jump line="31" column="37" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/OrientationTest.java" />
       <jump line="40" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Tetromino.java" />
       <jump line="15" column="65" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoTest.java" />
       <jump line="29" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoTest.java" />
@@ -2843,6 +2845,8 @@
       <jump line="34" column="3" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/GravityApplier.java" />
       <jump line="19" column="21" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/TetrominoPlacer.java" />
       <jump line="27" column="61" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/GravityApplier.java" />
+      <jump line="86" column="12" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/BoardTest.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Board.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

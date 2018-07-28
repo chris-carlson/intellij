@@ -1,8 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.1" />
+    <option name="version" value="2.7.0" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="isContrastMode" value="true" />
+    <option name="accentColor" value="009688" />
     <option name="darkTitleBar" value="true" />
     <option name="userId" value="2b3ca2bd:164050c1672:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="overrideAccentColor" value="true" />
   </component>
 </application>
