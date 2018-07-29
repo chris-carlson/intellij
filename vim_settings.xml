@@ -158,12 +158,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="48" column="40" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/BoardTest.java" timestamp="1532735656016">
-        <mark key="'" line="86" column="12" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="76" column="60" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/BoardTest.java" timestamp="1532891137247">
+        <mark key="'" line="12" column="12" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/data/DataUtility.java" timestamp="1531000250975">
         <mark key="'" line="6" column="87" />
@@ -198,12 +197,11 @@
         <mark key="^" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Board.java" timestamp="1532735962990">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="55" column="66" />
-        <mark key="]" line="56" column="19" />
-        <mark key="." line="56" column="19" />
-        <mark key="^" line="56" column="19" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Board.java" timestamp="1532891613453">
+        <mark key="[" line="58" column="5" />
+        <mark key="]" line="61" column="52" />
+        <mark key="." line="61" column="52" />
+        <mark key="^" line="61" column="52" />
       </file>
       <file name="D:/training/jetbrains/intellij/test/src/main/java/Test.java" timestamp="1528809458840">
         <mark key="[" line="11" column="65" />
@@ -1949,12 +1947,12 @@
         <mark key="^" line="29" column="51" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/GravityApplier.java" timestamp="1532469058411">
-        <mark key="'" line="25" column="61" />
-        <mark key="[" line="25" column="46" />
-        <mark key="]" line="25" column="61" />
-        <mark key="." line="25" column="61" />
-        <mark key="^" line="25" column="61" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/GravityApplier.java" timestamp="1532891729605">
+        <mark key="'" line="34" column="57" />
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="28" column="38" />
+        <mark key="." line="28" column="38" />
+        <mark key="^" line="28" column="38" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/mint_works/src/main/java/mvc/view/location/LocationOwnerEffectView.java" timestamp="1524923273310">
         <mark key="[" line="14" column="52" />
@@ -2056,7 +2054,7 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1532736090756">
+      <file name="/fragment.java" timestamp="1532891613944">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="1" column="12" />
@@ -2333,19 +2331,19 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/TetrominoPlacer.java" timestamp="1532469030550">
-        <mark key="'" line="19" column="21" />
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="21" />
-        <mark key="^" line="19" column="16" />
-        <mark key="." line="19" column="21" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/TetrominoPlacer.java" timestamp="1532890661977">
+        <mark key="'" line="26" column="25" />
+        <mark key="[" line="29" column="42" />
+        <mark key="]" line="29" column="57" />
+        <mark key="^" line="29" column="57" />
+        <mark key="." line="29" column="57" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoPlacerTest.java" timestamp="1532468579850">
-        <mark key="'" line="77" column="59" />
-        <mark key="[" line="78" column="59" />
-        <mark key="]" line="78" column="60" />
-        <mark key="." line="78" column="60" />
-        <mark key="^" line="78" column="93" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoPlacerTest.java" timestamp="1532890787253">
+        <mark key="'" line="87" column="48" />
+        <mark key="[" line="87" column="48" />
+        <mark key="]" line="87" column="49" />
+        <mark key="^" line="65" column="86" />
+        <mark key="." line="87" column="49" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/data/src/test/java/personal/cac/components/data/list/ArrayList.java" timestamp="1500684439621">
         <mark key="[" line="2" column="22" />
@@ -2733,6 +2731,13 @@
         <mark key="^" line="18" column="91" />
         <mark key="." line="18" column="91" />
       </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/GravityApplierTest.java" timestamp="1532891206877">
+        <mark key="'" line="84" column="56" />
+        <mark key="[" line="84" column="52" />
+        <mark key="]" line="84" column="52" />
+        <mark key="." line="84" column="53" />
+        <mark key="^" line="82" column="69" />
+      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/test/view/puzzle/BoxPanelTest.java" timestamp="1473541040577">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -2747,14 +2752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Tetromino.java" />
-      <jump line="15" column="65" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoTest.java" />
-      <jump line="29" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoTest.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoTest.java" />
-      <jump line="24" column="55" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/data/TetrominoReader.java" />
-      <jump line="9" column="13" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Orientation.java" />
-      <jump line="14" column="11" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Tetromino.java" />
-      <jump line="29" column="48" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/OrientationTest.java" />
       <jump line="10" column="30" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/OrientationTest.java" />
       <jump line="21" column="104" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/OrientationTest.java" />
       <jump line="11" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/OrientationTest.java" />
@@ -2834,7 +2831,6 @@
       <jump line="148" column="68" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/BoardTest.java" />
       <jump line="11" column="27" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/data/Direction.java" />
       <jump line="20" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/TetrominoPlacer.java" />
-      <jump line="26" column="37" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/TetrominoPlacer.java" />
       <jump line="12" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/data/PositionTest.java" />
       <jump line="14" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoPlacerTest.java" />
       <jump line="25" column="62" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoPlacerTest.java" />
@@ -2847,10 +2843,19 @@
       <jump line="27" column="61" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/GravityApplier.java" />
       <jump line="86" column="12" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/BoardTest.java" />
       <jump line="22" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Board.java" />
+      <jump line="16" column="21" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/TetrominoPlacer.java" />
+      <jump line="26" column="25" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/TetrominoPlacer.java" />
+      <jump line="42" column="91" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoPlacerTest.java" />
+      <jump line="84" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoPlacerTest.java" />
+      <jump line="87" column="48" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoPlacerTest.java" />
+      <jump line="29" column="90" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/GravityApplier.java" />
+      <jump line="31" column="74" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/GravityApplier.java" />
+      <jump line="84" column="56" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/GravityApplierTest.java" />
+      <jump line="33" column="57" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/GravityApplier.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib2FyZC5zZXRDdXJyZW50VGV0cm9taW5vKCk7Cg==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2881,16 +2886,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getStartingPosition(currentTetrominoPosition)</text>
+        <text>board.getCurrentTetrominoPosition()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZWxsc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQb3NpdGlvbiBzdGFydGluZ1Bvc2l0aW9uID0gZ2V0U3RhcnRpbmdQb3NpdGlvbihjdXJyZW50VGV0cm9taW5vUG9zaXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBHcmF2aXR5QXBwbGllcihib2FyZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib2FyZC5zZXRDdXJyZW50VGV0cm9taW5vKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2936,23 +2941,24 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdmVDdXJyZW50VGV0cm9taW5vKCk7CiAgICAgICAgUG9zaXRpb24gc3RhcnRpbmdQb3NpdGlvbiA9CiAgICAgICAgICAgIG5ldyBQb3NpdGlvbihjdXJyZW50VGV0cm9taW5vUG9zaXRpb24ucm93KCksIGN1cnJlbnRUZXRyb21pbm9Qb3NpdGlvbi5jb2x1bW4oKSArIGRpcmVjdGlvbi5nZXRWYWx1ZSgpKTsKICAgICAgICBmb3IgKFBvc2l0aW9uIGZpbGxlZFBvc2l0aW9uIDogY3VycmVudFRldHJvbWluby5nZXRGaWxsZWRQb3NpdGlvbnMoKSkgewogICAgICAgICAgICBQb3NpdGlvbiB0ZXRyb21pbm9Qb3NpdGlvbiA9IFBvc2l0aW9uLmdldENvbXBvc2l0ZVBvc2l0aW9uKHN0YXJ0aW5nUG9zaXRpb24sIGZpbGxlZFBvc2l0aW9uKTsKICAgICAgICAgICAgY2VsbHMuc2V0KHRldHJvbWlub1Bvc2l0aW9uLCBjdXJyZW50VGV0cm9taW5vLmdldFR5cGUoKSk7CiAgICAgICAgfQogICAgICAgIGN1cnJlbnRUZXRyb21pbm9Qb3NpdGlvbiA9IHN0YXJ0aW5nUG9zaXRpb247Cg==</text>
+      <register name="2" type="4">
+        <text>public void applyGravity() {
+        Position startingPosition = getStartingPosition(b</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8UG9zaXRpb24+IGZpbGxlZFBvc2l0aW9ucyA9IGdldEZpbGxlZFBvc2l0aW9uc0ZvckN1cnJlbnRUZXRyb21pbm8oKTsKICAgICAgICBQb3NpdGlvbiBzdGFydGluZ1Bvc2l0aW9uID0KICAgICAgICAgICAgbmV3IFBvc2l0aW9uKGN1cnJlbnRUZXRyb21pbm9Qb3NpdGlvbi5yb3coKSwgY3VycmVudFRldHJvbWlub1Bvc2l0aW9uLmNvbHVtbigpICsgZGlyZWN0aW9uLmdldFZhbHVlKCkpOwogICAgICAgIGZvciAoUG9zaXRpb24gZmlsbGVkUG9zaXRpb24gOiBjdXJyZW50VGV0cm9taW5vLmdldEZpbGxlZFBvc2l0aW9ucygpKSB7CiAgICAgICAgICAgIFBvc2l0aW9uIHRldHJvbWlub1Bvc2l0aW9uID0gUG9zaXRpb24uZ2V0Q29tcG9zaXRlUG9zaXRpb24oc3RhcnRpbmdQb3NpdGlvbiwgZmlsbGVkUG9zaXRpb24pOwogICAgICAgICAgICBpZiAoY2VsbHMucG9zaXRpb25Jc0lsbGVnYWwodGV0cm9taW5vUG9zaXRpb24pIHx8CiAgICAgICAgICAgICAgICAoY2VsbHMuaXNGaWxsZWQodGV0cm9taW5vUG9zaXRpb24pICYmICFmaWxsZWRQb3NpdGlvbnMuY29udGFpbnModGV0cm9taW5vUG9zaXRpb24pKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGNhbkFwcGx5R3Jhdml0eSgpIHsKICAgICAgICBMaXN0PExpc3Q8VGV0cm9taW5vVHlwZT4+IHRldHJvbWlub1R5cGVzID0gTGlzdHMKICAgICAgICAgICAgLm5ld0FycmF5TGlzdChMaXN0cy5uZXdBcnJheUxpc3QobnVsbCwgbnVsbCwgVGV0cm9taW5vVHlwZS5JX1RFVFJPTUlOTywgbnVsbCksCiAgICAgICAgICAgICAgICBMaXN0cy5uZXdBcnJheUxpc3QobnVsbCwgVGV0cm9taW5vVHlwZS5JX1RFVFJPTUlOTywgVGV0cm9taW5vVHlwZS5JX1RFVFJPTUlOTywgbnVsbCksCiAgICAgICAgICAgICAgICBMaXN0cy5uZXdBcnJheUxpc3QoVGV0cm9taW5vVHlwZS5UX1RFVFJPTUlOTywgbnVsbCwgbnVsbCwgbnVsbCkpOwogICAgICAgIExpc3Q8TGlzdDxCb29sZWFuPj4gZmlsbEluZGljYXRvcnMgPQogICAgICAgICAgICBMaXN0cy5uZXdBcnJheUxpc3QoTGlzdHMubmV3QXJyYXlMaXN0KGZhbHNlLCB0cnVlKSwgTGlzdHMubmV3QXJyYXlMaXN0KHRydWUsIHRydWUpKTsKICAgICAgICBPcmllbnRhdGlvbiBvcmllbnRhdGlvbiA9IG5ldyBPcmllbnRhdGlvbihuZXcgR3JpZDw+KGZpbGxJbmRpY2F0b3JzKSk7CiAgICAgICAgSW1tdXRhYmxlVGV0cm9taW5vIGltbXV0YWJsZVRldHJvbWlubyA9CiAgICAgICAgICAgIG5ldyBJbW11dGFibGVUZXRyb21pbm8oTGlzdHMubmV3QXJyYXlMaXN0KG9yaWVudGF0aW9uKSwgVGV0cm9taW5vVHlwZS5JX1RFVFJPTUlOTyk7CiAgICAgICAgVGV0cm9taW5vIHRldHJvbWlubyA9IG5ldyBUZXRyb21pbm8oaW1tdXRhYmxlVGV0cm9taW5vKTsKICAgICAgICBpbnN0YW5jZSA9IG5ldyBCb2FyZChuZXcgR3JpZDw+KHRldHJvbWlub1R5cGVzKSwgdGV0cm9taW5vLCBuZXcgUG9zaXRpb24oMCwgMSkpOwogICAgICAgIC8vIEFzc2VydGlvbnMuYXNzZXJ0VHJ1ZShpbnN0YW5jZS5jYW5BcHBseUdyYXZpdHkoKSk7CiAgICB9CgogICAgQFRlc3QKICAgIHZvaWQgY2Fubm90QXBwbHlHcmF2aXR5RHVlVG9UZXRyb21pbm8oKSB7CiAgICAgICAgTGlzdDxMaXN0PFRldHJvbWlub1R5cGU+PiB0ZXRyb21pbm9UeXBlcyA9IExpc3RzCiAgICAgICAgICAgIC5uZXdBcnJheUxpc3QoTGlzdHMubmV3QXJyYXlMaXN0KG51bGwsIG51bGwsIFRldHJvbWlub1R5cGUuSV9URVRST01JTk8sIG51bGwpLAogICAgICAgICAgICAgICAgTGlzdHMubmV3QXJyYXlMaXN0KG51bGwsIFRldHJvbWlub1R5cGUuSV9URVRST01JTk8sIFRldHJvbWlub1R5cGUuSV9URVRST01JTk8sIG51bGwpLAogICAgICAgICAgICAgICAgTGlzdHMubmV3QXJyYXlMaXN0KG51bGwsIFRldHJvbWlub1R5cGUuVF9URVRST01JTk8sIG51bGwsIG51bGwpKTsKICAgICAgICBMaXN0PExpc3Q8Qm9vbGVhbj4+IGZpbGxJbmRpY2F0b3JzID0KICAgICAgICAgICAgTGlzdHMubmV3QXJyYXlMaXN0KExpc3RzLm5ld0FycmF5TGlzdChmYWxzZSwgdHJ1ZSksIExpc3RzLm5ld0FycmF5TGlzdCh0cnVlLCB0cnVlKSk7CiAgICAgICAgT3JpZW50YXRpb24gb3JpZW50YXRpb24gPSBuZXcgT3JpZW50YXRpb24obmV3IEdyaWQ8PihmaWxsSW5kaWNhdG9ycykpOwogICAgICAgIEltbXV0YWJsZVRldHJvbWlubyBpbW11dGFibGVUZXRyb21pbm8gPQogICAgICAgICAgICBuZXcgSW1tdXRhYmxlVGV0cm9taW5vKExpc3RzLm5ld0FycmF5TGlzdChvcmllbnRhdGlvbiksIFRldHJvbWlub1R5cGUuSV9URVRST01JTk8pOwogICAgICAgIFRldHJvbWlubyB0ZXRyb21pbm8gPSBuZXcgVGV0cm9taW5vKGltbXV0YWJsZVRldHJvbWlubyk7CiAgICAgICAgaW5zdGFuY2UgPSBuZXcgQm9hcmQobmV3IEdyaWQ8Pih0ZXRyb21pbm9UeXBlcyksIHRldHJvbWlubywgbmV3IFBvc2l0aW9uKDAsIDEpKTsKICAgICAgICAvLyBBc3NlcnRpb25zLmFzc2VydEZhbHNlKGluc3RhbmNlLmNhbkFwcGx5R3Jhdml0eSgpKTsKICAgIH0KCiAgICBAVGVzdAogICAgdm9pZCBjYW5ub3RBcHBseUdyYXZpdHlEdWVUb0JvYXJkQm91bmRzKCkgewogICAgICAgIExpc3Q8TGlzdDxUZXRyb21pbm9UeXBlPj4gdGV0cm9taW5vVHlwZXMgPSBMaXN0cwogICAgICAgICAgICAubmV3QXJyYXlMaXN0KExpc3RzLm5ld0FycmF5TGlzdChudWxsLCBudWxsLCBUZXRyb21pbm9UeXBlLklfVEVUUk9NSU5PLCBudWxsKSwKICAgICAgICAgICAgICAgIExpc3RzLm5ld0FycmF5TGlzdChudWxsLCBUZXRyb21pbm9UeXBlLklfVEVUUk9NSU5PLCBUZXRyb21pbm9UeXBlLklfVEVUUk9NSU5PLCBudWxsKSwKICAgICAgICAgICAgICAgIExpc3RzLm5ld0FycmF5TGlzdChUZXRyb21pbm9UeXBlLlRfVEVUUk9NSU5PLCBudWxsLCBudWxsLCBudWxsKSk7CiAgICAgICAgTGlzdDxMaXN0PEJvb2xlYW4+PiBmaWxsSW5kaWNhdG9ycyA9CiAgICAgICAgICAgIExpc3RzLm5ld0FycmF5TGlzdChMaXN0cy5uZXdBcnJheUxpc3QoZmFsc2UsIHRydWUpLCBMaXN0cy5uZXdBcnJheUxpc3QodHJ1ZSwgdHJ1ZSkpOwogICAgICAgIE9yaWVudGF0aW9uIG9yaWVudGF0aW9uID0gbmV3IE9yaWVudGF0aW9uKG5ldyBHcmlkPD4oZmlsbEluZGljYXRvcnMpKTsKICAgICAgICBJbW11dGFibGVUZXRyb21pbm8gaW1tdXRhYmxlVGV0cm9taW5vID0KICAgICAgICAgICAgbmV3IEltbXV0YWJsZVRldHJvbWlubyhMaXN0cy5uZXdBcnJheUxpc3Qob3JpZW50YXRpb24pLCBUZXRyb21pbm9UeXBlLklfVEVUUk9NSU5PKTsKICAgICAgICBUZXRyb21pbm8gdGV0cm9taW5vID0gbmV3IFRldHJvbWlubyhpbW11dGFibGVUZXRyb21pbm8pOwogICAgICAgIGluc3RhbmNlID0gbmV3IEJvYXJkKG5ldyBHcmlkPD4odGV0cm9taW5vVHlwZXMpLCB0ZXRyb21pbm8sIG5ldyBQb3NpdGlvbigxLCAxKSk7CiAgICAgICAgLy8gQXNzZXJ0aW9ucy5hc3NlcnRGYWxzZShpbnN0YW5jZS5jYW5BcHBseUdyYXZpdHkoKSk7CiAgICB9CgogICAgQFRlc3QKICAgIHZvaWQgYXBwbHlHcmF2aXR5KCkgewogICAgICAgIExpc3Q8TGlzdDxUZXRyb21pbm9UeXBlPj4gdGV0cm9taW5vVHlwZXNCZWZvcmUgPSBMaXN0cwogICAgICAgICAgICAubmV3QXJyYXlMaXN0KExpc3RzLm5ld0FycmF5TGlzdChudWxsLCBudWxsLCBUZXRyb21pbm9UeXBlLklfVEVUUk9NSU5PLCBudWxsKSwKICAgICAgICAgICAgICAgIExpc3RzLm5ld0FycmF5TGlzdChudWxsLCBUZXRyb21pbm9UeXBlLklfVEVUUk9NSU5PLCBUZXRyb21pbm9UeXBlLklfVEVUUk9NSU5PLCBudWxsKSwKICAgICAgICAgICAgICAgIExpc3RzLm5ld0FycmF5TGlzdChUZXRyb21pbm9UeXBlLlRfVEVUUk9NSU5PLCBudWxsLCBudWxsLCBudWxsKSk7CiAgICAgICAgTGlzdDxMaXN0PEJvb2xlYW4+PiBmaWxsSW5kaWNhdG9ycyA9CiAgICAgICAgICAgIExpc3RzLm5ld0FycmF5TGlzdChMaXN0cy5uZXdBcnJheUxpc3QoZmFsc2UsIHRydWUpLCBMaXN0cy5uZXdBcnJheUxpc3QodHJ1ZSwgdHJ1ZSkpOwogICAgICAgIE9yaWVudGF0aW9uIG9yaWVudGF0aW9uID0gbmV3IE9yaWVudGF0aW9uKG5ldyBHcmlkPD4oZmlsbEluZGljYXRvcnMpKTsKICAgICAgICBJbW11dGFibGVUZXRyb21pbm8gaW1tdXRhYmxlVGV0cm9taW5vID0KICAgICAgICAgICAgbmV3IEltbXV0YWJsZVRldHJvbWlubyhMaXN0cy5uZXdBcnJheUxpc3Qob3JpZW50YXRpb24pLCBUZXRyb21pbm9UeXBlLklfVEVUUk9NSU5PKTsKICAgICAgICBUZXRyb21pbm8gdGV0cm9taW5vID0gbmV3IFRldHJvbWlubyhpbW11dGFibGVUZXRyb21pbm8pOwogICAgICAgIGluc3RhbmNlID0gbmV3IEJvYXJkKG5ldyBHcmlkPD4odGV0cm9taW5vVHlwZXNCZWZvcmUpLCB0ZXRyb21pbm8sIG5ldyBQb3NpdGlvbigwLCAxKSk7CiAgICAgICAgLy8gaW5zdGFuY2UuYXBwbHlHcmF2aXR5KCk7CiAgICAgICAgTGlzdDxMaXN0PFRldHJvbWlub1R5cGU+PiB0ZXRyb21pbm9UeXBlc0FmdGVyID0gTGlzdHMubmV3QXJyYXlMaXN0KExpc3RzLm5ld0FycmF5TGlzdChudWxsLCBudWxsLCBudWxsLCBudWxsKSwKICAgICAgICAgICAgTGlzdHMubmV3QXJyYXlMaXN0KG51bGwsIG51bGwsIFRldHJvbWlub1R5cGUuSV9URVRST01JTk8sIG51bGwpLAogICAgICAgICAgICBMaXN0cy5uZXdBcnJheUxpc3QoVGV0cm9taW5vVHlwZS5UX1RFVFJPTUlOTywgVGV0cm9taW5vVHlwZS5JX1RFVFJPTUlOTywgVGV0cm9taW5vVHlwZS5JX1RFVFJPTUlOTywgbnVsbCkpOwogICAgICAgIEFzc2VydGlvbnMuYXNzZXJ0RXF1YWxzKG5ldyBHcmlkPD4odGV0cm9taW5vVHlwZXNBZnRlciksIGluc3RhbmNlLmdldENlbGxzKCkpOwogICAgICAgIEFzc2VydGlvbnMuYXNzZXJ0RXF1YWxzKHRldHJvbWlubywgaW5zdGFuY2UuZ2V0Q3VycmVudFRldHJvbWlubygpKTsKICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhuZXcgUG9zaXRpb24oMSwgMSksIGluc3RhbmNlLmdldEN1cnJlbnRUZXRyb21pbm9Qb3NpdGlvbigpKTsKICAgIH0KCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBQb3NpdGlvbiBzdGFydGluZ1Bvc2l0aW9uID0gbmV3IFBvc2l0aW9uKGN1cnJlbnRUZXRyb21pbm9Qb3NpdGlvbi5yb3coKSArIDEsIGN1cnJlbnRUZXRyb21pbm9Qb3NpdGlvbi5jb2x1bW4oKSk7CiAgICAgICAgZm9yIChQb3NpdGlvbiBmaWxsZWRQb3NpdGlvbiA6IGN1cnJlbnRUZXRyb21pbm8uZ2V0RmlsbGVkUG9zaXRpb25zKCkpIHsKICAgICAgICAgICAgUG9zaXRpb24gdGV0cm9taW5vUG9zaXRpb24gPSBQb3NpdGlvbi5nZXRDb21wb3NpdGVQb3NpdGlvbihzdGFydGluZ1Bvc2l0aW9uLCBmaWxsZWRQb3NpdGlvbik7CiAgICAgICAgICAgIGNlbGxzLnNldCh0ZXRyb21pbm9Qb3NpdGlvbiwgY3VycmVudFRldHJvbWluby5nZXRUeXBlKCkpOwogICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldENlbGxzKEdyaWQ8VGV0cm9taW5vVHlwZT4gY2VsbHMpIHsKICAgICAgICB0aGlzLmNlbGxzID0gY2VsbHM7CiAgICB9Cgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBTZXQ8UG9zaXRpb24+IGZpbGxlZFBvc2l0aW9ucyA9IGdldEZpbGxlZFBvc2l0aW9uc0ZvckN1cnJlbnRUZXRyb21pbm8oKTsKICAgICAgICBQb3NpdGlvbiBzdGFydGluZ1Bvc2l0aW9uID0gbmV3IFBvc2l0aW9uKGN1cnJlbnRUZXRyb21pbm9Qb3NpdGlvbi5yb3coKSArIDEsIGN1cnJlbnRUZXRyb21pbm9Qb3NpdGlvbi5jb2x1bW4oKSk7CiAgICAgICAgZm9yIChQb3NpdGlvbiBmaWxsZWRQb3NpdGlvbiA6IGN1cnJlbnRUZXRyb21pbm8uZ2V0RmlsbGVkUG9zaXRpb25zKCkpIHsKICAgICAgICAgICAgUG9zaXRpb24gdGV0cm9taW5vUG9zaXRpb24gPSBQb3NpdGlvbi5nZXRDb21wb3NpdGVQb3NpdGlvbihzdGFydGluZ1Bvc2l0aW9uLCBmaWxsZWRQb3NpdGlvbik7CiAgICAgICAgICAgIGlmIChjZWxscy5wb3NpdGlvbklzSWxsZWdhbCh0ZXRyb21pbm9Qb3NpdGlvbikgfHwKICAgICAgICAgICAgICAgIChjZWxscy5pc0ZpbGxlZCh0ZXRyb21pbm9Qb3NpdGlvbikgJiYgIWZpbGxlZFBvc2l0aW9ucy5jb250YWlucyh0ZXRyb21pbm9Qb3NpdGlvbikpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWU7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBHcmlkPFRldHJvbWlub1R5cGU+IGNlbGxzID0gbmV3IEdyaWQ8Pih0ZXRyb21pbm9UeXBlc0JlZm9yZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBUZXRyb21pbm9QbGFjZXIobmV3IEJvYXJkKG5ldyBHcmlkPD4odGV0cm9taW5vVHlwZXMpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBHcmlkPFRldHJvbWlub1R5cGU+IGNlbGxzID0gbmV3IEdyaWQ8Pih0ZXRyb21pbm9UeXBlc0JlZm9yZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2969,7 +2975,7 @@
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBUZXRyb21pbm9QbGFjZXIoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBUZXRyb21pbm9QbGFjZXIoKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
