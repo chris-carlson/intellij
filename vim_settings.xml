@@ -1201,7 +1201,7 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/view/CellPanelTest.java" timestamp="1533155215267">
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/view/CellPanelTest.java" timestamp="1533155217475">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="24" column="57" />
         <mark key="]" line="25" column="77" />
@@ -2705,7 +2705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="36" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoTest.java" />
       <jump line="69" column="47" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/Tetromino.java" />
       <jump line="70" column="77" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoTest.java" />
       <jump line="44" column="37" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/data/TetrominoReader.java" />
@@ -2805,6 +2804,7 @@
       <jump line="51" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/view/CellPanel.java" />
       <jump line="46" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/view/BoardPanel.java" />
       <jump line="37" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/view/BoardPanelTest.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/view/CellPanelTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
