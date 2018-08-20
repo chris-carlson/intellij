@@ -86,11 +86,12 @@
         <mark key="." line="96" column="30" />
         <mark key="^" line="96" column="30" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" timestamp="1534807195364">
-        <mark key="'" line="53" column="13" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" timestamp="1534808298937">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="49" column="57" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/puzzle/PuzzleReader.java" timestamp="1513543600078">
         <mark key="'" line="27" column="23" />
@@ -432,10 +433,10 @@
         <mark key="." line="59" column="57" />
         <mark key="^" line="59" column="46" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/view/TetrominoColor.java" timestamp="1532997809261">
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/view/TetrominoColor.java" timestamp="1534807899939">
         <mark key="'" line="20" column="94" />
-        <mark key="[" line="20" column="94" />
-        <mark key="]" line="20" column="95" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="21" column="20" />
         <mark key="^" line="17" column="100" />
         <mark key="." line="20" column="95" />
       </file>
@@ -1489,12 +1490,11 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/data/TetrominoReader.java" timestamp="1534633380382">
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/data/TetrominoReader.java" timestamp="1534808138512">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="15" />
-        <mark key="]" line="23" column="35" />
-        <mark key="^" line="23" column="35" />
-        <mark key="." line="23" column="35" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="D:/training/jetbrains/intellij/oose/src/main/java/OnlyActual.java" timestamp="1524064623658">
         <mark key="'" line="32" column="0" />
@@ -2775,7 +2775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="62" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoPlacerTest.java" />
       <jump line="47" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoPlacerTest.java" />
       <jump line="76" column="59" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoPlacerTest.java" />
       <jump line="29" column="27" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/TetrominoPlacer.java" />
@@ -2875,10 +2874,11 @@
       <jump line="40" column="8" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" />
       <jump line="39" column="13" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" />
       <jump line="68" column="16" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/controller/BoardController.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRldHJvbWlub0ZpbGUuZ2V0UGF0aCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBTdHJpbmcgcGF0aCA9IFJlc291cmNlcy5nZXRSZXNvdXJjZSgidGV0cm9taW5vcy90LnR4dCIpLmdldEZpbGUoKS5yZXBsYWNlKCIlMjAiLCAiICIpOwogICAgICAgIC8vIFRldHJvbWlub1JlYWRlciByZWFkZXIgPSBuZXcgVGV0cm9taW5vUmVhZGVyKCk7CiAgICAgICAgLy8gTGlzdDxJbW11dGFibGVUZXRyb21pbm8+IHRldHJvbWlub3MgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAvLyB0cnkgewogICAgICAgIC8vICAgICBCdWZmZXJlZFJlYWRlciBidWZmZXJlZFJlYWRlciA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgRmlsZVJlYWRlcihuZXcgRmlsZShwYXRoKSkpOwogICAgICAgIC8vICAgICB0ZXRyb21pbm9zLmFkZChyZWFkZXIucmVhZFRldHJvbWlubyhuZXcgUmVhZGVyKGJ1ZmZlcmVkUmVhZGVyKSwgVGV0cm9taW5vVHlwZS5UX1RFVFJPTUlOTykpOwogICAgICAgIC8vIH0gY2F0Y2ggKEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgLy8gICAgIExPR0dFUi5lcnJvcigiQ291bGQgbm90IHJlYWQgZmlsZSAiICsgcGF0aCk7CiAgICAgICAgLy8gfQoK</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2909,50 +2909,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZWxsc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUZXRyb21pbm9SZWFkZXIgcmVhZGVyID0gbmV3IFRldHJvbWlub1JlYWRlcigpOwogICAgICAgIExpc3Q8SW1tdXRhYmxlVGV0cm9taW5vPiB0ZXRyb21pbm9zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgQnVmZmVyZWRSZWFkZXIgYnVmZmVyZWRSZWFkZXIgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IEZpbGVSZWFkZXIobmV3IEZpbGUocGF0aCkpKTsKICAgICAgICAgICAgdGV0cm9taW5vcy5hZGQocmVhZGVyLnJlYWRUZXRyb21pbm8obmV3IFJlYWRlcihidWZmZXJlZFJlYWRlciksIFRldHJvbWlub1R5cGUuVF9URVRST01JTk8pKTsKICAgICAgICB9IGNhdGNoIChGaWxlTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBMT0dHRVIuZXJyb3IoIkNvdWxkIG5vdCByZWFkIGZpbGUgIiArIHBhdGgpOwogICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>String, TetrominoType</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRldHJvbWlub0ZpbGUuZ2V0UGF0aCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBTdHJpbmcgcGF0aCA9IFJlc291cmNlcy5nZXRSZXNvdXJjZSgidGV0cm9taW5vcy90LnR4dCIpLmdldEZpbGUoKS5yZXBsYWNlKCIlMjAiLCAiICIpOwogICAgICAgIC8vIFRldHJvbWlub1JlYWRlciByZWFkZXIgPSBuZXcgVGV0cm9taW5vUmVhZGVyKCk7CiAgICAgICAgLy8gTGlzdDxJbW11dGFibGVUZXRyb21pbm8+IHRldHJvbWlub3MgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAvLyB0cnkgewogICAgICAgIC8vICAgICBCdWZmZXJlZFJlYWRlciBidWZmZXJlZFJlYWRlciA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgRmlsZVJlYWRlcihuZXcgRmlsZShwYXRoKSkpOwogICAgICAgIC8vICAgICB0ZXRyb21pbm9zLmFkZChyZWFkZXIucmVhZFRldHJvbWlubyhuZXcgUmVhZGVyKGJ1ZmZlcmVkUmVhZGVyKSwgVGV0cm9taW5vVHlwZS5UX1RFVFJPTUlOTykpOwogICAgICAgIC8vIH0gY2F0Y2ggKEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgLy8gICAgIExPR0dFUi5lcnJvcigiQ291bGQgbm90IHJlYWQgZmlsZSAiICsgcGF0aCk7CiAgICAgICAgLy8gfQoK</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="94" code="0" mods="0" />
-          <key char="53" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
-          <key char="95" code="0" mods="0" />
-          <key char="67" code="0" mods="0" />
-          <key char="79" code="0" mods="0" />
-          <key char="76" code="0" mods="0" />
-          <key char="79" code="0" mods="0" />
-          <key char="82" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="43" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxJbW11dGFibGVUZXRyb21pbm8+IHRldHJvbWlub3MgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIEltbXV0YWJsZU1hcDxTdHJpbmcsIFRldHJvbWlub1R5cGU+IFRFVFJPTUlOT19UWVBFUyA9CiAgICAgICAgSW1tdXRhYmxlTWFwLjxTdHJpbmcsIFRldHJvbWlub1R5cGU+YnVpbGRlcigpLnB1dCgiaSIsIFRldHJvbWlub1R5cGUuSV9URVRST01JTk8pCiAgICAgICAgICAgIC5wdXQoImoiLCBUZXRyb21pbm9UeXBlLkpfVEVUUk9NSU5PKS5wdXQoImwiLCBUZXRyb21pbm9UeXBlLkxfVEVUUk9NSU5PKS5wdXQoIm8iLCBUZXRyb21pbm9UeXBlLk9fVEVUUk9NSU5PKQogICAgICAgICAgICAucHV0KCJzIiwgVGV0cm9taW5vVHlwZS5TX1RFVFJPTUlOTykucHV0KCJ0IiwgVGV0cm9taW5vVHlwZS5UX1RFVFJPTUlOTykucHV0KCJ6IiwgVGV0cm9taW5vVHlwZS5aX1RFVFJPTUlOTykKICAgICAgICAgICAgLmJ1aWxkKCk7Cgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRldHJvbWlub0ZpbGUuZ2V0UGF0aCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9LCAxLCAxLCBUaW1lVW5pdC5TRUNPTkRTKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxJbW11dGFibGVUZXRyb21pbm8+IHRldHJvbWlub3MgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUZXRyb21pbm9Db2xsZWN0aW9uIGNvbGxlY3Rpb24gPSBuZXcgVGV0cm9taW5vQ29sbGVjdGlvbih0ZXRyb21pbm9zKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2966,10 +2968,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUZXRyb21pbm8gdGV0cm9taW5vID0gbmV3IFRldHJvbWlubyhpbW11dGFibGVUZXRyb21pbm8pOwo=</text>
+        <text encoding="base64">ICAgICAgICB9LCAxLCAxLCBUaW1lVW5pdC5TRUNPTkRTKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
