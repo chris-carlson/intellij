@@ -41,6 +41,9 @@
         <mark key="." line="22" column="58" />
         <mark key="^" line="22" column="58" />
       </file>
+      <file name="/a.dummy" timestamp="1535821905130">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/data/src/main/java/personal/cac/components/data/list/List.java" timestamp="1500681989253">
         <mark key="'" line="2" column="48" />
         <mark key="[" line="2" column="17" />
@@ -1604,12 +1607,11 @@
         <mark key="]" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/controller/BoardController.java" timestamp="1534807227367">
-        <mark key="'" line="68" column="16" />
-        <mark key="[" line="68" column="16" />
-        <mark key="]" line="68" column="17" />
-        <mark key="." line="68" column="17" />
-        <mark key="^" line="68" column="41" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/controller/BoardController.java" timestamp="1535822516988">
+        <mark key="'" line="71" column="16" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/view/puzzle/CellPanel.java" timestamp="1473541894335">
         <mark key="'" line="23" column="0" />
@@ -1883,8 +1885,8 @@
       <jump line="35" column="51" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/data/TetrominoFileFinderTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TetrominoType.I_TETROMINO</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB9LCAxLCAxLCBUaW1lVW5pdC5TRUNPTkRTKQo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -1915,7 +1917,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TetrominoType.I_TETROMINO</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZWxsc1w+</text>
@@ -1924,7 +1926,7 @@
         <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIHNldEJhY2tncm91bmQoKSB7CiAgICAgICAgaW5zdGFuY2UuY2hhbmdlQ29sb3IoVGV0cm9taW5vVHlwZS5JX1RFVFJPTUlOTyk7CiAgICAgICAgQXNzZXJ0aW9ucy5hc3NlcnRFcXVhbHMoVGV0cm9taW5vVHlwZS5JX1RFVFJPTUlOTywgaW5zdGFuY2UuZ2V0TW9kZWwoKSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB9LCAxLCAxLCBUaW1lVW5pdC5TRUNPTkRTKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1945,22 +1947,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBCZWZvcmVFYWNoCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5UZXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBCZWZvcmVFYWNoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIHRldHJvbWlub3NGb2xkZXIgPSBuZXcgRmlsZSh0ZXRyb21pbm9zUGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIHRldHJvbWlub3NGb2xkZXIgPSBuZXcgRmlsZSh0ZXRyb21pbm9zUGF0aCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGV0cm9taW5vUmVhZGVyIHJlYWRlciA9IG5ldyBUZXRyb21pbm9SZWFkZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1977,7 +1979,7 @@
         <text encoding="base64">ICAgICAgICAgICAgVGV0cm9taW5vUmVhZGVyIHJlYWRlciA9IG5ldyBUZXRyb21pbm9SZWFkZXIoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIFJlYWRlciBjcmVhdGVSZWFkZXIoKSB7CiAgICAgICAgcmV0dXJuIHJlYWRlcjsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGV0cm9taW5vUmVhZGVyIHJlYWRlciA9IG5ldyBUZXRyb21pbm9SZWFkZXIoKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
