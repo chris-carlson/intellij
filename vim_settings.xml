@@ -1147,12 +1147,12 @@
         <mark key="^" line="40" column="75" />
         <mark key="." line="40" column="75" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/controller/BoardControllerTest.java" timestamp="1537034603544">
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/controller/BoardControllerTest.java" timestamp="1537034740781">
         <mark key="'" line="22" column="65" />
         <mark key="[" line="26" column="19" />
         <mark key="]" line="26" column="19" />
         <mark key="." line="26" column="19" />
-        <mark key="^" line="26" column="11" />
+        <mark key="^" line="26" column="19" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/view/puzzle/PuzzlePanel.java" timestamp="1473543610884">
         <mark key="'" line="38" column="0" />
