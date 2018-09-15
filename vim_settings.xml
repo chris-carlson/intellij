@@ -133,12 +133,12 @@
         <mark key="." line="96" column="30" />
         <mark key="^" line="96" column="30" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" timestamp="1536519445736">
-        <mark key="'" line="33" column="8" />
-        <mark key="[" line="45" column="57" />
-        <mark key="]" line="45" column="58" />
-        <mark key="." line="45" column="58" />
-        <mark key="^" line="45" column="58" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" timestamp="1537033682428">
+        <mark key="'" line="47" column="44" />
+        <mark key="[" line="35" column="65" />
+        <mark key="]" line="35" column="80" />
+        <mark key="." line="35" column="80" />
+        <mark key="^" line="35" column="80" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/puzzle/PuzzleReader.java" timestamp="1513543600078">
         <mark key="'" line="27" column="23" />
@@ -1895,7 +1895,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/resources/tetrominos/l.txt" />
       <jump line="9" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/resources/tetrominos/s.txt" />
       <jump line="6" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/resources/tetrominos/s.txt" />
       <jump line="6" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/resources/tetrominos/t.txt" />
@@ -1906,11 +1905,9 @@
       <jump line="57" column="11" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" />
       <jump line="53" column="27" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" />
       <jump line="50" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" />
-      <jump line="47" column="8" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" />
       <jump line="40" column="8" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" />
       <jump line="68" column="16" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/controller/BoardController.java" />
       <jump line="49" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" />
-      <jump line="38" column="25" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" />
       <jump line="43" column="20" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/data/TetrominoCollection.java" />
       <jump line="42" column="16" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/data/TetrominoCollection.java" />
       <jump line="63" column="81" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/data/TetrominoCollection.java" />
@@ -1995,10 +1992,13 @@
       <jump line="61" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" />
       <jump line="0" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" />
       <jump line="33" column="8" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" />
+      <jump line="38" column="45" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" />
+      <jump line="35" column="80" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" />
+      <jump line="47" column="44" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/launch/Launcher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Lists.newArrayList(null, null)</text>
+        <text>tetrominos</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2029,7 +2029,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>tetrominos</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZWxsc1w+</text>
@@ -2038,28 +2038,28 @@
         <text>Lists.newArrayList(null, null)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGV0cm9taW5vVHlwZSB0eXBlID0gY2VsbHMuZ2V0KG5ldyBQb3NpdGlvbigwLCBjb2x1bW5JbmRleCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f\2xp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEltbXV0YWJsZVRldHJvbWlubz4gdGV0cm9taW5vcyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIFN0cmluZyB0ZXRyb21pbm9zUGF0aCA9IFJlc291cmNlcy5nZXRSZXNvdXJjZSgidGV0cm9taW5vcyIpLmdldEZpbGUoKS5yZXBsYWNlKCIlMjAiLCAiICIpOwogICAgICAgIFRldHJvbWlub0ZpbGVGaW5kZXIgZmlsZUZpbmRlciA9IG5ldyBUZXRyb21pbm9GaWxlRmluZGVyKG5ldyBGaWxlKHRldHJvbWlub3NQYXRoKSk7CiAgICAgICAgZm9yIChGaWxlIHRldHJvbWlub0ZpbGUgOiBmaWxlRmluZGVyLmZpbmRGaWxlcygpKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBUZXRyb21pbm9UeXBlIHR5cGUgPSBURVRST01JTk9fVFlQRVMuZ2V0KHRldHJvbWlub0ZpbGUuZ2V0TmFtZSgpLnN1YnN0cmluZygwLCAxKSk7CiAgICAgICAgICAgICAgICBCdWZmZXJlZFJlYWRlciBidWZmZXJlZFJlYWRlciA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgRmlsZVJlYWRlcih0ZXRyb21pbm9GaWxlKSk7CiAgICAgICAgICAgICAgICBUZXRyb21pbm9SZWFkZXIgcmVhZGVyID0gbmV3IFRldHJvbWlub1JlYWRlcihuZXcgUmVhZGVyKGJ1ZmZlcmVkUmVhZGVyKSwgdHlwZSk7CiAgICAgICAgICAgICAgICB0ZXRyb21pbm9zLmFkZChyZWFkZXIucmVhZFRldHJvbWlubygpKTsKICAgICAgICAgICAgfSBjYXRjaCAoRmlsZU5vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIExPR0dFUi5lcnJvcigiQ291bGQgbm90IHJlYWQgZmlsZSAiICsgdGV0cm9taW5vRmlsZS5nZXRQYXRoKCkpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">bmV3IEJvYXJkTW9kZWwobmV3IEdyaWQ8PihMaXN0cwogICAgICAgICAgICAubmV3QXJyYXlMaXN0KExpc3RzLm5ld0FycmF5TGlzdChudWxsLCBUZXRyb21pbm9UeXBlLklfVEVUUk9NSU5PLCBudWxsKSwKICAgICAgICAgICAgICAgIExpc3RzLm5ld0FycmF5TGlzdChUZXRyb21pbm9UeXBlLkpfVEVUUk9NSU5PLCBUZXRyb21pbm9UeXBlLkxfVEVUUk9NSU5PLCBUZXRyb21pbm9UeXBlLlRfVEVUUk9NSU5PKSwKICAgICAgICAgICAgICAgIExpc3RzLm5ld0FycmF5TGlzdChudWxsLCBudWxsLCBUZXRyb21pbm9UeXBlLklfVEVUUk9NSU5PKSkpKQ==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBCZWZvcmVFYWNoCiAgICB2b2lkIHNldFVwKCkgewogICAgfQoK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGV0cm9taW5vVHlwZSB0eXBlID0gY2VsbHMuZ2V0KG5ldyBQb3NpdGlvbigwLCBjb2x1bW5JbmRleCkpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBSb3dSZW1vdmVyKCkK</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">bmV3IEJvYXJkTW9kZWwobmV3IEdyaWQ8PihMaXN0cwogICAgICAgICAgICAubmV3QXJyYXlMaXN0KExpc3RzLm5ld0FycmF5TGlzdChudWxsLCBUZXRyb21pbm9UeXBlLklfVEVUUk9NSU5PLCBudWxsKSwKICAgICAgICAgICAgICAgIExpc3RzLm5ld0FycmF5TGlzdChUZXRyb21pbm9UeXBlLkpfVEVUUk9NSU5PLCBUZXRyb21pbm9UeXBlLkxfVEVUUk9NSU5PLCBUZXRyb21pbm9UeXBlLlRfVEVUUk9NSU5PKSwKICAgICAgICAgICAgICAgIExpc3RzLm5ld0FycmF5TGlzdChudWxsLCBudWxsLCBUZXRyb21pbm9UeXBlLklfVEVUUk9NSU5PKSkpKQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTaWQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2073,10 +2073,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIEBCZWZvcmVFYWNoCiAgICB2b2lkIHNldFVwKCkgewogICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBSb3dSZW1vdmVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
