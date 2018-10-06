@@ -36,10 +36,11 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="ival" value="Integer.valueOf($NUM$)" description="integer value" toReformat="false" toShortenFQNames="true">
-    <variable name="NUM" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="stub" value="private static class $CLASS$Stub extends $CLASS$ {&#10;    $CLASS$Stub($PARAMS$) {&#10;    }&#10;}" description="stub class" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="substringBefore(className(), &quot;Test&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
 </templateSet>
