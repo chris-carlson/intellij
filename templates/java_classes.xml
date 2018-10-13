@@ -12,4 +12,17 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="stub" value="class $NAME$Stub extends $NAME$ {&#10;    $END$&#10;}" description="stub class" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="cont" value="$NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="test constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
