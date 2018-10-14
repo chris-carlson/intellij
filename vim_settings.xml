@@ -1617,12 +1617,12 @@
         <mark key="." line="21" column="86" />
         <mark key="^" line="21" column="86" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/listener/tetromino/TetrominoAdapter.java" timestamp="1539465829037">
-        <mark key="'" line="67" column="49" />
-        <mark key="[" line="66" column="40" />
-        <mark key="]" line="67" column="49" />
-        <mark key="." line="67" column="49" />
-        <mark key="^" line="67" column="49" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/listener/tetromino/TetrominoAdapter.java" timestamp="1539475992893">
+        <mark key="'" line="56" column="96" />
+        <mark key="[" line="56" column="96" />
+        <mark key="]" line="56" column="97" />
+        <mark key="." line="56" column="97" />
+        <mark key="^" line="36" column="54" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/listener/cell/CellMouseListenerTest.java" timestamp="1503688329778">
         <mark key="'" line="20" column="51" />
@@ -2046,7 +2046,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="70" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/ImmutableTetrominoTest.java" />
       <jump line="10" column="79" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoMocker.java" />
       <jump line="8" column="47" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoMocker.java" />
       <jump line="12" column="95" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/test/java/mvc/model/TetrominoMocker.java" />
@@ -2144,12 +2143,13 @@
       <jump line="34" column="57" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/listener/tetromino/TetrominoAdapter.java" />
       <jump line="29" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/listener/tetromino/TetrominoAdapter.java" />
       <jump line="8" column="11" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/listener/tetromino/TetrominoObserver.java" />
-      <jump line="65" column="57" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/listener/tetromino/TetrominoAdapter.java" />
       <jump line="67" column="49" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/listener/tetromino/TetrominoAdapter.java" />
+      <jump line="65" column="54" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/listener/tetromino/TetrominoAdapter.java" />
+      <jump line="56" column="96" filename="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/listener/tetromino/TetrominoAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>300</text>
+        <text>SPACE</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2180,7 +2180,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>300</text>
+        <text>SPACE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaXplXD4=</text>
