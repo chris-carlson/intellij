@@ -31,7 +31,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="eqha" value="@Test&#10;void checkEqualsAndHashCode() {&#10;    new com.google.common.testing.EqualsTester().addEqualityGroup(getTestInstance1(), getTestInstance1())&#10;        .addEqualityGroup(getTestInstance2(), getTestInstance2()).testEquals();&#10;}" description="check equals and hashCode" toReformat="false" toShortenFQNames="true">
+  <template name="eqt" value="@Test&#10;void checkEquals() {&#10;    new com.google.common.testing.EqualsTester().addEqualityGroup(getTestInstance1(), getTestInstance1())&#10;        .addEqualityGroup(getTestInstance2(), getTestInstance2()).testEquals();&#10;}" description="test equals" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
