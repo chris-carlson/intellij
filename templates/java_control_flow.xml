@@ -100,7 +100,7 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="nullp" value="$EXPRESSION$ == null" description="positive null check" toReformat="false" toShortenFQNames="true">
+  <template name="nlp" value="$EXPRESSION$ == null" description="positive null check" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
@@ -114,7 +114,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="nulln" value="$EXPRESSION$ != null" description="negative null check" toReformat="false" toShortenFQNames="true">
+  <template name="nln" value="$EXPRESSION$ != null" description="negative null check" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
