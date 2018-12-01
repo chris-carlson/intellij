@@ -682,6 +682,11 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="18" />
       </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/mouse/MouseEvent.java" timestamp="1543697639576">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/swing/window/Frame.java" timestamp="1473093145926">
         <mark key="'" line="29" column="19" />
         <mark key="[" line="28" column="43" />
@@ -1147,7 +1152,7 @@
         <mark key="." line="25" column="20" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1543696886139">
+      <file name="/fragment.java" timestamp="1543697561479">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="0" />
@@ -1214,6 +1219,12 @@
         <mark key="]" line="24" column="54" />
         <mark key="^" line="24" column="54" />
         <mark key="." line="24" column="54" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/mouse/MouseClickListener.java" timestamp="1543697645559">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/mint_works/src/main/java/mvc/model/RandomNumberGenerator.java" timestamp="1516835577358">
         <mark key="'" line="5" column="17" />
@@ -2379,8 +2390,8 @@
       <jump line="44" column="34" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/UiLaunch.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2420,7 +2431,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZFN1YnNjcmliZXIoRXZlbnRTdWJzY3JpYmVyIHN1YnNjcmliZXIpIHsKICAgICAgICBzdWJzY3JpYmVycy5hZGQoc3Vic2NyaWJlcik7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gZm9vID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2440,22 +2451,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmFtZSA9PSBGb250TmFtZS5ESUFMT0cpIHsKICAgICAgICAgICAgcmV0dXJuIGphdmEuYXd0LkZvbnQuRElBTE9HOwogICAgICAgIH0gZWxzZSBpZiAobmFtZSA9PSBGb250TmFtZS5ESUFMT0dfSU5QVVQpIHsKICAgICAgICAgICAgcmV0dXJuIGphdmEuYXd0LkZvbnQuRElBTE9HX0lOUFVUOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gZm9vID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmFtZSA9PSBGb250TmFtZS5ESUFMT0cpIHsKICAgICAgICAgICAgcmV0dXJuIGphdmEuYXd0LkZvbnQuRElBTE9HOwogICAgICAgIH0gZWxzZSBpZiAobmFtZSA9PSBGb250TmFtZS5ESUFMT0dfSU5QVVQpIHsKICAgICAgICAgICAgcmV0dXJuIGphdmEuYXd0LkZvbnQuRElBTE9HX0lOUFVUOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2469,7 +2480,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
