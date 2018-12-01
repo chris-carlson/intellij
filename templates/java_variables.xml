@@ -27,8 +27,7 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="const" value="$MODIFIER$ static final $TYPE$ $NAME$ = $VALUE$;" description="constant initialization" toReformat="false" toShortenFQNames="true">
-    <variable name="MODIFIER" expression="" defaultValue="&quot;public&quot;" alwaysStopAt="true" />
+  <template name="const" value="public static final $TYPE$ $NAME$ = $VALUE$;" description="constant initialization" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
