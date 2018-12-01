@@ -682,11 +682,12 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/mouse/MouseEvent.java" timestamp="1543705722455">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-        <mark key="^" line="2" column="23" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/mouse/MouseEvent.java" timestamp="1543707431760">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+        <mark key="^" line="13" column="31" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/swing/window/Frame.java" timestamp="1473093145926">
         <mark key="'" line="29" column="19" />
@@ -1015,6 +1016,12 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="28" column="38" />
       </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/mouse/MouseButton.java" timestamp="1543707368272">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/test/java/collection/DimensionTest.java" timestamp="1543189024022">
         <mark key="[" line="40" column="33" />
         <mark key="]" line="40" column="38" />
@@ -1336,11 +1343,11 @@
         <mark key="]" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/mouse/MouseClickAdapter.java" timestamp="1543706694327">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="28" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/mouse/MouseClickAdapter.java" timestamp="1543707671835">
+        <mark key="'" line="3" column="29" />
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/mint_works/src/main/java/mvc/model/DataReader.java" timestamp="1517686491224">
         <mark key="'" line="33" column="0" />
@@ -2295,8 +2302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="18" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/swing/layout/Layout.java" />
-      <jump line="8" column="9" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/swing/Container.java" />
       <jump line="12" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/swing/Component.java" />
       <jump line="11" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/swing/Container.java" />
       <jump line="4" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/swing/Container.java" />
@@ -2395,10 +2400,12 @@
       <jump line="44" column="34" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/UiLaunch.java" />
       <jump line="24" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Component.java" />
       <jump line="3" column="38" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/mouse/MouseClickListener.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/mouse/MouseEvent.java" />
+      <jump line="3" column="29" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/mouse/MouseClickAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXh0ZW5kcyBNb3VzZUFkYXB0ZXIg</text>
+        <text>java.awt.event.</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2429,16 +2436,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXh0ZW5kcyBNb3VzZUFkYXB0ZXIg</text>
+        <text>java.awt.event.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaXplXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZFN1YnNjcmliZXIoRXZlbnRTdWJzY3JpYmVyIHN1YnNjcmliZXIpIHsKICAgICAgICBzdWJzY3JpYmVycy5hZGQoc3Vic2NyaWJlcik7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>java.awt.event</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2458,22 +2465,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvaWQgbW91c2VDbGlja2VkKE1vdXNlRXZlbnQgZXZlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5tb3VzZUNsaWNrZWQobmV3IE1vdXNlRXZlbnQoZXZlbnQpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5tb3VzZUNsaWNrZWQoZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gZm9vID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LmV2ZW50Lk1vdXNlRXZlbnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmFtZSA9PSBGb250TmFtZS5ESUFMT0cpIHsKICAgICAgICAgICAgcmV0dXJuIGphdmEuYXd0LkZvbnQuRElBTE9HOwogICAgICAgIH0gZWxzZSBpZiAobmFtZSA9PSBGb250TmFtZS5ESUFMT0dfSU5QVVQpIHsKICAgICAgICAgICAgcmV0dXJuIGphdmEuYXd0LkZvbnQuRElBTE9HX0lOUFVUOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5tb3VzZUNsaWNrZWQoZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LmV2ZW50Lk1vdXNlRXZlbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2487,10 +2494,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
