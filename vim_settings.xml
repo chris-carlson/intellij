@@ -579,8 +579,8 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="52" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Component.java" timestamp="1543694394785">
-        <mark key="'" line="8" column="12" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Component.java" timestamp="1543706598620">
+        <mark key="'" line="24" column="4" />
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="12" />
         <mark key="." line="8" column="12" />
@@ -1084,11 +1084,11 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="24" column="13" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/font/FontName.java" timestamp="1543696099473">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="4" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/font/FontName.java" timestamp="1543706440147">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
         <mark key="^" line="3" column="54" />
-        <mark key="." line="3" column="4" />
+        <mark key="." line="2" column="16" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/src/main/java/mvc/model/BoardModel.java" timestamp="1538858550071">
         <mark key="'" line="158" column="0" />
@@ -1221,11 +1221,11 @@
         <mark key="^" line="24" column="54" />
         <mark key="." line="24" column="54" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/mouse/MouseClickListener.java" timestamp="1543697645559">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="37" />
-        <mark key="^" line="3" column="37" />
-        <mark key="." line="3" column="37" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/mouse/MouseClickListener.java" timestamp="1543706724935">
+        <mark key="'" line="3" column="38" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/mint_works/src/main/java/mvc/model/RandomNumberGenerator.java" timestamp="1516835577358">
         <mark key="'" line="5" column="17" />
@@ -1335,6 +1335,12 @@
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="22" />
         <mark key="." line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/mouse/MouseClickAdapter.java" timestamp="1543706694327">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/mint_works/src/main/java/mvc/model/DataReader.java" timestamp="1517686491224">
         <mark key="'" line="33" column="0" />
@@ -1970,9 +1976,9 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Panel.java" timestamp="1543694402700">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Panel.java" timestamp="1543706603674">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="7" column="5" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="35" />
@@ -2289,8 +2295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="31" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/swing/layout/LayoutDirection.java" />
-      <jump line="16" column="23" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/swing/layout/LineLayout.java" />
       <jump line="5" column="18" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/swing/layout/Layout.java" />
       <jump line="8" column="9" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/swing/Container.java" />
       <jump line="12" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/swing/Component.java" />
@@ -2389,10 +2393,12 @@
       <jump line="22" column="31" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/observer/EventPublisher.java" />
       <jump line="22" column="33" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/observer/ItemPublisher.java" />
       <jump line="44" column="34" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/UiLaunch.java" />
+      <jump line="24" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Component.java" />
+      <jump line="3" column="38" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/mouse/MouseClickListener.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZXh0ZW5kcyBNb3VzZUFkYXB0ZXIg</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2423,7 +2429,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text encoding="base64">ZXh0ZW5kcyBNb3VzZUFkYXB0ZXIg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaXplXD4=</text>
@@ -2432,7 +2438,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZFN1YnNjcmliZXIoRXZlbnRTdWJzY3JpYmVyIHN1YnNjcmliZXIpIHsKICAgICAgICBzdWJzY3JpYmVycy5hZGQoc3Vic2NyaWJlcik7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2452,22 +2458,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gZm9vID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgIHZvaWQgbW91c2VDbGlja2VkKE1vdXNlRXZlbnQgZXZlbnQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmFtZSA9PSBGb250TmFtZS5ESUFMT0cpIHsKICAgICAgICAgICAgcmV0dXJuIGphdmEuYXd0LkZvbnQuRElBTE9HOwogICAgICAgIH0gZWxzZSBpZiAobmFtZSA9PSBGb250TmFtZS5ESUFMT0dfSU5QVVQpIHsKICAgICAgICAgICAgcmV0dXJuIGphdmEuYXd0LkZvbnQuRElBTE9HX0lOUFVUOwo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gZm9vID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmFtZSA9PSBGb250TmFtZS5ESUFMT0cpIHsKICAgICAgICAgICAgcmV0dXJuIGphdmEuYXd0LkZvbnQuRElBTE9HOwogICAgICAgIH0gZWxzZSBpZiAobmFtZSA9PSBGb250TmFtZS5ESUFMT0dfSU5QVVQpIHsKICAgICAgICAgICAgcmV0dXJuIGphdmEuYXd0LkZvbnQuRElBTE9HX0lOUFVUOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2481,7 +2487,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
