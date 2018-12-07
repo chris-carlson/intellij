@@ -408,12 +408,12 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" timestamp="1543693029045">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="49" column="65" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" timestamp="1544221688004">
+        <mark key="'" line="67" column="40" />
+        <mark key="[" line="52" column="26" />
+        <mark key="]" line="52" column="26" />
+        <mark key="." line="52" column="26" />
+        <mark key="^" line="67" column="40" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/launch/Launcher.java" timestamp="1513961132752">
         <mark key="'" line="70" column="34" />
@@ -1291,10 +1291,10 @@
         <mark key="." line="10" column="26" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/UiLaunch.java" timestamp="1544207504364">
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/UiLaunch.java" timestamp="1544221640506">
         <mark key="'" line="51" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="63" />
         <mark key="." line="53" column="0" />
         <mark key="^" line="58" column="66" />
       </file>
@@ -2286,10 +2286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Container.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Container.java" />
-      <jump line="13" column="28" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Container.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Container.java" />
       <jump line="14" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Panel.java" />
       <jump line="10" column="35" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Frame.java" />
       <jump line="38" column="26" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/UiLaunch.java" />
@@ -2386,10 +2382,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/key/Key.java" />
       <jump line="12" column="14" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/key/KeyEvent.java" />
       <jump line="51" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/UiLaunch.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
+      <jump line="62" column="35" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
+      <jump line="52" column="58" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
+      <jump line="68" column="40" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wb25lbnQuYWRkTW91c2VMaXN0ZW5lcihuZXcgQ29tcG9uZW50TW91c2VQcmVzc0xpc3RlbmVyKGNvbXBvbmVudCkpOwogICAgICAgIGNvbXBvbmVudC5hZGRNb3VzZUxpc3RlbmVyKG5ldyBDb21wb25lbnRNb3VzZUhvdmVyTGlzdGVuZXIoY29tcG9uZW50KSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>JComponent.WHEN_IN_FOCUSED_WINDOW</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2420,16 +2420,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>JComponent.WHEN_IN_FOCUSED_WINDOW</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaXplXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzQ3RybERvd24oKSB7CiAgICAgICAgcmV0dXJuIHJlcC5pc0NvbnRyb2xEb3duKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhbmVsLnNldEJhY2tncm91bmQoR1JBWSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wb25lbnQuYWRkTW91c2VMaXN0ZW5lcihuZXcgQ29tcG9uZW50TW91c2VQcmVzc0xpc3RlbmVyKGNvbXBvbmVudCkpOwogICAgICAgIGNvbXBvbmVudC5hZGRNb3VzZUxpc3RlbmVyKG5ldyBDb21wb25lbnRNb3VzZUhvdmVyTGlzdGVuZXIoY29tcG9uZW50KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhbmVsLnNldEJhY2tncm91bmQoR1JBWSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2449,22 +2449,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgTW91c2VCdXR0b24gZ2V0QnV0dG9uKCkgewogICAgICAgIGlmIChyZXAuZ2V0QnV0dG9uKCkgPT0gamF2YS5hd3QuZXZlbnQuTW91c2VFdmVudC5CVVRUT04zKSB7CiAgICAgICAgICAgIHJldHVybiBNb3VzZUJ1dHRvbi5SSUdIVDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIE1vdXNlQnV0dG9uLkxFRlQ7CiAgICB9CgogICAgcHVibGljIGludCBnZXRDbGlja0NvdW50KCkgewogICAgICAgIHJldHVybiByZXAuZ2V0Q2xpY2tDb3VudCgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBKQ29tcG9uZW50IHJlcDsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IHsKICAgICAgICByZXR1cm4gcmVwOwogICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBtYWluUGFuZWwuc2V0TGF5b3V0KG5ldyBGbG93TGF5b3V0KEZsb3dMYXlvdXQuQ0VOVEVSLCAwLCAwKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSkxhYmVsIHJlcDsKCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBwYW5lbC5zZXRCb3JkZXIobmV3IEVtcHR5Qm9yZGVyKDUsIDUsIDUsIDUpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBhZGRNb3VzZUxpc3RlbmVyKE1vdXNlTGlzdGVuZXIgbGlzdGVuZXIpIHsKICAgICAgICByZXAuYWRkTW91c2VMaXN0ZW5lcihsaXN0ZW5lci5nZXRSZXAoKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYW5lbC5zZXRCb3JkZXIoQm9yZGVyRmFjdG9yeS5jcmVhdGVFbXB0eUJvcmRlcig1LCA1LCA1LCA1KSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2478,10 +2478,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldEJhY2tncm91bmQoQ29sb3IgY29sb3IpIHsKICAgICAgICByZXAuc2V0QmFja2dyb3VuZChjb2xvci5nZXRSZXAoKSk7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Qm9yZGVyKEJvcmRlciBib3JkZXIpIHsKICAgICAgICByZXAuc2V0Qm9yZGVyKGJvcmRlci5nZXRSZXAoKSk7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0U2l6ZShPYmplY3REaW1lbnNpb24gZGltZW5zaW9uKSB7CiAgICAgICAgcmVwLnNldFByZWZlcnJlZFNpemUoZGltZW5zaW9uLmdldFJlcCgpKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBtYWluUGFuZWwuc2V0TGF5b3V0KG5ldyBGbG93TGF5b3V0KEZsb3dMYXlvdXQuQ0VOVEVSLCAwLCAwKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBwYW5lbC5zZXRCb3JkZXIobmV3IEVtcHR5Qm9yZGVyKDUsIDUsIDUsIDUpKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
