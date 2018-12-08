@@ -478,6 +478,13 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/MiscLaunch.java" timestamp="1544308709835">
+        <mark key="'" line="12" column="53" />
+        <mark key="[" line="12" column="53" />
+        <mark key="]" line="12" column="54" />
+        <mark key="^" line="9" column="55" />
+        <mark key="." line="12" column="54" />
+      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/mint_works/src/main/java/mvc/model/MintTracker.java" timestamp="1518909226672">
         <mark key="'" line="9" column="4" />
         <mark key="[" line="9" column="4" />
@@ -2357,8 +2364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="13" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Label.java" />
-      <jump line="43" column="43" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/UiLaunch.java" />
       <jump line="15" column="28" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Label.java" />
       <jump line="6" column="57" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Label.java" />
       <jump line="16" column="28" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Label.java" />
@@ -2457,10 +2462,12 @@
       <jump line="52" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
       <jump line="53" column="56" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
       <jump line="80" column="45" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
+      <jump line="11" column="33" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/MiscLaunch.java" />
+      <jump line="12" column="53" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/MiscLaunch.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICsgIjogIiArIGUuZ2VrYw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBLZXlTdHJva2Ugc3Ryb2tlMiA9IEtleVN0cm9rZS5nZXRLZXlTdHJva2UoJ0EnKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3Ryb2tlMi5nZXRLZXlDaGFyKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdHJva2UyLmdldEtleUNvZGUoKSk7Cg==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2491,37 +2498,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgIjogIiArIGUuZ2VrYw==</text>
+        <text>keyStroke</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaXplXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>JPanel panel</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBLZXlTdHJva2Ugc3Ryb2tlMiA9IEtleVN0cm9rZS5nZXRLZXlTdHJva2UoJ0EnKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3Ryb2tlMi5nZXRLZXlDaGFyKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdHJva2UyLmdldEtleUNvZGUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYW5lbC5yZXF1ZXN0Rm9jdXNJbldpbmRvdygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBDaGFyYWN0ZXIgYyA9IDsK</text>
       </register>
       <register name="q" type="4">
         <text>f,PW</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIubW91c2VDbGlja2VkKGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2V5U3Ryb2tlLmdldEtleUNoYXIoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwYW5lbC5yZXF1ZXN0Rm9jdXNJbldpbmRvdygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYW5lbC5nZXRJbnB1dE1hcCgpLnB1dChLZXlTdHJva2UuZ2V0S2V5U3Ryb2tlKCJHIiksICJncmF5Iik7CiAgICAgICAgcGFuZWwuZ2V0QWN0aW9uTWFwKCkucHV0KCJncmF5IiwgbmV3IEZvb0FjdGlvbihwYW5lbCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIubW91c2VDbGlja2VkKGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYW5lbC5hZGRNb3VzZUxpc3RlbmVyKG5ldyBQYW5lbE1vdXNlQWRhcHRlcihwYW5lbCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIua2V5VHlwZWQoZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYW5lbC5nZXRJbnB1dE1hcCgpLnB1dChLZXlTdHJva2UuZ2V0S2V5U3Ryb2tlKCJHIiksICJncmF5Iik7CiAgICAgICAgcGFuZWwuZ2V0QWN0aW9uTWFwKCkucHV0KCJncmF5IiwgbmV3IEZvb0FjdGlvbihwYW5lbCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwYW5lbC5hZGRNb3VzZUxpc3RlbmVyKG5ldyBQYW5lbE1vdXNlQWRhcHRlcihwYW5lbCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2534,11 +2541,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIFBhbmVsTW91c2VBZGFwdGVyIGV4dGVuZHMgTW91c2VBZGFwdGVyIHsKICAgICAgICBwcml2YXRlIEpQYW5lbCBwYW5lbDsKCiAgICAgICAgcHVibGljIFBhbmVsTW91c2VBZGFwdGVyKEpQYW5lbCBwYW5lbCkgewogICAgICAgICAgICB0aGlzLnBhbmVsID0gcGFuZWw7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBtb3VzZUNsaWNrZWQoTW91c2VFdmVudCBlKSB7CiAgICAgICAgICAgIHBhbmVsLnJlcXVlc3RGb2N1c0luV2luZG93KCk7CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIEZvb0FjdGlvbiBleHRlbmRzIEFic3RyYWN0QWN0aW9uIHsKICAgICAgICBwcml2YXRlIEpQYW5lbCBwYW5lbDsKCiAgICAgICAgcHVibGljIEZvb0FjdGlvbihKUGFuZWwgcGFuZWwpIHsKICAgICAgICAgICAgdGhpcy5wYW5lbCA9IHBhbmVsOwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgYWN0aW9uUGVyZm9ybWVkKEFjdGlvbkV2ZW50IGUpIHsKICAgICAgICAgICAgaWYgKHBhbmVsLmdldEJhY2tncm91bmQoKS5lcXVhbHMoR1JBWSkpIHsKICAgICAgICAgICAgICAgIHBhbmVsLnNldEJhY2tncm91bmQoV0hJVEUpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcGFuZWwuc2V0QmFja2dyb3VuZChHUkFZKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIua2V5VHlwZWQoZSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>(KeyStroke.getKeyStroke(&quot;Q&quot;))</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
