@@ -408,12 +408,12 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" timestamp="1544223154300">
-        <mark key="'" line="83" column="40" />
-        <mark key="[" line="53" column="58" />
-        <mark key="]" line="54" column="57" />
-        <mark key="." line="54" column="57" />
-        <mark key="^" line="54" column="57" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" timestamp="1544301128866">
+        <mark key="'" line="53" column="56" />
+        <mark key="[" line="80" column="57" />
+        <mark key="]" line="80" column="57" />
+        <mark key="." line="80" column="57" />
+        <mark key="^" line="80" column="70" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/launch/Launcher.java" timestamp="1513961132752">
         <mark key="'" line="70" column="34" />
@@ -2357,8 +2357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="21" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Container.java" />
-      <jump line="22" column="24" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Container.java" />
       <jump line="6" column="7" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Container.java" />
       <jump line="4" column="13" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Label.java" />
       <jump line="43" column="43" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/UiLaunch.java" />
@@ -2445,7 +2443,6 @@
       <jump line="12" column="14" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/key/KeyEvent.java" />
       <jump line="30" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
       <jump line="62" column="35" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
-      <jump line="52" column="58" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
       <jump line="68" column="40" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
       <jump line="20" column="62" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/UiLaunch.java" />
       <jump line="12" column="39" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Component.java" />
@@ -2457,10 +2454,13 @@
       <jump line="53" column="49" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/UiLaunch.java" />
       <jump line="51" column="53" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/UiLaunch.java" />
       <jump line="34" column="5" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Component.java" />
+      <jump line="71" column="51" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
+      <jump line="53" column="56" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(KeyStroke.getKeyStroke(&quot;Q&quot;))</text>
+        <text>getKeyCode()</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2491,37 +2491,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(KeyStroke.getKeyStroke(&quot;Q&quot;))</text>
+        <text>getKeyCode()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaXplXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>(KeyStroke.getKeyStroke(&quot;Q&quot;))</text>
+        <text>JPanel panel</text>
       </register>
-      <register name="1" type="4">
-        <text>(KeyStroke.getKeyStroke(&quot;Q&quot;))</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwYW5lbC5yZXF1ZXN0Rm9jdXNJbldpbmRvdygpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f,PW</text>
       </register>
-      <register name="2" type="4">
-        <text>(KeyStroke.getKeyStroke(&quot;Q&quot;))</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIubW91c2VDbGlja2VkKGUpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>(KeyStroke.getKeyStroke(&quot;Q&quot;))</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYW5lbC5nZXRJbnB1dE1hcCgpLnB1dChLZXlTdHJva2UuZ2V0S2V5U3Ryb2tlKCJHIiksICJncmF5Iik7CiAgICAgICAgcGFuZWwuZ2V0QWN0aW9uTWFwKCkucHV0KCJncmF5IiwgbmV3IEZvb0FjdGlvbihwYW5lbCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYW5lbC5hZGRNb3VzZUxpc3RlbmVyKG5ldyBQYW5lbE1vdXNlQWRhcHRlcihwYW5lbCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIua2V5VHlwZWQoZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29sb3IgaGlnaGxpZ2h0Q29sb3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2534,11 +2534,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIFBhbmVsTW91c2VBZGFwdGVyIGV4dGVuZHMgTW91c2VBZGFwdGVyIHsKICAgICAgICBwcml2YXRlIEpQYW5lbCBwYW5lbDsKCiAgICAgICAgcHVibGljIFBhbmVsTW91c2VBZGFwdGVyKEpQYW5lbCBwYW5lbCkgewogICAgICAgICAgICB0aGlzLnBhbmVsID0gcGFuZWw7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBtb3VzZUNsaWNrZWQoTW91c2VFdmVudCBlKSB7CiAgICAgICAgICAgIHBhbmVsLnJlcXVlc3RGb2N1c0luV2luZG93KCk7CiAgICAgICAgfQogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIGNsYXNzIEZvb0FjdGlvbiBleHRlbmRzIEFic3RyYWN0QWN0aW9uIHsKICAgICAgICBwcml2YXRlIEpQYW5lbCBwYW5lbDsKCiAgICAgICAgcHVibGljIEZvb0FjdGlvbihKUGFuZWwgcGFuZWwpIHsKICAgICAgICAgICAgdGhpcy5wYW5lbCA9IHBhbmVsOwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIHZvaWQgYWN0aW9uUGVyZm9ybWVkKEFjdGlvbkV2ZW50IGUpIHsKICAgICAgICAgICAgaWYgKHBhbmVsLmdldEJhY2tncm91bmQoKS5lcXVhbHMoR1JBWSkpIHsKICAgICAgICAgICAgICAgIHBhbmVsLnNldEJhY2tncm91bmQoV0hJVEUpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcGFuZWwuc2V0QmFja2dyb3VuZChHUkFZKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>(KeyStroke.getKeyStroke(&quot;Q&quot;))</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
