@@ -408,12 +408,12 @@
         <mark key="^" line="7" column="59" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" timestamp="1544301128866">
-        <mark key="'" line="53" column="56" />
-        <mark key="[" line="80" column="57" />
-        <mark key="]" line="80" column="57" />
-        <mark key="." line="80" column="57" />
-        <mark key="^" line="80" column="70" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" timestamp="1544301733123">
+        <mark key="'" line="80" column="45" />
+        <mark key="[" line="80" column="45" />
+        <mark key="]" line="80" column="45" />
+        <mark key="." line="80" column="45" />
+        <mark key="^" line="80" column="60" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/launch/Launcher.java" timestamp="1513961132752">
         <mark key="'" line="70" column="34" />
@@ -2357,7 +2357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="7" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Container.java" />
       <jump line="4" column="13" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Label.java" />
       <jump line="43" column="43" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/UiLaunch.java" />
       <jump line="15" column="28" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/Label.java" />
@@ -2457,10 +2456,11 @@
       <jump line="71" column="51" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
       <jump line="52" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
       <jump line="53" column="56" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
+      <jump line="80" column="45" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getKeyCode()</text>
+        <text encoding="base64">ICsgIjogIiArIGUuZ2VrYw==</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -2491,7 +2491,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getKeyCode()</text>
+        <text encoding="base64">ICsgIjogIiArIGUuZ2VrYw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaXplXD4=</text>
