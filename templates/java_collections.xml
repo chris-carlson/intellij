@@ -15,10 +15,11 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="map" value="java.util.Map&lt;$TYPE1$, $TYPE2$&gt; $NAME$ = new java.util.HashMap&lt;&gt;();" description="map initialization" toReformat="false" toShortenFQNames="true">
+  <template name="map" value="java.util.Map&lt;$TYPE1$, $TYPE2$&gt; $NAME$ = $VALUE$;" description="map initialization" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="&quot;new java.util.HashMap&lt;&gt;()&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
@@ -41,6 +42,13 @@
     <variable name="ELEMENTS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="imap" value="new com.google.common.collect.ImmutableMap.Builder&lt;$TYPE1$, $TYPE2$&gt;().build();" description="guava immutable map" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>

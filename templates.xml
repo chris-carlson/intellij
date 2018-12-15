@@ -4448,6 +4448,14 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="React" />
+          <option name="key" value="rsf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="rsfp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
           <option name="key" value="rscp" />
         </TemplateKey>
         <TemplateKey>
@@ -4712,7 +4720,15 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Angular" />
+          <option name="key" value="a-module-with-routing" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
           <option name="key" value="a-pipe" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-injectable-providedin" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Angular" />
@@ -4732,15 +4748,23 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Angular" />
-          <option name="key" value="a-module-routing" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Angular" />
           <option name="key" value="a-service" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Angular" />
           <option name="key" value="a-httpclient-get" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngrx-data-entity-collection-data-service" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngrx-data-entity-metadata" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngrx-data-store-module" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Angular" />

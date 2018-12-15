@@ -52,14 +52,14 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="==" value="$EXPRESSION1$ == $EXPRESSION2$" description="double equals check" toReformat="false" toShortenFQNames="true">
+  <template name="de" value="$EXPRESSION1$ == $EXPRESSION2$" description="double equals check" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESSION1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="EXPRESSION2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="!=" value="$EXPRESSION1$ != $EXPRESSION2$" description="negative double equals check" toReformat="false" toShortenFQNames="true">
+  <template name="ne" value="$EXPRESSION1$ != $EXPRESSION2$" description="negative double equals check" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESSION1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="EXPRESSION2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -73,14 +73,14 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="&amp;&amp;" value="$CONDITION1$ &amp;&amp; $CONDITION2$" description="and condition" toReformat="false" toShortenFQNames="true">
+  <template name="and" value="$CONDITION1$ &amp;&amp; $CONDITION2$" description="and condition" toReformat="false" toShortenFQNames="true">
     <variable name="CONDITION1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CONDITION2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="||" value="$CONDITION1$ || $CONDITION2$" description="or condition" toReformat="false" toShortenFQNames="true">
+  <template name="or" value="$CONDITION1$ || $CONDITION2$" description="or condition" toReformat="false" toShortenFQNames="true">
     <variable name="CONDITION1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CONDITION2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
