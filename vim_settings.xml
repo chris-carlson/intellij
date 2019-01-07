@@ -85,6 +85,13 @@
         <mark key="^" line="15" column="49" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/model/Puzzle.java" timestamp="1546900679403">
+        <mark key="'" line="18" column="30" />
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/border/LineBorder.java" timestamp="1544205667332">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="8" column="0" />
@@ -97,6 +104,12 @@
         <mark key="]" line="16" column="15" />
         <mark key="." line="51" column="0" />
         <mark key="^" line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Consumer.java" timestamp="1546901702033">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="23" column="47" />
+        <mark key="." line="23" column="29" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SubscriberPanel.java" timestamp="1544908106431">
         <mark key="'" line="5" column="54" />
@@ -227,6 +240,11 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/data/PuzzleReader.java" timestamp="1546901478101">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" timestamp="1544992884819">
         <mark key="'" line="62" column="73" />
         <mark key="[" line="43" column="0" />
@@ -354,7 +372,7 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1546806502079">
+      <file name="/fragment.java" timestamp="1546901115062">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
@@ -379,8 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/PublisherPanel.java" />
-      <jump line="16" column="57" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/observer/EventPublisher.java" />
       <jump line="18" column="25" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/PublisherPanel.java" />
       <jump line="23" column="8" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/PublisherPanel.java" />
       <jump line="5" column="54" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SubscriberPanel.java" />
@@ -479,10 +495,12 @@
       <jump line="67" column="26" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Writer.java" />
       <jump line="13" column="28" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/launch/FileLaunch.java" />
       <jump line="14" column="22" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/launch/FileLaunch.java" />
+      <jump line="5" column="30" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/model/Puzzle.java" />
+      <jump line="18" column="30" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/model/Puzzle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Zm9vIA==</text>
+        <text>ArgumentException</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -513,37 +531,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9vIA==</text>
+        <text>ArgumentException</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaXplXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIud3JpdGUoImZvbyAiKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">R3JpZDxJbnRlZ2VyPiByZXA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>2EP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAod3JpdGVyLmhhc0lucHV0KCkpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHdyaXRlci5yZWFkTGluZSgpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoYnVpbGRlci5sZW5ndGgoKSA+IDApIHsKICAgICAgICAgICAgYnVpbGRlci5kZQogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpbmRleCA9IDA7IGluZGV4IDwgbGluZS5sZW5ndGgoKTsgaW5kZXgrKykgewogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2VsbHMucwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -557,10 +575,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudExpbmUgPSByZXAucmVhZExpbmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXJlYWRlci5oYXNJbnB1dCgpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oIlJlYWRlciBkb2VzIG5vdCBoYXZlIGFueSBpbnB1dCIpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>

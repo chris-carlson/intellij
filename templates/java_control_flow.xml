@@ -20,7 +20,7 @@
     </context>
   </template>
   <template name="for" value="for (int $VARIABLE$ = 0; $VARIABLE$ &lt; $LIMIT$; $VARIABLE$++) {&#10;    $END$&#10;}" description="for statement" toReformat="false" toShortenFQNames="true">
-    <variable name="VARIABLE" expression="" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
+    <variable name="VARIABLE" expression="" defaultValue="&quot;index&quot;" alwaysStopAt="true" />
     <variable name="LIMIT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />

@@ -1,0 +1,13 @@
+<application>
+  <component name="libraryTable">
+    <library name="components">
+      <CLASSES>
+        <root url="file://$USER_HOME$/JetBrains/IntelliJ/components" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/JetBrains/IntelliJ/components/src/main/java" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
