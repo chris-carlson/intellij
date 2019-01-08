@@ -48,4 +48,10 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="cval" value="Character.valueOf($NUM$)" description="character value" toReformat="false" toShortenFQNames="true">
+    <variable name="NUM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
