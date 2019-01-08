@@ -53,11 +53,11 @@
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/test/java/com/cac/components/io/ConsumerTest.java" timestamp="1546904558505">
-        <mark key="[" line="73" column="8" />
-        <mark key="]" line="73" column="76" />
-        <mark key="." line="73" column="76" />
-        <mark key="^" line="73" column="76" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/test/java/com/cac/components/io/ConsumerTest.java" timestamp="1546987165656">
+        <mark key="[" line="91" column="42" />
+        <mark key="]" line="92" column="51" />
+        <mark key="." line="92" column="51" />
+        <mark key="^" line="92" column="51" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/attribute/Sizable.java" timestamp="1544994852832">
         <mark key="'" line="7" column="12" />
@@ -111,12 +111,12 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Consumer.java" timestamp="1546904406771">
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Consumer.java" timestamp="1546987172996">
         <mark key="'" line="122" column="4" />
-        <mark key="[" line="48" column="22" />
-        <mark key="]" line="48" column="36" />
-        <mark key="." line="48" column="36" />
-        <mark key="^" line="48" column="36" />
+        <mark key="[" line="53" column="34" />
+        <mark key="]" line="53" column="48" />
+        <mark key="." line="53" column="48" />
+        <mark key="^" line="53" column="48" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SubscriberPanel.java" timestamp="1544908106431">
         <mark key="'" line="5" column="54" />
@@ -506,8 +506,8 @@
       <jump line="122" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Consumer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhDaGFyYWN0ZXIudmFsdWVPZignYScpLCBpbnN0YW5jZS5jb25zdW1lQ2hhcmFjdGVyKCdhJykpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TGlzdDxDaGFyYWN0ZXI+IGNoYXJhY3RlcnM=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -538,7 +538,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">TGlzdDxDaGFyYWN0ZXI+IGNoYXJhY3RlcnM=</text>
+      </register>
+      <register name="m" type="2">
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiYWJjIik7Cg==</text>
       </register>
       <register name="n" type="2">
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiIik7Cg==</text>
@@ -547,7 +550,7 @@
         <text encoding="base64">XDxzaXplXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGNvbnN1bWVTcGVjaWZpY0NoYXJhY3RlcigpIHsKICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiYWJjIik7CiAgICAgICAgQXNzZXJ0aW9ucy5hc3NlcnRFcXVhbHMoQ2hhcmFjdGVyLnZhbHVlT2YoJ2EnKSwgaW5zdGFuY2UuY29uc3VtZUNoYXJhY3RlcignYScpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGNvbnN1bWVPbmVPZigpIHsKICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiYWJjIik7CiAgICAgICAgQXNzZXJ0aW9ucy5hc3NlcnRFcXVhbHMoQ2hhcmFjdGVyLnZhbHVlT2YoJ2EnKSwgaW5zdGFuY2UuY29uc3VtZU9uZU9mKExpc3RzLm5ld0FycmF5TGlzdCgnYScsICdiJykpKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhDaGFyYWN0ZXIudmFsdWVPZignYScpLCBpbnN0YW5jZS5jb25zdW1lQ2hhcmFjdGVyKCdhJykpOwo=</text>
