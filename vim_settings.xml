@@ -53,11 +53,12 @@
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/test/java/com/cac/components/io/ConsumerTest.java" timestamp="1546987165656">
-        <mark key="[" line="91" column="42" />
-        <mark key="]" line="92" column="51" />
-        <mark key="." line="92" column="51" />
-        <mark key="^" line="92" column="51" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/test/java/com/cac/components/io/ConsumerTest.java" timestamp="1546988158104">
+        <mark key="'" line="170" column="35" />
+        <mark key="[" line="50" column="51" />
+        <mark key="]" line="50" column="52" />
+        <mark key="." line="50" column="52" />
+        <mark key="^" line="44" column="30" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/attribute/Sizable.java" timestamp="1544994852832">
         <mark key="'" line="7" column="12" />
@@ -111,12 +112,12 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Consumer.java" timestamp="1546987172996">
-        <mark key="'" line="122" column="4" />
-        <mark key="[" line="53" column="34" />
-        <mark key="]" line="53" column="48" />
-        <mark key="." line="53" column="48" />
-        <mark key="^" line="53" column="48" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Consumer.java" timestamp="1546987936331">
+        <mark key="'" line="126" column="17" />
+        <mark key="[" line="122" column="5" />
+        <mark key="]" line="126" column="17" />
+        <mark key="." line="126" column="17" />
+        <mark key="^" line="126" column="17" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SubscriberPanel.java" timestamp="1544908106431">
         <mark key="'" line="5" column="54" />
@@ -404,11 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="15" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/attribute/Writable.java" />
-      <jump line="52" column="39" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/UiLaunch.java" />
-      <jump line="5" column="87" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/text/HorizontalTextAlignment.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/text/HorizontalTextAlignment.java" />
-      <jump line="25" column="12" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/component/Label.java" />
       <jump line="47" column="27" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/UiLaunch.java" />
       <jump line="14" column="28" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/component/Icon.java" />
       <jump line="23" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/component/Icon.java" />
@@ -504,10 +500,15 @@
       <jump line="29" column="28" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Consumer.java" />
       <jump line="113" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Consumer.java" />
       <jump line="122" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Consumer.java" />
+      <jump line="28" column="8" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Consumer.java" />
+      <jump line="119" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Consumer.java" />
+      <jump line="163" column="68" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/test/java/com/cac/components/io/ConsumerTest.java" />
+      <jump line="126" column="17" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Consumer.java" />
+      <jump line="170" column="35" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/test/java/com/cac/components/io/ConsumerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">TGlzdDxDaGFyYWN0ZXI+IGNoYXJhY3RlcnM=</text>
+        <text>True</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -538,7 +539,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGlzdDxDaGFyYWN0ZXI+IGNoYXJhY3RlcnM=</text>
+        <text>True</text>
       </register>
       <register name="m" type="2">
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiYWJjIik7Cg==</text>
@@ -549,11 +550,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzaXplXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGNvbnN1bWVPbmVPZigpIHsKICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiYWJjIik7CiAgICAgICAgQXNzZXJ0aW9ucy5hc3NlcnRFcXVhbHMoQ2hhcmFjdGVyLnZhbHVlT2YoJ2EnKSwgaW5zdGFuY2UuY29uc3VtZU9uZU9mKExpc3RzLm5ld0FycmF5TGlzdCgnYScsICdiJykpKTsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">IFx0XHJcbiBkZWY=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhDaGFyYWN0ZXIudmFsdWVPZignYScpLCBpbnN0YW5jZS5jb25zdW1lQ2hhcmFjdGVyKCdhJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaHJvd3MoQXMuY2xhc3MsICgpIC0+ICk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -602,22 +603,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhDaGFyYWN0ZXIudmFsdWVPZignYScpLCApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhDaGFyYWN0ZXIudmFsdWVPZignZicpLCBpbnN0YW5jZS5wZWVrKCkpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgdm9pZCB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsKICAgIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXhwZWN0ZWQgIT0gbnVsbCAmJiBjb25zdW1lZENoYXIgIT0gZXhwZWN0ZWQpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiRXhwZWN0ZWQgXCIiICsgZXhwZWN0ZWQgKyAiXCIgYnV0IGNvbnN1bWVkIFwiIiArIGNvbnN1bWVkQ2hhciArICJcIiIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXhwZWN0ZWQgIT0gbnVsbCAmJiBjb25zdW1lZENoYXIgIT0gZXhwZWN0ZWQpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiRXhwZWN0ZWQgXCIiICsgZXhwZWN0ZWQgKyAiXCIgYnV0IGNvbnN1bWVkIFwiIiArIGNvbnN1bWVkQ2hhciArICJcIiIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS5jb25zdW1lV2hpdGVzcGFjZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVwLmlzRW1wdHkoKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKCJDb25zdW1lciBpcyBlbXB0eSIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiYWJjZGVmZ2hpIik7CiAgICAgICAgQXNzZXJ0aW9ucy5hc3NlcnRFcXVhbHMoImFiY2RlZiIsIGluc3RhbmNlLmNvbnN1bWVUaHJvdWdoKCJkZWYiKSk7CiAgICAgICAgQXNzZXJ0aW9ucy5hc3NlcnRFcXVhbHMoImdoaSIsIGluc3RhbmNlLmdldFJlcCgpKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -631,10 +632,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydFRydWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscygiYWJjIiwgaW5zdGFuY2UuY29uc3VtZVRvU2VxdWVuY2UoImRlZiIpKTsKICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscygiZGVmIiwgaW5zdGFuY2UuZ2V0UmVwKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGNvbnN1bWVDaGFyYWN0ZXIxKCkgewogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscygiYWJjIiwgKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
