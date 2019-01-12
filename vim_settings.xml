@@ -113,12 +113,8 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventPublisher.java" timestamp="1547308315222">
-        <mark key="'" line="5" column="7" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="40" />
-        <mark key="." line="5" column="7" />
-        <mark key="^" line="21" column="52" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventPublisher.java" timestamp="1547318263660">
+        <mark key="'" line="17" column="4" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/key/KeyEvent.java" timestamp="1544902713760">
         <mark key="'" line="8" column="10" />
@@ -540,8 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="55" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/data/PuzzleReaderTest.java" />
-      <jump line="8" column="16" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/model/CellModel.java" />
       <jump line="5" column="34" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
       <jump line="8" column="34" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
       <jump line="20" column="63" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/attribute/Writable.java" />
@@ -623,7 +617,6 @@
       <jump line="44" column="45" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/BoxView.java" />
       <jump line="41" column="25" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/PuzzleView.java" />
       <jump line="21" column="52" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventPublisher.java" />
-      <jump line="17" column="18" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventPublisher.java" />
       <jump line="5" column="7" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventPublisher.java" />
       <jump line="22" column="1" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/ItemPublisher.java" />
       <jump line="3" column="19" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventSubscriber.java" />
@@ -640,10 +633,13 @@
       <jump line="16" column="49" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/observer/cell/PuzzleCellSelectionSubscriber.java" />
       <jump line="23" column="38" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/PuzzleView.java" />
       <jump line="34" column="45" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
+      <jump line="33" column="56" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventPublisher.java" />
+      <jump line="7" column="15" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventPublisher.java" />
+      <jump line="17" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventPublisher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>subscribers</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -674,7 +670,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>subscribers</text>
       </register>
       <register name="m" type="2">
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiYWJjIik7Cg==</text>
@@ -685,11 +681,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzaXplXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>BoxView box</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTZXQ8RXZlbnRTdWJzY3JpYmVyPiB0eXBlU3Vic2NyaWJlcnMgPSBzdWJzY3JpYmVycy5nZXQodHlwZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -742,22 +738,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlKCkgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdXp6bGUuZ2V0U2VsZWN0aW9uUHVibGlzaGVyKCkubm90aWZ5U3Vic2NyaWJlcnMoKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpYmVycy5wdXQodHlwZSwgc3Vic2NyaWJlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFBvc2l0aW9uIHBvc2l0aW9uIDogYm94ZXMpIHsKICAgICAgICAgICAgQm94VmlldyBib3ggPSBib3hlcy5nZXQocG9zaXRpb24pOwogICAgICAgICAgICBib3guY2xlYXJCYWNrZ3JvdW5kcygpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgQE92ZXJyaWRlCi8vICAgIHB1YmxpYyB2b2lkIHVwZGF0ZSgpIHsKLy8gICAgICAgIG5vdGlmeVN1YnNjcmliZXJzKCk7Ci8vICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlKCkgewoKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwdXp6bGUuZ2V0U2VsZWN0aW9uUHVibGlzaGVyKCkubm90aWZ5U3Vic2NyaWJlcnMoKTsKCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -771,10 +767,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExpc3Q8RXZlbnRTdWJzY3JpYmVyPiBnZXRTdWJzY3JpYmVycygpIHsKICAgICAgICByZXR1cm4gc3Vic2NyaWJlcnM7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFBvc2l0aW9uIHBvc2l0aW9uIDogYm94ZXMpIHsKICAgICAgICAgICAgQm94VmlldyBib3ggPSBib3hlcy5nZXQocG9zaXRpb24pOwogICAgICAgICAgICBib3guY2xlYXJCYWNrZ3JvdW5kcygpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpYmVycyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">Ly8gICAgQE92ZXJyaWRlCi8vICAgIHB1YmxpYyB2b2lkIHVwZGF0ZSgpIHsKLy8gICAgICAgIG5vdGlmeVN1YnNjcmliZXJzKCk7Ci8vICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
