@@ -13,18 +13,15 @@
         <mark key="." line="12" column="40" />
         <mark key="^" line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/ItemPublisher.java" timestamp="1547308341522">
-        <mark key="'" line="22" column="1" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="40" />
-        <mark key="." line="9" column="0" />
+      <file name="/a.dummy" timestamp="1547310267714">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/model/Cell.java" timestamp="1547261673630">
-        <mark key="'" line="88" column="30" />
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="60" column="20" />
-        <mark key="." line="60" column="20" />
-        <mark key="^" line="60" column="20" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/observer/cell/PuzzleCellSelectionSubscriber.java" timestamp="1547310418368">
+        <mark key="'" line="16" column="49" />
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="33" />
+        <mark key="." line="16" column="49" />
+        <mark key="^" line="17" column="42" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/data/PuzzleReaderTest.java" timestamp="1547261629762">
         <mark key="'" line="29" column="55" />
@@ -40,12 +37,11 @@
         <mark key="." line="16" column="59" />
         <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventSubscriber.java" timestamp="1547308283793">
-        <mark key="'" line="2" column="15" />
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-        <mark key="^" line="2" column="15" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/observer/cell/CellSelectionPublisher.java" timestamp="1547310001703">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="4" column="57" />
+        <mark key="^" line="4" column="57" />
+        <mark key="." line="4" column="57" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/attribute/Writable.java" timestamp="1547262159203">
         <mark key="'" line="20" column="63" />
@@ -54,13 +50,6 @@
         <mark key="^" line="20" column="63" />
         <mark key="." line="20" column="63" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/Container.java" timestamp="1547304676142">
-        <mark key="'" line="20" column="11" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="26" column="5" />
-        <mark key="^" line="11" column="43" />
-        <mark key="." line="11" column="43" />
-      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/observer/EventPublisher.java" timestamp="1544908018429">
         <mark key="'" line="16" column="57" />
         <mark key="[" line="16" column="42" />
@@ -68,29 +57,12 @@
         <mark key="." line="16" column="57" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/mvc/model/PuzzleModelTest.java" timestamp="1547308042922">
-        <mark key="'" line="13" column="47" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/PuzzleView.java" timestamp="1547308128279">
-        <mark key="'" line="41" column="25" />
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="43" column="43" />
-        <mark key="^" line="43" column="43" />
-        <mark key="." line="43" column="43" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/cell/BackgroundMouseHoverListener.java" timestamp="1547267569173">
-        <mark key="'" line="27" column="32" />
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="32" />
-        <mark key="." line="27" column="32" />
-        <mark key="^" line="27" column="32" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/component/Switcher.java" timestamp="1545004738425">
-        <mark key="'" line="35" column="12" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="42" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="32" column="42" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/PuzzleView.java" timestamp="1547310434370">
+        <mark key="'" line="23" column="38" />
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="38" />
+        <mark key="." line="23" column="38" />
+        <mark key="^" line="23" column="38" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/dialog/confirm/OkCancelConfirmDialog.java" timestamp="1546737755838">
         <mark key="'" line="16" column="35" />
@@ -98,27 +70,6 @@
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="35" />
         <mark key="^" line="16" column="35" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/test/java/com/cac/components/collection/PositionIteratorTest.java" timestamp="1547306181996">
-        <mark key="'" line="20" column="64" />
-        <mark key="[" line="20" column="64" />
-        <mark key="]" line="20" column="65" />
-        <mark key="^" line="33" column="71" />
-        <mark key="." line="20" column="65" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/listener/mouse/BackgroundMouseHoverListener.java" timestamp="1547267518861">
-        <mark key="'" line="8" column="31" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="24" column="4" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Resource.java" timestamp="1547263362640">
-        <mark key="'" line="6" column="15" />
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="6" column="48" />
-        <mark key="^" line="6" column="48" />
-        <mark key="." line="6" column="48" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/test/java/com/cac/components/io/ConsumerTest.java" timestamp="1546988158104">
         <mark key="'" line="170" column="35" />
@@ -134,20 +85,6 @@
         <mark key="." line="7" column="12" />
         <mark key="^" line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/pom.xml" timestamp="1547258216955">
-        <mark key="'" line="49" column="22" />
-        <mark key="[" line="49" column="19" />
-        <mark key="]" line="49" column="23" />
-        <mark key="." line="49" column="19" />
-        <mark key="^" line="49" column="5" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/key/KeyListener.java" timestamp="1544890809374">
-        <mark key="'" line="3" column="6" />
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-        <mark key="^" line="3" column="6" />
-      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/key/TestKeyReleaseListener.java" timestamp="1544903715166">
         <mark key="'" line="15" column="49" />
         <mark key="[" line="4" column="0" />
@@ -155,46 +92,12 @@
         <mark key="^" line="15" column="49" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/model/Puzzle.java" timestamp="1547261707169">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/launch/Launcher.java" timestamp="1547264170482">
-        <mark key="'" line="15" column="23" />
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="31" />
-        <mark key="^" line="18" column="31" />
-        <mark key="." line="18" column="31" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/pom.xml" timestamp="1546807961458">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="16" column="15" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="14" column="28" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/collection/Grid.java" timestamp="1547307189512">
-        <mark key="'" line="7" column="50" />
-        <mark key="[" line="70" column="54" />
-        <mark key="]" line="70" column="59" />
-        <mark key="." line="70" column="59" />
-        <mark key="^" line="70" column="59" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/launch/Test.java" timestamp="1547304894311">
-        <mark key="'" line="15" column="48" />
-        <mark key="[" line="15" column="38" />
-        <mark key="]" line="15" column="48" />
-        <mark key="." line="15" column="48" />
-        <mark key="^" line="15" column="48" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/cell/CellMouseClickListener.java" timestamp="1547267455794">
-        <mark key="'" line="16" column="24" />
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="24" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/cell/CellMouseClickListener.java" timestamp="1547310085101">
+        <mark key="'" line="15" column="36" />
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="36" />
+        <mark key="." line="15" column="36" />
+        <mark key="^" line="15" column="36" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Consumer.java" timestamp="1546987936331">
         <mark key="'" line="126" column="17" />
@@ -209,20 +112,6 @@
         <mark key="]" line="8" column="26" />
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/layout/LineLayout.java" timestamp="1544907491552">
-        <mark key="'" line="12" column="36" />
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="36" />
-        <mark key="." line="12" column="36" />
-        <mark key="^" line="12" column="36" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/attribute/Writable.java" timestamp="1544908398575">
-        <mark key="'" line="8" column="15" />
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventPublisher.java" timestamp="1547308315222">
         <mark key="'" line="5" column="7" />
@@ -245,20 +134,6 @@
         <mark key="." line="8" column="43" />
         <mark key="^" line="8" column="43" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/launch/SwingLaunch.java" timestamp="1546809895191">
-        <mark key="'" line="50" column="35" />
-        <mark key="[" line="44" column="5" />
-        <mark key="]" line="45" column="3" />
-        <mark key="." line="45" column="3" />
-        <mark key="^" line="45" column="3" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/key/TestKeyPressListener.java" timestamp="1544906361191">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/component/Frame.java" timestamp="1544994978991">
         <mark key="'" line="12" column="32" />
         <mark key="[" line="12" column="27" />
@@ -280,26 +155,12 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Reader.java" timestamp="1546811505761">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="37" column="3" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/test/java/com/cac/components/collection/GridTest.java" timestamp="1547307155382">
         <mark key="'" line="93" column="89" />
         <mark key="[" line="93" column="8" />
         <mark key="]" line="93" column="89" />
         <mark key="^" line="93" column="89" />
         <mark key="." line="93" column="89" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/Label.java" timestamp="1547265128355">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="27" column="62" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/launch/FileLaunch.java" timestamp="1546811644575">
         <mark key="'" line="14" column="22" />
@@ -308,19 +169,11 @@
         <mark key="." line="14" column="22" />
         <mark key="^" line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/dialog/confirm/YesNoCancelConfirmDialog.java" timestamp="1546737723681">
-        <mark key="'" line="16" column="38" />
-        <mark key="[" line="16" column="37" />
-        <mark key="]" line="16" column="38" />
-        <mark key="." line="16" column="38" />
-        <mark key="^" line="16" column="38" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/BoxView.java" timestamp="1547308127409">
-        <mark key="'" line="44" column="45" />
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="45" />
-        <mark key="^" line="44" column="45" />
-        <mark key="." line="44" column="45" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/.gitignore" timestamp="1546809756776">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/data/PuzzleReader.java" timestamp="1547306510915">
         <mark key="'" line="27" column="0" />
@@ -328,13 +181,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="29" column="29" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/mvc/model/CellTest.java" timestamp="1547261298396">
-        <mark key="'" line="45" column="30" />
-        <mark key="[" line="45" column="25" />
-        <mark key="]" line="45" column="30" />
-        <mark key="." line="45" column="30" />
-        <mark key="^" line="45" column="30" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/SwingLaunch.java" timestamp="1544992884819">
         <mark key="'" line="62" column="73" />
@@ -350,26 +196,12 @@
         <mark key="." line="41" column="39" />
         <mark key="^" line="41" column="38" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/model/CellModel.java" timestamp="1547262349248">
-        <mark key="'" line="8" column="16" />
-        <mark key="[" line="56" column="4" />
-        <mark key="]" line="56" column="10" />
-        <mark key="^" line="56" column="10" />
-        <mark key="." line="56" column="10" />
-      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/component/Label.java" timestamp="1544994810946">
         <mark key="'" line="26" column="12" />
         <mark key="[" line="15" column="62" />
         <mark key="]" line="15" column="72" />
         <mark key="." line="15" column="62" />
         <mark key="^" line="26" column="12" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/dialog/YesNoConfirmDialog.java" timestamp="1546737446349">
-        <mark key="'" line="14" column="29" />
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="14" column="29" />
-        <mark key="^" line="14" column="29" />
-        <mark key="." line="14" column="29" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/TestPanel.java" timestamp="1544907161904">
         <mark key="'" line="8" column="35" />
@@ -378,13 +210,6 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/attribute/Bordered.java" timestamp="1547267370781">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/PublisherPanel.java" timestamp="1544908080922">
         <mark key="'" line="23" column="8" />
         <mark key="[" line="23" column="8" />
@@ -392,26 +217,12 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="23" column="8" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/launch/Launcher.java" timestamp="1547304758336">
-        <mark key="'" line="62" column="31" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="58" column="5" />
-        <mark key="." line="62" column="31" />
-        <mark key="^" line="62" column="31" />
-      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/launch/TestMouseClickListener.java" timestamp="1545004643039">
         <mark key="'" line="10" column="31" />
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
         <mark key="^" line="9" column="50" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/mouse/MouseConnector.java" timestamp="1545004389138">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="37" />
-        <mark key="^" line="4" column="37" />
-        <mark key="." line="4" column="37" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/collection/Array.java" timestamp="1547307776463">
         <mark key="'" line="8" column="13" />
@@ -427,6 +238,247 @@
         <mark key="." line="73" column="4" />
         <mark key="^" line="73" column="4" />
       </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/component/Layer.java" timestamp="1544996038598">
+        <mark key="'" line="30" column="24" />
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="30" column="24" />
+        <mark key="." line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/mvc/model/PuzzleCreator.java" timestamp="1547261598175">
+        <mark key="'" line="13" column="55" />
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="56" />
+        <mark key="." line="13" column="39" />
+        <mark key="^" line="8" column="49" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/collection/PositionIterator.java" timestamp="1547306090101">
+        <mark key="'" line="24" column="26" />
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/dialog/InputDialog.java" timestamp="1546806719252">
+        <mark key="'" line="22" column="20" />
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="22" column="20" />
+        <mark key="." line="22" column="20" />
+        <mark key="^" line="22" column="20" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/launch/UiLaunch.java" timestamp="1547264395580">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/ItemPublisher.java" timestamp="1547310046252">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/model/Cell.java" timestamp="1547261673630">
+        <mark key="'" line="88" column="30" />
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="60" column="20" />
+        <mark key="." line="60" column="20" />
+        <mark key="^" line="60" column="20" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventSubscriber.java" timestamp="1547309931376">
+        <mark key="'" line="2" column="16" />
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/Container.java" timestamp="1547304676142">
+        <mark key="'" line="20" column="11" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="26" column="5" />
+        <mark key="^" line="11" column="43" />
+        <mark key="." line="11" column="43" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/mvc/model/PuzzleModelTest.java" timestamp="1547308042922">
+        <mark key="'" line="13" column="47" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/component/Switcher.java" timestamp="1545004738425">
+        <mark key="'" line="35" column="12" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="42" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="32" column="42" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/test/java/com/cac/components/collection/PositionIteratorTest.java" timestamp="1547306181996">
+        <mark key="'" line="20" column="64" />
+        <mark key="[" line="20" column="64" />
+        <mark key="]" line="20" column="65" />
+        <mark key="^" line="33" column="71" />
+        <mark key="." line="20" column="65" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/listener/mouse/BackgroundMouseHoverListener.java" timestamp="1547267518861">
+        <mark key="'" line="8" column="31" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Resource.java" timestamp="1547263362640">
+        <mark key="'" line="6" column="15" />
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="48" />
+        <mark key="^" line="6" column="48" />
+        <mark key="." line="6" column="48" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/pom.xml" timestamp="1547258216955">
+        <mark key="'" line="49" column="22" />
+        <mark key="[" line="49" column="19" />
+        <mark key="]" line="49" column="23" />
+        <mark key="." line="49" column="19" />
+        <mark key="^" line="49" column="5" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/key/KeyListener.java" timestamp="1544890809374">
+        <mark key="'" line="3" column="6" />
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/model/Puzzle.java" timestamp="1547261707169">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/pom.xml" timestamp="1546807961458">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="16" column="15" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/collection/Grid.java" timestamp="1547307189512">
+        <mark key="'" line="7" column="50" />
+        <mark key="[" line="70" column="54" />
+        <mark key="]" line="70" column="59" />
+        <mark key="." line="70" column="59" />
+        <mark key="^" line="70" column="59" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/launch/Test.java" timestamp="1547304894311">
+        <mark key="'" line="15" column="48" />
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="48" />
+        <mark key="." line="15" column="48" />
+        <mark key="^" line="15" column="48" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/layout/LineLayout.java" timestamp="1544907491552">
+        <mark key="'" line="12" column="36" />
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/attribute/Writable.java" timestamp="1544908398575">
+        <mark key="'" line="8" column="15" />
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/launch/SwingLaunch.java" timestamp="1546809895191">
+        <mark key="'" line="50" column="35" />
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="45" column="3" />
+        <mark key="." line="45" column="3" />
+        <mark key="^" line="45" column="3" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/key/TestKeyPressListener.java" timestamp="1544906361191">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/Reader.java" timestamp="1546811505761">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="37" column="3" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/Label.java" timestamp="1547265128355">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="62" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/observer/cell/CellSelectionSubscriber.java" timestamp="1547310251115">
+        <mark key="'" line="14" column="55" />
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="55" />
+        <mark key="^" line="14" column="55" />
+        <mark key="." line="14" column="55" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/dialog/confirm/YesNoCancelConfirmDialog.java" timestamp="1546737723681">
+        <mark key="'" line="16" column="38" />
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="38" />
+        <mark key="." line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/BoxView.java" timestamp="1547310261185">
+        <mark key="'" line="23" column="86" />
+        <mark key="[" line="23" column="55" />
+        <mark key="]" line="23" column="86" />
+        <mark key="^" line="23" column="86" />
+        <mark key="." line="23" column="86" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/mvc/model/CellTest.java" timestamp="1547261298396">
+        <mark key="'" line="45" column="30" />
+        <mark key="[" line="45" column="25" />
+        <mark key="]" line="45" column="30" />
+        <mark key="." line="45" column="30" />
+        <mark key="^" line="45" column="30" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/model/CellModel.java" timestamp="1547262349248">
+        <mark key="'" line="8" column="16" />
+        <mark key="[" line="56" column="4" />
+        <mark key="]" line="56" column="10" />
+        <mark key="^" line="56" column="10" />
+        <mark key="." line="56" column="10" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/dialog/YesNoConfirmDialog.java" timestamp="1546737446349">
+        <mark key="'" line="14" column="29" />
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+        <mark key="." line="14" column="29" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/attribute/Bordered.java" timestamp="1547267370781">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/launch/Launcher.java" timestamp="1547304758336">
+        <mark key="'" line="62" column="31" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="58" column="5" />
+        <mark key="." line="62" column="31" />
+        <mark key="^" line="62" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1546810515816">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/listener/mouse/MouseConnector.java" timestamp="1545004389138">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+      </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/attribute/Holder.java" timestamp="1544994695698">
         <mark key="'" line="8" column="28" />
         <mark key="[" line="8" column="21" />
@@ -434,12 +486,12 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" timestamp="1547267616304">
-        <mark key="'" line="59" column="19" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="65" column="28" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" timestamp="1547310439523">
+        <mark key="'" line="34" column="45" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="50" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="34" column="50" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/text/HorizontalTextAlignment.java" timestamp="1544908985928">
         <mark key="'" line="16" column="0" />
@@ -447,13 +499,6 @@
         <mark key="]" line="15" column="5" />
         <mark key="^" line="5" column="87" />
         <mark key="." line="5" column="87" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/component/Layer.java" timestamp="1544996038598">
-        <mark key="'" line="30" column="24" />
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="30" column="24" />
-        <mark key="." line="30" column="24" />
-        <mark key="^" line="30" column="24" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/ui/attributes/Focusable.java" timestamp="1544903788568">
         <mark key="'" line="4" column="44" />
@@ -467,13 +512,6 @@
         <mark key="[" line="13" column="47" />
         <mark key="]" line="13" column="55" />
         <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/mvc/model/PuzzleCreator.java" timestamp="1547261598175">
-        <mark key="'" line="13" column="55" />
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="13" column="56" />
-        <mark key="." line="13" column="39" />
-        <mark key="^" line="8" column="49" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/model/PuzzleModel.java" timestamp="1547308073371">
         <mark key="'" line="39" column="28" />
@@ -489,42 +527,19 @@
         <mark key="^" line="12" column="40" />
         <mark key="." line="12" column="62" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/collection/PositionIterator.java" timestamp="1547306090101">
-        <mark key="'" line="24" column="26" />
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="26" />
-        <mark key="^" line="24" column="26" />
-        <mark key="." line="24" column="26" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/tetris/pom.xml" timestamp="1546808840014">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1547306880503">
+      <file name="/fragment.java" timestamp="1547310271854">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/dialog/InputDialog.java" timestamp="1546806719252">
-        <mark key="'" line="22" column="20" />
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="22" column="20" />
-        <mark key="." line="22" column="20" />
-        <mark key="^" line="22" column="20" />
-      </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/launch/UiLaunch.java" timestamp="1547264395580">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="30" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/mvc/model/CellTest.java" />
-      <jump line="10" column="5" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/data/PuzzleReaderTest.java" />
-      <jump line="20" column="60" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/data/PuzzleReaderTest.java" />
-      <jump line="24" column="43" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/data/PuzzleReaderTest.java" />
-      <jump line="15" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/data/PuzzleReader.java" />
-      <jump line="14" column="14" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/data/PuzzleReader.java" />
-      <jump line="30" column="105" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/data/PuzzleReaderTest.java" />
-      <jump line="13" column="55" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/mvc/model/PuzzleCreator.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/data/PuzzleReaderTest.java" />
       <jump line="29" column="55" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/data/PuzzleReaderTest.java" />
       <jump line="8" column="16" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/model/CellModel.java" />
       <jump line="5" column="34" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
@@ -534,7 +549,6 @@
       <jump line="15" column="89" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
       <jump line="35" column="40" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
       <jump line="36" column="24" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
-      <jump line="34" column="62" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
       <jump line="37" column="44" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
       <jump line="25" column="17" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
       <jump line="28" column="53" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
@@ -569,7 +583,6 @@
       <jump line="19" column="49" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/PuzzleView.java" />
       <jump line="20" column="74" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/PuzzleView.java" />
       <jump line="26" column="88" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/PuzzleView.java" />
-      <jump line="23" column="22" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/PuzzleView.java" />
       <jump line="18" column="64" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/PuzzleView.java" />
       <jump line="13" column="29" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/PuzzleView.java" />
       <jump line="20" column="11" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/Container.java" />
@@ -579,10 +592,8 @@
       <jump line="17" column="37" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/BoxView.java" />
       <jump line="41" column="27" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/BoxView.java" />
       <jump line="19" column="32" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/cell/CellMouseClickListener.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
       <jump line="10" column="42" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/PuzzleView.java" />
       <jump line="18" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/cell/CellMouseClickListener.java" />
-      <jump line="28" column="38" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/BoxView.java" />
       <jump line="25" column="18" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/PuzzleView.java" />
       <jump line="5" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/collection/Grid.java" />
       <jump line="49" column="38" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/BoxView.java" />
@@ -614,12 +625,25 @@
       <jump line="21" column="52" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventPublisher.java" />
       <jump line="17" column="18" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventPublisher.java" />
       <jump line="5" column="7" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventPublisher.java" />
-      <jump line="2" column="15" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventSubscriber.java" />
       <jump line="22" column="1" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/ItemPublisher.java" />
+      <jump line="3" column="19" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventSubscriber.java" />
+      <jump line="2" column="16" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventSubscriber.java" />
+      <jump line="5" column="7" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/ItemPublisher.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
+      <jump line="29" column="27" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
+      <jump line="56" column="51" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
+      <jump line="15" column="36" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/cell/CellMouseClickListener.java" />
+      <jump line="26" column="40" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/BoxView.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/BoxView.java" />
+      <jump line="14" column="55" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/observer/cell/CellSelectionSubscriber.java" />
+      <jump line="23" column="86" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/BoxView.java" />
+      <jump line="16" column="49" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/observer/cell/PuzzleCellSelectionSubscriber.java" />
+      <jump line="23" column="38" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/PuzzleView.java" />
+      <jump line="34" column="45" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpYmVycyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>this</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -650,7 +674,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>this</text>
       </register>
       <register name="m" type="2">
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiYWJjIik7Cg==</text>
@@ -661,11 +685,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzaXplXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpYmVycyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+      <register name="0" type="4">
+        <text>BoxView box</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -718,22 +742,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBEaW1lbnNpb24gZ2V0RGltZW5zaW9uKCkgewogICAgICAgIHJldHVybiBjZWxscy5nZXREaW1lbnNpb24oKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgdXBkYXRlKCkgewoKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0PEludGVnZXI+IG51bWJlcnMgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgICAgICAgIGZvciAoaW50IHJvd0luZGV4ID0gMDsgcm93SW5kZXggPCBjZWxscy5nZXREaW1lbnNpb24oKS5nZXROdW1Sb3dzKCk7IHJvd0luZGV4KyspIHsKICAgICAgICAgICAgICAgIENlbGxNb2RlbCBjZWxsID0gY2VsbHMuZ2V0KG5ldyBQb3NpdGlvbihyb3dJbmRleCwgY29sdW1uSW5kZXgpKTsKICAgICAgICAgICAgICAgIG51bWJlcnMuYWRkKGNlbGwuZ2V0TnVtYmVyKCkpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdXp6bGUuZ2V0U2VsZWN0aW9uUHVibGlzaGVyKCkubm90aWZ5U3Vic2NyaWJlcnMoKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJyYXk8Q2VsbE1vZGVsPiByb3cgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFBvc2l0aW9uIHBvc2l0aW9uIDogYm94ZXMpIHsKICAgICAgICAgICAgQm94VmlldyBib3ggPSBib3hlcy5nZXQocG9zaXRpb24pOwogICAgICAgICAgICBib3guY2xlYXJCYWNrZ3JvdW5kcygpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgY29sdW1uSW5kZXggPSAwOyBjb2x1bW5JbmRleCA8IGNlbGxzLmdldERpbWVuc2lvbigpLmdldE51bUNvbHVtbnMoKTsgY29sdW1uSW5kZXgrKykgewogICAgICAgICAgICAgICAgQ2VsbE1vZGVsIGNlbGwgPSBjZWxscy5nZXQobmV3IFBvc2l0aW9uKHJvd0luZGV4LCBjb2x1bW5JbmRleCkpOwogICAgICAgICAgICAgICAgbnVtYmVycy5hZGQoY2VsbC5nZXROdW1iZXIoKSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgQE92ZXJyaWRlCi8vICAgIHB1YmxpYyB2b2lkIHVwZGF0ZSgpIHsKLy8gICAgICAgIG5vdGlmeVN1YnNjcmliZXJzKCk7Ci8vICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhBcnJheUNyZWF0b3IuY3JlYXRlKCIyLDUiKSwgaW5zdGFuY2UuZ2V0Q29sdW1uKDQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydEVxdWFscyhBcnJheUNyZWF0b3IuY3JlYXRlKCI0LDUsNiIpLCBpbnN0YW5jZS5nZXRSb3coMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -747,10 +771,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIExpc3Q8RXZlbnRTdWJzY3JpYmVyPiBnZXRTdWJzY3JpYmVycygpIHsKICAgICAgICByZXR1cm4gc3Vic2NyaWJlcnM7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpYmVycyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
