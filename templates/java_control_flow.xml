@@ -120,4 +120,10 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="forg" value="for (int rowIndex = 0; rowIndex &lt; $VAR$.getDimension().getNumRows(); rowIndex++) {&#10;    for (int columnIndex = 0; columnIndex &lt; $VAR$.getDimension().getNumColumns(); columnIndex++) {&#10;        $END$ &#10;    }&#10;}" description="grid for statement" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
