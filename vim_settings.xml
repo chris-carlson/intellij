@@ -210,12 +210,11 @@
         <mark key="^" line="27" column="62" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/cell/CellNumberListener.java" timestamp="1548011272020">
-        <mark key="'" line="52" column="41" />
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="21" column="34" />
-        <mark key="." line="21" column="34" />
-        <mark key="^" line="21" column="34" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/cell/CellNumberListener.java" timestamp="1548014241970">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/BoxView.java" timestamp="1547431710497">
         <mark key="'" line="19" column="0" />
@@ -336,7 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/EventSubscriber.java" />
       <jump line="17" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/ItemPublisher.java" />
       <jump line="2" column="31" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/ItemPublisher.java" />
       <jump line="3" column="21" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/ItemSubscriber.java" />
@@ -436,10 +434,11 @@
       <jump line="22" column="8" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/launch/Launcher.java" />
       <jump line="45" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/mvc/model/PuzzleModelTest.java" />
       <jump line="44" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/mvc/model/PuzzleModelTest.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/cell/CellNumberListener.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cellPosition</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2V5RXZlbnQpOwo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -485,7 +484,7 @@
         <text>1234341221434321</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQb3NpdGlvbiBib3hQb3NpdGlvbiA9IDsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2V5RXZlbnQpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -538,23 +537,23 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBQb3NpdGlvbiBib3hQb3NpdGlvbiA9IDsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gIWJveC5jb250YWlucyhudW1iZXIpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>.stream().map(CellModel::getNumber)
                 .collect(Collectors.toList())</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGNvbHVtbiA9CiAgICAgICAgICAgICAgICBjZWxscy5nZXRDb2x1bW4oY29sdW1uSW5kZXgpLnRvTGlzdCgpLnN0cmVhbSgpLm1hcChDZWxsTW9kZWw6OmdldE51bWJlcikuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICByZXR1cm4gIWNvbHVtbi5jb250YWlucyhudW1iZXIpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -567,11 +566,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bmV3IFBvc2l0aW9uKGNlbGxQb3NpdGlvbi5nZXRSb3coKSAvIGJveERpbWVuc2lvbi5nZXROdW1Sb3dzKCksCiAgICAgICAgICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0RnJhbWUgZnJhbWUgPSBuZXcgVGVzdEZyYW1lKCJTdWRva3UiLCBjb250YWluZXIpOwogICAgICAgIGZyYW1lLmZvbygpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">bmV3IFBvc2l0aW9uKGNlbGxQb3NpdGlvbi5nZXRSb3coKSAvIGJveERpbWVuc2lvbi5nZXROdW1Sb3dzKCksCiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
