@@ -54,4 +54,19 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="varc" value="$TYPE$ $NAME$ = new $TYPE$($PARAMETERS$);" description="variable constructor initialization" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="sin" value="$TYPE$ $NAME$ = $TYPE$.getInstance();" description="singleton initialization" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>

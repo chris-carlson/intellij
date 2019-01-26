@@ -1,44 +1,44 @@
 <templateSet group="java_swing">
-  <template name="panel" value="javax.swing.JPanel $NAME$ = new JPanel();" description="JPanel initialization" toReformat="false" toShortenFQNames="true">
+  <template name="panel" value="javax.swing.JPanel $NAME$ = new JPanel();" description="JPanel initialization" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="NAME" expression="" defaultValue="&quot;panel&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="label" value="javax.swing.JLabel $NAME$ = new JLabel($TEXT$);" description="JLabel initialization" toReformat="false" toShortenFQNames="true">
+  <template name="label" value="javax.swing.JLabel $NAME$ = new JLabel($TEXT$);" description="JLabel initialization" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="NAME" expression="" defaultValue="&quot;label&quot;" alwaysStopAt="true" />
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="flow" value="new java.awt.FlowLayout(java.awt.FlowLayout.CENTER, $SIZE$, $SIZE$)" description="FlowLayout initialization" toReformat="false" toShortenFQNames="true">
+  <template name="flow" value="new java.awt.FlowLayout(java.awt.FlowLayout.CENTER, $SIZE$, $SIZE$)" description="FlowLayout initialization" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="SIZE" expression="" defaultValue="&quot;0&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="box" value="new java.awt.BoxLayout($CONTAINER$, java.awt.BoxLayout.$AXIS$)" description="BoxLayout initialization" toReformat="false" toShortenFQNames="true">
+  <template name="box" value="new java.awt.BoxLayout($CONTAINER$, java.awt.BoxLayout.$AXIS$)" description="BoxLayout initialization" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="CONTAINER" expression="" defaultValue="&quot;this&quot;" alwaysStopAt="true" />
     <variable name="AXIS" expression="" defaultValue="&quot;PAGE_AXIS&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="bore" value="new javax.swing.border.EmptyBorder($SIZE$, $SIZE$, $SIZE$, $SIZE$)" description="empty border initialization" toReformat="false" toShortenFQNames="true">
+  <template name="bore" value="new javax.swing.border.EmptyBorder($SIZE$, $SIZE$, $SIZE$, $SIZE$)" description="empty border initialization" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="SIZE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="borl" value="new javax.swing.border.LineBorder($COLOR$, $SIZE$)" description="line border initialization" toReformat="false" toShortenFQNames="true">
+  <template name="borl" value="new javax.swing.border.LineBorder($COLOR$, $SIZE$)" description="line border initialization" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="COLOR" expression="" defaultValue="&quot;java.awt.Color.BLACK&quot;" alwaysStopAt="true" />
     <variable name="SIZE" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="dim" value="new java.awt.Dimension($WIDTH$, $HEIGHT$)" description="dimension initialization" toReformat="false" toShortenFQNames="true">
+  <template name="dim" value="new java.awt.Dimension($WIDTH$, $HEIGHT$)" description="dimension initialization" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="WIDTH" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="HEIGHT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
