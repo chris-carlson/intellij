@@ -6,12 +6,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/CellController.java" timestamp="1548619514696">
-        <mark key="'" line="68" column="39" />
-        <mark key="[" line="68" column="40" />
-        <mark key="]" line="68" column="40" />
-        <mark key="." line="68" column="40" />
-        <mark key="^" line="68" column="40" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/CellController.java" timestamp="1548626780878">
+        <mark key="'" line="76" column="36" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/observer/ItemPublisher.java" timestamp="1547401031367">
         <mark key="'" line="2" column="31" />
@@ -226,12 +225,11 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="24" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/CellClearController.java" timestamp="1548039976615">
-        <mark key="'" line="18" column="41" />
-        <mark key="[" line="17" column="72" />
-        <mark key="]" line="18" column="41" />
-        <mark key="." line="18" column="41" />
-        <mark key="^" line="18" column="41" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/CellClearController.java" timestamp="1548626785714">
+        <mark key="'" line="18" column="25" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/mvc/model/CellModelTest.java" timestamp="1547345240252">
         <mark key="'" line="73" column="58" />
@@ -472,12 +470,12 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" timestamp="1548619573085">
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" timestamp="1548626814568">
         <mark key="'" line="31" column="83" />
-        <mark key="[" line="31" column="83" />
-        <mark key="]" line="31" column="84" />
-        <mark key="." line="31" column="84" />
-        <mark key="^" line="31" column="87" />
+        <mark key="[" line="75" column="26" />
+        <mark key="]" line="75" column="58" />
+        <mark key="." line="75" column="58" />
+        <mark key="^" line="75" column="58" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/cell/CellClearSelectListener.java" timestamp="1548039779116">
         <mark key="'" line="20" column="39" />
@@ -485,6 +483,13 @@
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
         <mark key="^" line="20" column="39" />
+      </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/cell/CellClearListener.java" timestamp="1548626583110">
+        <mark key="'" line="21" column="48" />
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="48" />
+        <mark key="^" line="21" column="48" />
+        <mark key="." line="21" column="48" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/listener/mouse/preset/BackgroundMousePressListener.java" timestamp="1548097263118">
         <mark key="'" line="25" column="43" />
@@ -532,12 +537,12 @@
         <mark key="]" line="23" column="50" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/PuzzleController.java" timestamp="1548621342822">
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/PuzzleController.java" timestamp="1548626224758">
         <mark key="'" line="105" column="39" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="77" column="52" />
+        <mark key="[" line="84" column="52" />
+        <mark key="]" line="84" column="67" />
+        <mark key="." line="84" column="67" />
+        <mark key="^" line="84" column="67" />
       </file>
       <file name="/fragment.java" timestamp="1548520753821">
         <mark key="[" line="0" column="0" />
@@ -560,9 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="53" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/MenuView.java" />
-      <jump line="21" column="80" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/MenuView.java" />
-      <jump line="62" column="14" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/GameController.java" />
       <jump line="33" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/MenuView.java" />
       <jump line="11" column="32" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/launch/Test.java" />
       <jump line="24" column="30" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/io/File.java" />
@@ -660,10 +662,13 @@
       <jump line="68" column="39" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/CellController.java" />
       <jump line="54" column="43" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
       <jump line="31" column="83" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
+      <jump line="76" column="36" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/CellController.java" />
+      <jump line="21" column="48" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/cell/CellClearListener.java" />
+      <jump line="18" column="25" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/CellClearController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>DEFAULT_BACKGROUND_COLOR</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -694,7 +699,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>DEFAULT_BACKGROUND_COLOR</text>
       </register>
       <register name="m" type="2">
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiYWJjIik7Cg==</text>
@@ -706,10 +711,10 @@
         <text encoding="base64">XDxzaXplXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNsZWFyQmFja2dyb3VuZEhpZ2hsaWdodCgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0QmFja2dyb3VuZChERUZBVUxUX0JBQ0tHUk9VTkRfQ09MT1IpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -762,22 +767,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxscy50b0xpc3QoKS5zdHJlYW0oKS5maWx0ZXIoY2VsbCAtPiBjZWxsLmdldE51bWJlcigpLmVxdWFscyhudW1iZXIpKQogICAgICAgICAgICAgICAgLmZvckVhY2goQ2VsbENvbnRyb2xsZXI6OmhpZ2hsaWdodE51bWJlckZvcmVncm91bmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxscy50b0xpc3QoKS5zdHJlYW0oKS5maWx0ZXIoQ2VsbENvbnRyb2xsZXI6OmlzU2VsZWN0ZWQpLmZvckVhY2goY2VsbCAtPiBjZWxsUG9zaXRpb25zLnApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNlbGwuaXNIaWdobGlnaHRlZCgpKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzSGlnaGxpZ2h0ZWQoKSB7CiAgICAgICAgcmV0dXJuIHZpZXcuaXNIaWdobGlnaHRlZCgpOwogICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciBnZXROdW1iZXIoS2V5IGtleSkgewogICAgICAgIGlmIChrZXkgPT0gS2V5Lk5VTV8xKSB7CiAgICAgICAgICAgIHJldHVybiAxOwogICAgICAgIH0gZWxzZSBpZiAoa2V5ID09IEtleS5OVU1fMikgewogICAgICAgICAgICByZXR1cm4gMjsKICAgICAgICB9IGVsc2UgaWYgKGtleSA9PSBLZXkuTlVNXzMpIHsKICAgICAgICAgICAgcmV0dXJuIDM7CiAgICAgICAgfSBlbHNlIGlmIChrZXkgPT0gS2V5Lk5VTV80KSB7CiAgICAgICAgICAgIHJldHVybiA0OwogICAgICAgIH0gZWxzZSBpZiAoa2V5ID09IEtleS5OVU1fNSkgewogICAgICAgICAgICByZXR1cm4gNTsKICAgICAgICB9IGVsc2UgaWYgKGtleSA9PSBLZXkuTlVNXzYpIHsKICAgICAgICAgICAgcmV0dXJuIDY7CiAgICAgICAgfSBlbHNlIGlmIChrZXkgPT0gS2V5Lk5VTV83KSB7CiAgICAgICAgICAgIHJldHVybiA3OwogICAgICAgIH0gZWxzZSBpZiAoa2V5ID09IEtleS5OVU1fOCkgewogICAgICAgICAgICByZXR1cm4gODsKICAgICAgICB9IGVsc2UgaWYgKGtleSA9PSBLZXkuTlVNXzkpIHsKICAgICAgICAgICAgcmV0dXJuIDk7CiAgICAgICAgfQogICAgICAgIHJldHVybiAwOwogICAgfQoK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzSGlnaGxpZ2h0ZWQoKSB7CiAgICAgICAgcmV0dXJuIGlzSGlnaGxpZ2h0ZWQ7CiAgICB9Cgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">dGVkKCkgewogICAgICAgIHJldHVybiBpc0hpZ2hsaWdodGVkOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -791,10 +796,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQuZ2V0S2V5KCkgPT0gS2V5Lk4pIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpc0hpZ2hsaWdodGVkID0gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
