@@ -438,12 +438,12 @@
         <mark key="." line="16" column="42" />
         <mark key="^" line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/puzzle/PuzzleController.java" timestamp="1548810814520">
-        <mark key="'" line="101" column="8" />
-        <mark key="[" line="80" column="12" />
-        <mark key="]" line="83" column="51" />
-        <mark key="." line="83" column="51" />
-        <mark key="^" line="83" column="51" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/puzzle/PuzzleController.java" timestamp="1548814896610">
+        <mark key="'" line="102" column="8" />
+        <mark key="[" line="88" column="36" />
+        <mark key="]" line="88" column="36" />
+        <mark key="." line="88" column="36" />
+        <mark key="^" line="88" column="36" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/Label.java" timestamp="1548097920163">
         <mark key="'" line="23" column="86" />
@@ -711,8 +711,8 @@
       <jump line="16" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/puzzle/PuzzleToggleValidationController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -743,7 +743,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, Integer number</text>
+        <text>;</text>
       </register>
       <register name="m" type="2">
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiYWJjIik7Cg==</text>
