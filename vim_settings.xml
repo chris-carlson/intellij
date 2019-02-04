@@ -512,6 +512,7 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="30" />
       </file>
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" timestamp="1549236833329" />
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/cell/CellClearController.java" timestamp="1549235299035">
         <mark key="'" line="16" column="61" />
         <mark key="[" line="20" column="21" />
