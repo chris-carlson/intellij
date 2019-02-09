@@ -574,12 +574,12 @@
         <mark key="." line="21" column="52" />
         <mark key="^" line="22" column="44" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/model/PuzzleModel.java" timestamp="1549149609660">
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/model/PuzzleModel.java" timestamp="1549747216447">
         <mark key="'" line="176" column="4" />
-        <mark key="[" line="95" column="36" />
-        <mark key="]" line="95" column="36" />
-        <mark key="." line="95" column="51" />
-        <mark key="^" line="89" column="49" />
+        <mark key="[" line="86" column="36" />
+        <mark key="]" line="86" column="44" />
+        <mark key="." line="86" column="44" />
+        <mark key="^" line="86" column="44" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/game/PuzzleQuitListener.java" timestamp="1548516950813">
         <mark key="'" line="43" column="25" />
@@ -730,7 +730,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, horizontalAlignment, verticalAlignment</text>
+        <text>hasNumber</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -761,7 +761,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, horizontalAlignment, verticalAlignment</text>
+        <text>hasNumber</text>
       </register>
       <register name="m" type="2">
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiYWJjIik7Cg==</text>
