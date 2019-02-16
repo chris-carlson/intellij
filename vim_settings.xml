@@ -594,12 +594,12 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" timestamp="1550330558079">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="76" column="26" />
-        <mark key="]" line="76" column="35" />
-        <mark key="^" line="76" column="35" />
-        <mark key="." line="76" column="35" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" timestamp="1550331612455">
+        <mark key="'" line="82" column="4" />
+        <mark key="[" line="32" column="58" />
+        <mark key="]" line="32" column="58" />
+        <mark key="^" line="32" column="55" />
+        <mark key="." line="32" column="60" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/cell/CellClearController.java" timestamp="1550330636376">
         <mark key="'" line="15" column="51" />
@@ -668,7 +668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="24" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/puzzle/PuzzleNumberListener.java" />
       <jump line="7" column="24" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/PuzzleNumberController.java" />
       <jump line="20" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/puzzle/PuzzleNumberListener.java" />
       <jump line="29" column="39" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/puzzle/PuzzleNumberListener.java" />
@@ -768,10 +767,11 @@
       <jump line="41" column="49" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/launch/Test.java" />
       <jump line="2" column="33" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/menu/MenuLoadListener.java" />
       <jump line="3" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellState.java" />
+      <jump line="82" column="4" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NumberBlock</text>
+        <text>192</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -802,7 +802,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>NumberBlock</text>
+        <text>192</text>
       </register>
       <register name="m" type="2">
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiYWJjIik7Cg==</text>
