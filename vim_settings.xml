@@ -614,12 +614,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="20" column="37" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/MenuView.java" timestamp="1550356841556">
-        <mark key="'" line="36" column="69" />
-        <mark key="[" line="22" column="55" />
-        <mark key="]" line="22" column="94" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="36" column="69" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/MenuView.java" timestamp="1550358024494">
+        <mark key="'" line="40" column="69" />
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="76" />
+        <mark key="." line="35" column="26" />
+        <mark key="^" line="35" column="26" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/mvc/model/CellTest.java" timestamp="1547261298396">
         <mark key="'" line="45" column="30" />
@@ -884,8 +884,8 @@
       <jump line="32" column="55" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/launch/Test.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>new Font(FontType.SANS_SERIF, FontStyle.PLAIN, 24)</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -916,7 +916,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>32</text>
+        <text>238, 238, 238</text>
       </register>
       <register name="m" type="2">
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiYWJjIik7Cg==</text>
@@ -928,10 +928,10 @@
         <text encoding="base64">XDxzaXplXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>Button button</text>
+        <text>new Font(FontType.SANS_SERIF, FontStyle.PLAIN, 24)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -971,19 +971,19 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBidXR0b24uc3MK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBidXR0b24uc3MK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBzdGF0aWMgY2xhc3MgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBzdGF0aWMgY2xhc3MgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWluZXIuc2V0TGF5b3V0KG5ldyBMKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -997,10 +997,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb250YWluZXIuc2V0TGF5b3V0KG5ldyBMKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBGcmFtZSBmcmFtZSA9IG5ldyBGcmFtZSgiVGVzdCIsIENsb3NlT3BlcmF0aW9uLk5PVEhJTkcpOwogICAgICAgIGZyYW1lLmFkZFdpbmRvd0xpc3RlbmVyKG5ldyBXaW5kb3dDb25maXJtQ2xvc2VMaXN0ZW5lcihmcmFtZSkpOwogICAgICAgIGZyYW1lLnNob3coKTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
