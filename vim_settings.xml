@@ -643,12 +643,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="20" column="37" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/MenuView.java" timestamp="1550366921693">
-        <mark key="'" line="40" column="8" />
-        <mark key="[" line="57" column="5" />
-        <mark key="]" line="60" column="28" />
-        <mark key="^" line="60" column="28" />
-        <mark key="." line="60" column="28" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/MenuView.java" timestamp="1550449261503">
+        <mark key="'" line="58" column="30" />
+        <mark key="[" line="57" column="56" />
+        <mark key="]" line="58" column="30" />
+        <mark key="^" line="58" column="30" />
+        <mark key="." line="58" column="30" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/test/java/com/cac/sudoku/mvc/model/CellTest.java" timestamp="1547261298396">
         <mark key="'" line="45" column="30" />
@@ -789,7 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/listener/cell/CellHighlightListener.java" />
       <jump line="23" column="53" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/cell/CellSelectController.java" />
       <jump line="70" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/cell/CellController.java" />
       <jump line="25" column="61" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/cell/CellSelectController.java" />
@@ -889,10 +888,11 @@
       <jump line="10" column="54" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/form/FormElementColors.java" />
       <jump line="18" column="8" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/form/Button.java" />
       <jump line="24" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/form/Checkbox.java" />
+      <jump line="58" column="30" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/MenuView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbG9ycyA9IGNvbG9yczsK</text>
+        <text encoding="base64">ICAgICAgICBCdXR0b25Db2xvcnMgY29sb3JzID0KICAgICAgICAgICAgICAgIG5ldyBCdXR0b25Db2xvcnMoKTsK</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -923,7 +923,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, FormElementColors colors, Action checkAction, Action uncheckAction</text>
+        <text>DEFAULT_BUTTON_BACKGROUND, HIGHLIGHT_BUTTON_BACKGROUND, DISABLED_BUTTON_BACKGROUND</text>
       </register>
       <register name="m" type="2">
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiYWJjIik7Cg==</text>
@@ -938,7 +938,7 @@
         <text encoding="base64">ICAgICAgICBwYW5lbC5hZGRNb3VzZUxpc3RlbmVyKG5ldyBDaGVja2JveENsaWNrTGlzdGVuZXIodGhpcywgY2hlY2tBY3Rpb24sIHVuY2hlY2tBY3Rpb24pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbG9ycyA9IGNvbG9yczsK</text>
+        <text encoding="base64">ICAgICAgICBCdXR0b25Db2xvcnMgY29sb3JzID0KICAgICAgICAgICAgICAgIG5ldyBCdXR0b25Db2xvcnMoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -975,22 +975,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYW5lbC5hZGRNb3VzZUxpc3RlbmVyKG5ldyBDaGVja2JveENsaWNrTGlzdGVuZXIodGhpcywgY2hlY2tBY3Rpb24sIHVuY2hlY2tBY3Rpb24pKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbG9ycyA9IGNvbG9yczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRNb3VzZUxpc3RlbmVyKG5ldyBCdXR0b25DbGlja0xpc3RlbmVyKHRoaXMsIGFjdGlvbikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYW5lbC5hZGRNb3VzZUxpc3RlbmVyKG5ldyBDaGVja2JveENsaWNrTGlzdGVuZXIodGhpcywgY2hlY2tBY3Rpb24sIHVuY2hlY2tBY3Rpb24pKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYW5lbC5hZGRNb3VzZUxpc3RlbmVyKAogICAgICAgICAgICAgICAgbmV3ICh0aGlzLCBjb2xvcnMuZ2V0RGVmYXVsdENvbG9yKCksIGNvbG9ycy5nZXRIaWdobGlnaHRDb2xvcigpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRNb3VzZUxpc3RlbmVyKG5ldyBCdXR0b25DbGlja0xpc3RlbmVyKHRoaXMsIGFjdGlvbikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYW5lbC5hZGRNb3VzZUxpc3RlbmVyKAogICAgICAgICAgICAgICAgbmV3ICh0aGlzLCBjb2xvcnMuZ2V0RGVmYXVsdENvbG9yKCksIGNvbG9ycy5nZXRIaWdobGlnaHRDb2xvcigpKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRNb3VzZUxpc3RlbmVyKG5ldyBCdXR0b25Nb3VzZUhvdmVyTGlzdGVuZXIodGhpcywgY29sb3JzLmdldERlZmF1bHRDb2xvcigpLCBjb2xvcnMuZ2V0SGlnaGxpZ2h0Q29sb3IoKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRNb3VzZUxpc3RlbmVyKG5ldyBCdXR0b25Nb3VzZUhvdmVyTGlzdGVuZXIodGhpcywgY29sb3JzLmdldERlZmF1bHRDb2xvcigpLCBjb2xvcnMuZ2V0SGlnaGxpZ2h0Q29sb3IoKSkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1004,10 +1004,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRNb3VzZUxpc3RlbmVyKG5ldyBCdXR0b25DbGlja0xpc3RlbmVyKHRoaXMsIGFjdGlvbikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRlZmF1bHRDb2xvciA9IGRlZmF1bHRDb2xvcjsKICAgICAgICB0aGlzLmhpZ2hsaWdodENvbG9yID0gaGlnaGxpZ2h0Q29sb3I7CiAgICAgICAgdGhpcy5kaXNhYmxlZENvbG9yID0gZGVmYXVsdENvbG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICBhZGRNb3VzZUxpc3RlbmVyKG5ldyBCdXR0b25DbGlja0xpc3RlbmVyKHRoaXMsIGFjdGlvbikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
