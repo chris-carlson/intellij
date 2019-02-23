@@ -230,12 +230,12 @@
         <mark key="." line="23" column="49" />
         <mark key="^" line="23" column="49" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/form/Button.java" timestamp="1550448119123">
-        <mark key="'" line="18" column="8" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="23" column="5" />
-        <mark key="^" line="21" column="39" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/form/Button.java" timestamp="1550885253307">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="25" />
+        <mark key="^" line="17" column="28" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/data/PuzzleReader.java" timestamp="1547592311093">
         <mark key="'" line="29" column="49" />
@@ -643,8 +643,8 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="20" column="37" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/MenuView.java" timestamp="1550449261503">
-        <mark key="'" line="58" column="30" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/MenuView.java" timestamp="1550885277778">
+        <mark key="'" line="58" column="32" />
         <mark key="[" line="57" column="56" />
         <mark key="]" line="58" column="30" />
         <mark key="^" line="58" column="30" />
@@ -789,7 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="53" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/cell/CellSelectController.java" />
       <jump line="70" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/cell/CellController.java" />
       <jump line="25" column="61" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/cell/CellSelectController.java" />
       <jump line="16" column="22" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/puzzle/PuzzleNumberController.java" />
@@ -888,11 +887,12 @@
       <jump line="10" column="54" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/form/FormElementColors.java" />
       <jump line="18" column="8" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/form/Button.java" />
       <jump line="24" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/form/Checkbox.java" />
-      <jump line="58" column="30" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/MenuView.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/JetBrains/IntelliJ/components/src/main/java/com/cac/components/ui/component/form/Button.java" />
+      <jump line="58" column="32" filename="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/MenuView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBCdXR0b25Db2xvcnMgY29sb3JzID0KICAgICAgICAgICAgICAgIG5ldyBCdXR0b25Db2xvcnMoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpc0VuYWJsZWQgPSB0cnVlOwo=</text>
       </register>
       <register name="b" type="4">
         <text />
@@ -923,7 +923,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DEFAULT_BUTTON_BACKGROUND, HIGHLIGHT_BUTTON_BACKGROUND, DISABLED_BUTTON_BACKGROUND</text>
+        <text>HorizontalAlignment</text>
       </register>
       <register name="m" type="2">
         <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiYWJjIik7Cg==</text>
@@ -935,7 +935,7 @@
         <text encoding="base64">XDxzaXplXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYW5lbC5hZGRNb3VzZUxpc3RlbmVyKG5ldyBDaGVja2JveENsaWNrTGlzdGVuZXIodGhpcywgY2hlY2tBY3Rpb24sIHVuY2hlY2tBY3Rpb24pKTsK</text>
+        <text encoding="base64">ICAgICAgICBpc0VuYWJsZWQgPSB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBCdXR0b25Db2xvcnMgY29sb3JzID0KICAgICAgICAgICAgICAgIG5ldyBCdXR0b25Db2xvcnMoKTsK</text>
