@@ -1,5 +1,6 @@
 <templateSet group="java_methods">
-  <template name="meth" value="public $TYPE$ $NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="public method declaration" toReformat="false" toShortenFQNames="true">
+  <template name="meth" value="$VISIBILITY$ $TYPE$ $NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="public method declaration" toReformat="false" toShortenFQNames="true">
+    <variable name="VISIBILITY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="&quot;void&quot;" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
@@ -7,7 +8,8 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="meths" value="public static $TYPE$ $NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="public static method declaration" toReformat="false" toShortenFQNames="true">
+  <template name="meths" value="$VISIBILITY$ static $TYPE$ $NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="public static method declaration" toReformat="false" toShortenFQNames="true">
+    <variable name="VISIBILITY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="&quot;void&quot;" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
@@ -33,23 +35,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="methr" value="private $TYPE$ $NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="private method declaration" toReformat="false" toShortenFQNames="true">
-    <variable name="TYPE" expression="" defaultValue="&quot;void&quot;" alwaysStopAt="true" />
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
-  <template name="methsr" value="private static $TYPE$ $NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="private static method declaration" toReformat="false" toShortenFQNames="true">
-    <variable name="TYPE" expression="" defaultValue="&quot;void&quot;" alwaysStopAt="true" />
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
-  </template>
-  <template name="sin" value="private static $CLASS$ instance = new $CLASS$();&#10;&#10;public static $CLASS$ getInstance() {&#10;    return instance;&#10;}" description="singleton instance declaration" toReformat="false" toShortenFQNames="true">
+  <template name="sing" value="private static $CLASS$ instance = new $CLASS$();&#10;&#10;public static $CLASS$ getInstance() {&#10;    return instance;&#10;}" description="singleton instance declaration" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />

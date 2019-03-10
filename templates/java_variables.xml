@@ -14,7 +14,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="vart" value="this.$VAR$ = $VAR$;" description="this assignment" toReformat="false" toShortenFQNames="true">
+  <template name="vartp" value="this.$VAR$ = $VAR$;" description="this assignment from parameter" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
@@ -35,20 +35,20 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="varp" value="private $TYPE$ $NAME$;" description="private variable declaration" toReformat="false" toShortenFQNames="true">
+  <template name="varn" value="private $TYPE$ $NAME$;" description="instance variable declaration" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="ival" value="Integer.valueOf($NUM$)" description="integer value" toReformat="false" toShortenFQNames="true">
+  <template name="vali" value="Integer.valueOf($NUM$)" description="integer value" toReformat="false" toShortenFQNames="true">
     <variable name="NUM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="cval" value="Character.valueOf($NUM$)" description="character value" toReformat="false" toShortenFQNames="true">
+  <template name="valc" value="Character.valueOf($NUM$)" description="character value" toReformat="false" toShortenFQNames="true">
     <variable name="NUM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
@@ -62,9 +62,16 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="sin" value="$TYPE$ $NAME$ = $TYPE$.getInstance();" description="singleton initialization" toReformat="false" toShortenFQNames="true">
+  <template name="sing" value="$TYPE$ $NAME$ = $TYPE$.getInstance();" description="singleton initialization" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="vart" value="this.$VAR$ = $VALUE$;" description="this assignment" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>

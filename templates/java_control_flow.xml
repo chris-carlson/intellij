@@ -13,20 +13,20 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="while" value="while ($CONDITION$) {&#10;    $END$&#10;}" description="while statement" toReformat="false" toShortenFQNames="true">
+  <template name="while" value="while ($CONDITION$) {&#10;    $END$&#10;}" description="while loop" toReformat="false" toShortenFQNames="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="for" value="for (int $VARIABLE$ = 0; $VARIABLE$ &lt; $LIMIT$; $VARIABLE$++) {&#10;    $END$&#10;}" description="for statement" toReformat="false" toShortenFQNames="true">
-    <variable name="VARIABLE" expression="" defaultValue="&quot;index&quot;" alwaysStopAt="true" />
+  <template name="for" value="for (int $VAR$ = 0; $VAR$ &lt; $LIMIT$; $VAR$++) {&#10;    $END$&#10;}" description="for loop" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="LIMIT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="fore" value="for ($TYPE$ $ITEM$ : $COLLECTION$) {&#10;    $END$&#10;}" description="for each statement" toReformat="false" toShortenFQNames="true">
+  <template name="fore" value="for ($TYPE$ $ITEM$ : $COLLECTION$) {&#10;    $END$&#10;}" description="for each loop" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="COLLECTION" expression="" defaultValue="" alwaysStopAt="true" />
@@ -100,7 +100,7 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="nlp" value="$EXPRESSION$ == null" description="positive null check" toReformat="false" toShortenFQNames="true">
+  <template name="nullp" value="$EXPRESSION$ == null" description="positive null check" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
@@ -114,16 +114,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="nln" value="$EXPRESSION$ != null" description="negative null check" toReformat="false" toShortenFQNames="true">
+  <template name="nulln" value="$EXPRESSION$ != null" description="negative null check" toReformat="false" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
-    </context>
-  </template>
-  <template name="forg" value="for (int rowIndex = 0; rowIndex &lt; $VAR$.getDimension().getNumRows(); rowIndex++) {&#10;    for (int columnIndex = 0; columnIndex &lt; $VAR$.getDimension().getNumColumns(); columnIndex++) {&#10;        $END$ &#10;    }&#10;}" description="grid for statement" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>

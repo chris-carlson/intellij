@@ -24,18 +24,11 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="asth" value="org.junit.jupiter.api.Assertions.assertThrows($CLASS$.class, () -&gt; $STATEMENT$);" description="assert exception is thrown" toReformat="false" toShortenFQNames="true">
+  <template name="asth" value="org.junit.jupiter.api.Assertions.assertThrows($CLASS$.class, () -&gt; $EXPRESSION$);" description="assert exception is thrown" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS" expression="" defaultValue="&quot;IllegalArgumentException&quot;" alwaysStopAt="true" />
-    <variable name="STATEMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
-    </context>
-  </template>
-  <template name="eqt" value="@Test&#10;void checkEquals() {&#10;    $TYPE$ $VAR$1 = new $TYPE$();&#10;    $TYPE$ $VAR$2 = new $TYPE$();&#10;    new com.google.common.testing.EqualsTester().addEqualityGroup($VAR$1, $VAR$1)&#10;        .addEqualityGroup($VAR$2, $VAR$2).testEquals();&#10;}" description="test equals" toReformat="false" toShortenFQNames="true">
-    <variable name="TYPE" expression="substringBefore(className(), &quot;Test&quot;)" defaultValue="" alwaysStopAt="false" />
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
 </templateSet>
