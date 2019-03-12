@@ -2,7 +2,4 @@
   <component name="DependencyUISettings">
     <option name="SCOPE_TYPE" value="file" />
   </component>
-  <component name="UISettings">
-    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
-  </component>
 </application>

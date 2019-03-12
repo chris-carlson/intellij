@@ -62,7 +62,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="sing" value="$TYPE$ $NAME$ = $TYPE$.getInstance();" description="singleton initialization" toReformat="false" toShortenFQNames="true">
+  <template name="singi" value="$TYPE$ $NAME$ = $TYPE$.getInstance();" description="singleton instance initialization" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -74,6 +74,12 @@
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="sings" value="private static $CLASS$ instance = new $CLASS$();&#10;&#10;public static $CLASS$ getInstance() {&#10;    return instance;&#10;}" description="singleton instance setup" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
 </templateSet>
