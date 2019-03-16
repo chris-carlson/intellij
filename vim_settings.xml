@@ -792,12 +792,12 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" timestamp="1550886265157">
-        <mark key="'" line="103" column="79" />
-        <mark key="[" line="103" column="25" />
-        <mark key="]" line="103" column="80" />
-        <mark key="^" line="103" column="24" />
-        <mark key="." line="103" column="25" />
+      <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/view/CellView.java" timestamp="1552768276952">
+        <mark key="'" line="104" column="79" />
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="33" />
+        <mark key="^" line="45" column="33" />
+        <mark key="." line="45" column="33" />
       </file>
       <file name="$USER_HOME$/JetBrains/IntelliJ/sudoku/src/main/java/com/cac/sudoku/mvc/controller/cell/CellClearController.java" timestamp="1550330636376">
         <mark key="'" line="15" column="51" />
