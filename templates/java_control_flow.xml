@@ -120,4 +120,12 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="ter" value="$CONDITION$ ? $EXPRESSION1$ : $EXPRESSION2$" description="ternary expression" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPRESSION1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPRESSION2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
