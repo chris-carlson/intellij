@@ -31,4 +31,11 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="insta" value="instance = new $TYPE$($PARAMS$);" description="JUnit instance variable initialization" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="substringBefore(className(), &quot;Test&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
