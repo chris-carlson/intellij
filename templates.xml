@@ -839,6 +839,82 @@
           <option name="key" value="pic+" />
         </TemplateKey>
         <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="div" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="span" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="h1" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="h2" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="h3" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="h4" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="h5" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="h6" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="ol" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="ul" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="title" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="p" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="head" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="header" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="b" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="i" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="table" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="td" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Zen HTML" />
+          <option name="key" value="li" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="Zen XSL" />
           <option name="key" value="tmatch" />
         </TemplateKey>
@@ -1284,6 +1360,10 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Kotlin" />
+          <option name="key" value="maina" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
           <option name="key" value="maino" />
         </TemplateKey>
         <TemplateKey>
@@ -1365,6 +1445,10 @@
         <TemplateKey>
           <option name="groupName" value="Kotlin" />
           <option name="key" value="psvm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="psvma" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Kotlin" />
@@ -1565,6 +1649,110 @@
         <TemplateKey>
           <option name="groupName" value="AndroidXML" />
           <option name="key" value="lh" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="fori" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="cmd" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="cmd success check" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="tar compress" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="tar decompress" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="mkdir" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="git branch create" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="git push" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="git commit" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="curl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="rm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="find" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="heredoc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="xargs" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="system info linux" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="system info mac" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="system kernel info" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array create" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array all" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array at index" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array length" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array delete" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array delete at" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array set element" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array add" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script" />
+          <option name="key" value="array iteration" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="Shell Script Hidden" />

@@ -1,5 +1,5 @@
 <templateSet group="java_methods">
-  <template name="meth" value="$VISIBILITY$ $TYPE$ $NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="public method declaration" toReformat="false" toShortenFQNames="true">
+  <template name="meth" value="$VISIBILITY$ $TYPE$ $NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="public method declaration" toReformat="false" toShortenFQNames="false">
     <variable name="VISIBILITY" expression="" defaultValue="&quot;public&quot;" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="&quot;void&quot;" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
@@ -8,7 +8,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="meths" value="$VISIBILITY$ static $TYPE$ $NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="public static method declaration" toReformat="false" toShortenFQNames="true">
+  <template name="meths" value="$VISIBILITY$ static $TYPE$ $NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="public static method declaration" toReformat="false" toShortenFQNames="false">
     <variable name="VISIBILITY" expression="" defaultValue="&quot;public&quot;" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="&quot;void&quot;" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
@@ -41,7 +41,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="methd" value="default $TYPE$ $NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="default method declaration" toReformat="false" toShortenFQNames="true">
+  <template name="methd" value="default $TYPE$ $NAME$($PARAMETERS$) {&#10;    $END$&#10;}" description="default method declaration" toReformat="false" toShortenFQNames="false">
     <variable name="TYPE" expression="" defaultValue="&quot;void&quot;" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
