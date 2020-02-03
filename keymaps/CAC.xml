@@ -1,5 +1,1 @@
-<keymap version="1" name="CAC" parent="$default">
-  <action id="NewClass">
-    <keyboard-shortcut first-keystroke="ctrl n" second-keystroke="ctrl j" />
-  </action>
-</keymap>
+<keymap version="1" name="CAC" parent="$default" />
