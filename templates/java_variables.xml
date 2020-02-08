@@ -14,7 +14,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="vartp" value="this.$VAR$ = $VAR$;" description="this assignment from parameter" toReformat="false" toShortenFQNames="true">
+  <template name="vart" value="this.$VAR$ = $VAR$;" description="this assignment from parameter" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
@@ -66,13 +66,6 @@
   <template name="singi" value="$TYPE$ $NAME$ = $TYPE$.getInstance();" description="singleton instance initialization" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-    </context>
-  </template>
-  <template name="vart" value="this.$VAR$ = $VALUE$;" description="this assignment" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
