@@ -1132,6 +1132,10 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="other" />
+          <option name="key" value="main" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="other" />
           <option name="key" value="toar" />
         </TemplateKey>
         <TemplateKey>
