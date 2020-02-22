@@ -24,7 +24,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="asth" value="org.junit.jupiter.api.Assertions.assertThrows($CLASS$.class, () -&gt; $EXPRESSION$);" description="assert exception is thrown" toReformat="false" toShortenFQNames="true">
+  <template name="asr" value="org.junit.jupiter.api.Assertions.assertThrows($CLASS$.class, () -&gt; $EXPRESSION$);" description="assert exception is thrown" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS" expression="" defaultValue="&quot;IllegalArgumentException&quot;" alwaysStopAt="true" />
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -36,6 +36,17 @@
     <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="eqt" value="new com.google.common.testing.EqualsTester().addEqualityGroup(instance1, instance1).addEqualityGroup(instance2, instance2)$END$.testEquals();" description="equals tester" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="aeg" value=".addEqualityGroup(instance$NUM$, instance$NUM$)" description="add equality group" toReformat="false" toShortenFQNames="true">
+    <variable name="NUM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
 </templateSet>
