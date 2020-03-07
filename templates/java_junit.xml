@@ -18,8 +18,9 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="inst" value="private $TYPE$ instance;" description="JUnit instance variable declaration" toReformat="false" toShortenFQNames="true">
+  <template name="inst" value="$TYPE$ instance = new $TYPE$($ARGS$);" description="JUnit instance variable declaration" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="substringBefore(className(), &quot;Test&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
@@ -27,13 +28,6 @@
   <template name="asr" value="org.junit.jupiter.api.Assertions.assertThrows($CLASS$.class, () -&gt; $EXPRESSION$);" description="assert exception is thrown" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS" expression="" defaultValue="&quot;IllegalArgumentException&quot;" alwaysStopAt="true" />
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_STATEMENT" value="true" />
-    </context>
-  </template>
-  <template name="insta" value="instance = new $TYPE$($PARAMS$);" description="JUnit instance variable initialization" toReformat="false" toShortenFQNames="true">
-    <variable name="TYPE" expression="substringBefore(className(), &quot;Test&quot;)" defaultValue="" alwaysStopAt="false" />
-    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
