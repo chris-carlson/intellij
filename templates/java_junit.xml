@@ -38,7 +38,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="eqt" value="new com.google.common.testing.EqualsTester().addEqualityGroup(instance1, instance1).addEqualityGroup(instance2, instance2)$END$.testEquals();" description="equals tester" toReformat="false" toShortenFQNames="true">
+  <template name="eqt" value="$TYPE$ instance1 = new $TYPE$($ARGS1$);&#10;$TYPE$ instance2 = new $TYPE$($ARGS2$);&#10;new com.google.common.testing.EqualsTester().addEqualityGroup(instance1, instance1).addEqualityGroup(instance2, instance2)$END$.testEquals();" description="equals tester" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="substringBefore(className(), &quot;Test&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="ARGS1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARGS2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
