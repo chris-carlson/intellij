@@ -58,4 +58,9 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="colm" value=".collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue))" description="collect map" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
