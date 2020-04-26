@@ -5,6 +5,24 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxjZWxsc1w+</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
+        <entry encoding="base64">XDxzaXplXD4=</entry>
+        <entry encoding="base64">XDxpbnRcPg==</entry>
+        <entry encoding="base64">XDxhY2NlbnRDb2xvclw+</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
+        <entry encoding="base64">XDxsYXllclw+</entry>
+        <entry encoding="base64">XDxudWxsXD4=</entry>
+        <entry>2</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
@@ -107,6 +125,1069 @@
         <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1586016011375">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityGraphBuilder.java" timestamp="1586015870350">
+        <mark key="'" line="9" column="71" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="13" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/player/PlayerTest.java" timestamp="1586912447355">
+        <mark key="'" line="22" column="63" />
+        <mark key="[" line="21" column="60" />
+        <mark key="]" line="22" column="63" />
+        <mark key="." line="22" column="63" />
+        <mark key="^" line="22" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/ConcertPerformerTest.java" timestamp="1586913467673">
+        <mark key="'" line="30" column="42" />
+        <mark key="[" line="32" column="76" />
+        <mark key="]" line="34" column="83" />
+        <mark key="." line="34" column="83" />
+        <mark key="^" line="34" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/Distance.java" timestamp="1586719555508">
+        <mark key="'" line="7" column="18" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/launch/ToString.java" timestamp="1585533377526">
+        <mark key="'" line="15" column="64" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="63" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityBuilder.java" timestamp="1586012806561">
+        <mark key="'" line="9" column="55" />
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="9" column="55" />
+        <mark key="^" line="9" column="55" />
+        <mark key="." line="9" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/CityTest.java" timestamp="1585533419198">
+        <mark key="'" line="34" column="102" />
+        <mark key="[" line="34" column="102" />
+        <mark key="]" line="34" column="102" />
+        <mark key="^" line="34" column="102" />
+        <mark key="." line="34" column="102" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/launch/CityGrapher.java" timestamp="1586015892139">
+        <mark key="'" line="21" column="8" />
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="18" />
+        <mark key="." line="32" column="18" />
+        <mark key="^" line="32" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/game/GameSettings.java" timestamp="1586719633054">
+        <mark key="'" line="6" column="50" />
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="6" column="50" />
+        <mark key="^" line="6" column="50" />
+        <mark key="." line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/data/CardManager.java" timestamp="1586912642223">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="10" />
+        <mark key="." line="19" column="10" />
+        <mark key="^" line="19" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/data/CardManagerTest.java" timestamp="1586015489133">
+        <mark key="'" line="28" column="33" />
+        <mark key="[" line="38" column="36" />
+        <mark key="]" line="38" column="51" />
+        <mark key="." line="38" column="51" />
+        <mark key="^" line="38" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityStrategy.java" timestamp="1586719058917">
+        <mark key="'" line="3" column="32" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/CityBuilderTest.java" timestamp="1586012987435">
+        <mark key="'" line="29" column="51" />
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="29" column="51" />
+        <mark key="." line="29" column="51" />
+        <mark key="^" line="29" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/ConcertPerformer.java" timestamp="1586913860338">
+        <mark key="'" line="16" column="40" />
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="16" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityInfo.java" timestamp="1586912458927">
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="10" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/PathFinder.java" timestamp="1586015571431">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="18" />
+        <mark key="." line="42" column="18" />
+        <mark key="^" line="42" column="18" />
+      </file>
+      <file name="/fragment.java" timestamp="1586719260389">
+        <mark key="s" line="0" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/player/Player.java" timestamp="1586827072977">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="56" column="71" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/PathFinder.java" />
+      <jump line="29" column="83" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/launch/CityGrapher.java" />
+      <jump line="32" column="30" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/PathFinderTest.java" />
+      <jump line="12" column="86" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityBuilder.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityBuilder.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/CityBuilderTest.java" />
+      <jump line="14" column="4" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/resources/city_graph.json" />
+      <jump line="6" column="8" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/launch/Test.java" />
+      <jump line="15" column="63" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/launch/Test.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/launch/CityGrapher.java" />
+      <jump line="23" column="79" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/PathFinder.java" />
+      <jump line="18" column="94" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/PathFinderTest.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/PathFinder.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/launch/CityGrapher.java" />
+      <jump line="15" column="15" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/CityGraphBuilder.java" />
+      <jump line="13" column="75" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/CityGraphBuilder.java" />
+      <jump line="31" column="8" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/launch/CityGrapher.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/launch/CityGrapher.java" />
+      <jump line="24" column="13" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/CityBuilderTest.java" />
+      <jump line="26" column="69" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/CityBuilderTest.java" />
+      <jump line="6" column="4" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityBuilder.java" />
+      <jump line="12" column="16" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/CityBuilderTest.java" />
+      <jump line="14" column="16" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/CityBuilderTest.java" />
+      <jump line="18" column="88" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/CityBuilderTest.java" />
+      <jump line="15" column="64" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/launch/ToString.java" />
+      <jump line="34" column="102" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/CityTest.java" />
+      <jump line="10" column="8" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityBuilder.java" />
+      <jump line="11" column="12" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityBuilder.java" />
+      <jump line="13" column="12" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityBuilder.java" />
+      <jump line="16" column="20" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityBuilder.java" />
+      <jump line="8" column="21" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityBuilder.java" />
+      <jump line="26" column="8" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/launch/CityGrapher.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/launch/CityGrapher.java" />
+      <jump line="11" column="10" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/data/CardManager.java" />
+      <jump line="13" column="79" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/data/CardManagerTest.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/data/CardManager.java" />
+      <jump line="9" column="23" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/data/CardManagerTest.java" />
+      <jump line="12" column="51" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/data/CardManagerTest.java" />
+      <jump line="25" column="62" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/launch/CityGrapher.java" />
+      <jump line="9" column="55" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityBuilder.java" />
+      <jump line="17" column="16" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/CityBuilderTest.java" />
+      <jump line="28" column="68" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/CityBuilderTest.java" />
+      <jump line="29" column="51" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/CityBuilderTest.java" />
+      <jump line="28" column="85" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/data/CardManagerTest.java" />
+      <jump line="37" column="42" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/data/CardManager.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/data/CardManager.java" />
+      <jump line="38" column="83" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/data/CardManagerTest.java" />
+      <jump line="46" column="8" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/data/CardManagerTest.java" />
+      <jump line="43" column="8" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/data/CardManagerTest.java" />
+      <jump line="47" column="57" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/data/CardManagerTest.java" />
+      <jump line="43" column="38" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/data/CardManager.java" />
+      <jump line="42" column="27" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/data/CardManagerTest.java" />
+      <jump line="45" column="40" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/data/CardManagerTest.java" />
+      <jump line="23" column="34" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/data/CardManager.java" />
+      <jump line="33" column="12" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/data/CardManager.java" />
+      <jump line="17" column="4" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/data/CardManager.java" />
+      <jump line="54" column="19" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/data/CardManager.java" />
+      <jump line="61" column="3" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/data/CardManager.java" />
+      <jump line="45" column="19" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/data/CardManager.java" />
+      <jump line="56" column="36" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/data/CardManager.java" />
+      <jump line="54" column="17" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/data/CardManagerTest.java" />
+      <jump line="19" column="65" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/data/CardManager.java" />
+      <jump line="24" column="33" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/data/CardManagerTest.java" />
+      <jump line="9" column="71" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityGraphBuilder.java" />
+      <jump line="23" column="8" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/launch/CityGrapher.java" />
+      <jump line="5" column="46" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/ConcertPerformer.java" />
+      <jump line="13" column="36" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/player/Player.java" />
+      <jump line="14" column="8" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/player/PlayerTest.java" />
+      <jump line="15" column="68" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/player/PlayerTest.java" />
+      <jump line="14" column="16" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/player/Player.java" />
+      <jump line="7" column="55" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/ConcertPerformer.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/ConcertPerformer.java" />
+      <jump line="3" column="32" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityStrategy.java" />
+      <jump line="5" column="72" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/game/GameSettings.java" />
+      <jump line="6" column="66" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/ConcertPerformer.java" />
+      <jump line="9" column="51" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/ConcertPerformer.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/ConcertPerformer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/ConcertPerformer.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/data/CardManager.java" />
+      <jump line="7" column="18" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/Distance.java" />
+      <jump line="12" column="82" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/ConcertPerformer.java" />
+      <jump line="6" column="50" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/game/GameSettings.java" />
+      <jump line="10" column="85" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/ConcertPerformer.java" />
+      <jump line="17" column="214" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/ConcertPerformerTest.java" />
+      <jump line="20" column="8" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/ConcertPerformerTest.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/ConcertPerformerTest.java" />
+      <jump line="6" column="18" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityInfo.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/player/Player.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/player/Player.java" />
+      <jump line="19" column="40" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/player/PlayerTest.java" />
+      <jump line="20" column="51" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/player/PlayerTest.java" />
+      <jump line="22" column="63" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/player/PlayerTest.java" />
+      <jump line="8" column="17" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityInfo.java" />
+      <jump line="10" column="8" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityInfo.java" />
+      <jump line="25" column="40" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/ConcertPerformerTest.java" />
+      <jump line="22" column="107" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/ConcertPerformerTest.java" />
+      <jump line="29" column="42" filename="$USER_HOME$/Documents/programming/java/rock_band/src/test/java/cac/rockband/city/ConcertPerformerTest.java" />
+      <jump line="20" column="47" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/ConcertPerformer.java" />
+      <jump line="17" column="25" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/ConcertPerformer.java" />
+      <jump line="16" column="40" filename="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/ConcertPerformer.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
+      </register>
+      <register name="b" type="4">
+        <text />
+      </register>
+      <register name="e" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="i" type="2">
+        <text encoding="base64">ICAgICAgICBDYXJkTWFuYWdlcjxJbnRlZ2VyPiBpbnN0YW5jZSA9IG5ldyBDYXJkTWFuYWdlcjw+KG5ldyBEZWNrPD4oTGlzdHMubmV3QXJyYXlMaXN0KDEsIDIsIDMsIDQsIDUpKSk7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>Lists.newArrayList(city1, city2, city3)</text>
+      </register>
+      <register name="m" type="2">
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiYWJjIik7Cg==</text>
+      </register>
+      <register name="n" type="2">
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IG5ldyBDb25zdW1lcigiIik7Cg==</text>
+      </register>
+      <register name="/" type="4">
+        <text>2</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBHZXR0ZXIKICAgIHByaXZhdGUgQ2FyZE1hbmFnZXI8Q2l0eT4gY2l0aWVzOwo=</text>
+      </register>
+      <register name="p" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgImNpdHkiOiAiT01BSEEiLAogICAgICAiZGlzdGFuY2UiOiA0CiAgICB9LAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="94" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBTZXQgY3VycmVudCBjaXR5IHRvIHNlbGVjdGVkIGNpdHkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBDYXJkTWFuYWdlcjxDaXR5PiBjaXRpZXMgPSBwbGF5ZXIuZ2V0Q2l0aWVzKCk7Cg==</text>
+      </register>
+      <register name="s" type="2">
+        <text encoding="base64">ICAgICAgICBDYXJkTWFuYWdlcjxJbnRlZ2VyPiBpbnN0YW5jZSA9CiAgICAgICAgICAgICAgICBuZXcgQ2FyZE1hbmFnZXI8PihuZXcgRGVjazw+KExpc3RzLm5ld0FycmF5TGlzdCg0LCA1KSksIExpc3RzLm5ld0FycmF5TGlzdCgxLCAyLCAzKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBDSVRZX1NFTEVDVElPTl9TSVpFID0gNTsKCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">VgogICAgcHVibGljIHZvaWQgaW5pdGlhbGl6ZUNpdGllcygpIHsKICAgICAgICBjaXRpZXMuaW5pdGlhbGl6ZVNlbGVjdGlvbihDSVRZX1NFTEVDVElPTl9TSVpFKTsKICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBDaXR5IGNpdHkxID0gbmV3IENpdHkoQ2l0eU5hbWUuQ09MVU1CVVMsIE1hcEJ1aWxkZXIuYnVpbGRNYXAoTWFwLmVudHJ5KENpdHlOYW1lLklORElBTkFQT0xJUywgbmV3IERpc3RhbmNlKDIpKSwKICAgICAgICAgICAgICAgIE1hcC5lbnRyeShDaXR5TmFtZS5CT1NUT04sIG5ldyBEaXN0YW5jZSg3LCA2KSksIE1hcC5lbnRyeShDaXR5TmFtZS5ERU5WRVIsIG5ldyBEaXN0YW5jZSgxNCwgMTMpKSkpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAogICAgcHVibGljIERpc3RhbmNlKCkgewogICAgICAgIAogICAgfQo=</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="56" code="0" mods="0" />
+          <key char="43" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="66" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="65535" code="35" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="67" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="43" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="71" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="49" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="43" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="55" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL1Jvdy9Db2x1bW4vZw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>2</last-search>
+      <last-offset />
+      <last-pattern>2</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxzaXplXD4=</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
