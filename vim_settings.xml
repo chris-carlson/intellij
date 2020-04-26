@@ -230,12 +230,10 @@
         <mark key="." line="16" column="40" />
         <mark key="^" line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityInfo.java" timestamp="1586912458927">
-        <mark key="'" line="10" column="8" />
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="10" column="8" />
-        <mark key="." line="10" column="8" />
-        <mark key="^" line="10" column="8" />
+      <file name="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/CityInfo.java" timestamp="1587931281709">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/programming/java/rock_band/src/main/java/cac/rockband/city/PathFinder.java" timestamp="1586015571431">
         <mark key="'" line="9" column="0" />
@@ -244,7 +242,7 @@
         <mark key="." line="42" column="18" />
         <mark key="^" line="42" column="18" />
       </file>
-      <file name="/fragment.java" timestamp="1586719260389">
+      <file name="/fragment.java" timestamp="1587931255844">
         <mark key="s" line="0" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
